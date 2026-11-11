@@ -1,4 +1,4 @@
-# Handover – Stand 2026-11-11 (KDP-Paperback: Größen, Schriften, Umschlag)
+# Handover – Stand 2026-11-11 (Pharao-Druckcover, KDP-Größen, Schriften)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
 > Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md) - dort
@@ -6,6 +6,41 @@
 > (Abschnitt 1 + 5) lesen, dann den Stand melden und auf die Aufgabe warten.
 > **Diese Datei erst lesen, wenn die konkrete Aufgabe sie braucht.**
 > Einstiegskosten und Hebel (gemessen): [kontextanalyse.md](./kontextanalyse.md).
+
+## Letzte Session (2026-11-11 spaeter, `pharao`: Druckcover 4k + 6x9-Satz + Wrap)
+
+Branch **`main`**, gepusht (`32ce84b`). Pharao hatte bis dahin **kein**
+Druckcover im KDP-Sinn: `cover-print.png` war 1024x1536 (~182 dpi) und damit
+unter dem 300-dpi-Minimum, und seit dem A-D-Vergleich (2026-09-21/27) war kein
+Print-Satz mehr gebaut worden - die Schrift-Fixes (`ee90790`) fehlten ihm also.
+
+- **Cover-4k-Neulauf** (`gpt_image_2_5`, `2:3`, `resolution 4k`,
+  `quality medium`, Job `eca4c437`, 1,25 Credits): Motiv wie das Ebook-Cover
+  (Pharao im Profil, Sonnenscheibe, Heer, Tempel, Obelisk), **Typografie im
+  Bild**: `DER` / `PHARAO` / `BOLESLAW PRUS` / `MOTIVATIER CLASSICS`. Ein Lauf,
+  alle Woerter korrekt getrennt. Prompt, Job und PNG-Master unter
+  `work/prompts/higgsfield/cover-print-4k-20261111.*`.
+- **Druckdatei** `assets/covers/cover-print.jpg`: 1838x2775 px, **300 dpi**,
+  6,127 x 9,250 in - genau die Panelbreite (6x9 + 0,125 in Beschnitt).
+- **Print-Satz** `6x9 / long_classic / full_page` = **674 Seiten**, Bundsteg
+  19,1 mm, Report `status: ok`, keine dpi-Warnung (die 1152x1536-Kapitelbilder
+  ergeben bei `full_page` ~446 dpi). Schriften nur `EBGaramond-Regular` und
+  `-Italic`, beide als Type0/`FontFile2` eingebettet.
+- **Wrap** `cover-wrap-20261111-115542-674.pdf`: 13,930 x 9,250 in
+  (353,9 x 234,9 mm), Ruecken **42,80 mm** (674 x 0,0635 mm), eine Seite.
+- **`chapter_head` als Alternative gemessen** (verworfen): 640 statt 674 Seiten,
+  also 34 weniger, Report ebenfalls `ok`. Das Bild sitzt dort als Vignette
+  unter dem Kapiteltitel und ist schmaler; `full_page` gibt den Kapitelbildern
+  die ganze Seite. Entscheidung beim Nutzer offen - ein Wechsel verlangt einen
+  neuen Satz **und** einen neuen Wrap (Ruecken dann 40,64 mm).
+- **`export.yaml` hat jetzt feste Print-Defaults** (`trim_size`, `layout_profile`,
+  `illustration_mode`, `paper`). Vorher fiel Pharao ohne CLI-Flags auf
+  5,5x8,5/classic/full_page zurueck = **924 Seiten**, ueber dem Cream-Limit 776.
+- Alte Stempel 2026-09-21/27 geloescht (44 PDFs/Reports, 1,52 GB); vier davon
+  waren getrackte Report-JSONs und sind im Commit `32ce84b` als Loeschung
+  enthalten. `print-comparison-*.md` bleiben.
+- **Offen**: KDP-Upload (Interior `…-full-20261111-115518` + Wrap `…-674`),
+  Entscheidung `full_page` vs. `chapter_head`, danach ggf. neuer Satz + Wrap.
 
 ## Letzte Session (2026-11-11, KDP-Paperback: Covergröße und Schriften)
 
@@ -93,7 +128,12 @@ Titelbild 1725x2625 px, Schrift eingebettet. Datei:
   ergab 271 Innenseiten - dann Ruecken mit 274 statt 332 neu bauen!).
 - **Achtung Seitenzahl-Kopplung:** Der Rücken haengt an der Seitenzahl, und die
   Seitenzahl am Trim und am Bildmodus. Nach jedem Satzlauf mit
-  `build_cover.py --page-count <echte Seiten>` den Wrap neu bauen.
+  `build_cover.py --page-count <echte Seiten>` den Wrap neu bauen. Die echte
+  Zahl steht in `*-print-report.json` unter `page_count` - **nicht** aus dem
+  Kopf oder aus einem aelteren Lauf nehmen. Gegenprobe: `build_cover.py`
+  vergleicht die Wrap-Breite mit `2 x Trim + Ruecken + 2 x 0,125 in` (Exit 1
+  bei Abweichung); zusaetzlich `page_count` im Report gegen die Seitenzahl im
+  PDF (`PdfReader(...).get_num_pages()`) stellen.
 - Nebenbefund: `tests.test_backend_api` hat zwei rote Tests
   (`translate_batch` mit `ollama_model=gemma4:latest`), weil lokal Ollama laeuft
   und nur `gemma4:e4b` kennt. Vor dieser Sitzung schon rot, unabhaengig vom

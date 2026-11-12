@@ -668,6 +668,8 @@ Report daneben: `*-report.json`.
 **Titelbild und Rueckseite.** Die Marke ("Motivatier Classics", Feld
 Herausgeber/`book.editor`) steht oben auf Titel, Rueckseite und Ruecken, der
 Verlag ("Motivatier Stiftung", `book.publisher`) klein unten und im Impressum.
+Das Titelbild erzeugt
+`python tools/generate_cover.py --book <id> --prompt <datei>.md` (Higgsfield).
 Den Typografie-Block fuer den Cover-Prompt liefert
 `python tools/cover_text.py --book <id>`; die Prompts selbst sind Handarbeit
 unter `books/<id>/work/prompts/higgsfield/`. Neues Titelbild nach

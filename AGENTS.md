@@ -613,7 +613,10 @@ geschrieben in `books/<id>/work/prompts/higgsfield/cover-print-*.md` (Szene und
 Stil Handarbeit, Neufassung als neue Datei `-vN`, die alte bleibt). Den
 Typografie-Block (Marke oben, Titel, Untertitel, Autor, Verlag klein unten)
 nicht abtippen, sondern erzeugen: `python tools/cover_text.py --book <id>`.
-Ergebnis nach `assets/covers/cover-print.jpg`, danach den Wrap neu bauen.
+Bild erzeugen: `python tools/generate_cover.py --book <id> --prompt <datei>.md
+[--dry-run]` (liest `## Prompt`, ruft Higgsfield `gpt_image_2_5` 2:3 4k auf, sichert
+das alte Cover als `cover-print-vor-<stempel>.jpg`, schreibt
+`assets/covers/cover-print.jpg`; ein Versuch = Credits). Danach den Wrap neu bauen.
 
 *Rueckseite* (`tools/lib/print_wrap.py`, Tests `tests/test_print_wrap_design.py`):
 Barcode nur als freier Platz (2 x 1,2 in unten rechts, nichts gezeichnet, KDP

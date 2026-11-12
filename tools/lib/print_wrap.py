@@ -114,6 +114,9 @@ def _book_fields(meta: dict[str, Any]) -> dict[str, Any]:
         "publisher",
         "series",
         "language",
+        "editor",
+        "translator",
+        "translator_label",
     ):
         value = meta.get(key)
         if value:
@@ -125,17 +128,34 @@ def _text_field(fields: dict[str, Any], key: str) -> str:
     return " ".join(str(fields.get(key) or "").split())
 
 
-def header_line(meta: dict[str, Any]) -> str:
-    """Kopfzeile ueber dem Titel: Reihe, sonst Verlag, sonst nichts."""
+def brand_line(meta: dict[str, Any]) -> str:
+    """Marke ueber dem Titel und am Ruecken: der Herausgeber ("Motivatier Classics").
+
+    Reihenfolge: `book.editor` (aus RomanForge, Feld Herausgeber), dann ein als
+    Herausgabe beschrifteter `translator` (aelterer Stand der Buchpakete), dann
+    der Verlag. Der Verlag ("Motivatier Stiftung") ist rechtlich, nicht die Marke.
+    """
     fields = _book_fields(meta)
-    return _text_field(fields, "series") or _text_field(fields, "publisher")
+    editor = _text_field(fields, "editor")
+    if editor:
+        return editor
+    label = _text_field(fields, "translator_label").lower()
+    if "herausgabe" in label and "bersetz" not in label:
+        translator = _text_field(fields, "translator")
+        if translator:
+            return translator
+    return _text_field(fields, "publisher")
+
+
+def header_line(meta: dict[str, Any]) -> str:
+    """Kopfzeile ueber dem Titel (die Marke, siehe brand_line)."""
+    return brand_line(meta)
 
 
 def footer_line(meta: dict[str, Any]) -> str:
-    """Fusszeile links neben dem Barcode-Platz: Verlag, wenn nicht schon Kopfzeile."""
-    fields = _book_fields(meta)
-    publisher = _text_field(fields, "publisher")
-    return "" if publisher == header_line(meta) else publisher
+    """Fusszeile links neben dem Barcode-Platz: Verlag, wenn nicht schon die Marke."""
+    publisher = _text_field(_book_fields(meta), "publisher")
+    return "" if publisher == brand_line(meta) else publisher
 
 
 def _lang_attr(meta: dict[str, Any]) -> str:
@@ -431,7 +451,7 @@ def _spine_parts(
     spine_in = spine_mm / 25.4
     show_text = page_count >= SPINE_TEXT_MIN_PAGES and bool(label)
     font_pt = min(SPINE_FONT_MAX_PT, SPINE_FONT_RATIO * spine_in * 72)
-    publisher = _text_field(_book_fields(meta), "publisher")
+    publisher = brand_line(meta)
     show_publisher = False
     if show_text and publisher and spine_mm >= SPINE_PUBLISHER_MIN_MM:
         # grobe Laengenschaetzung: Platz fuer Titelzeile in der Mitte und den

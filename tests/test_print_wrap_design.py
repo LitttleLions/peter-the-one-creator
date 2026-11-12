@@ -79,14 +79,36 @@ class WrapDesignTests(unittest.TestCase):
         cfg = back_cover_settings(_meta(), bad)
         self.assertEqual(cfg["colors"], DEFAULT_BACK_COLORS)
 
-    def test_header_line_series_then_publisher_then_nothing(self) -> None:
-        self.assertEqual(header_line(_meta(series="Reihe", publisher="Verlag")), "Reihe")
+    def test_header_line_is_editor_brand_not_publisher(self) -> None:
+        """Marke (Herausgeber, "Motivatier Classics") steht oben, der Verlag
+        ("Motivatier Stiftung") unten - nicht umgekehrt (Befund 2026-11-12)."""
+        meta = _meta(editor="Motivatier Classics", publisher="Motivatier Stiftung")
+        self.assertEqual(header_line(meta), "Motivatier Classics")
+        self.assertEqual(footer_line(meta), "Motivatier Stiftung")
+        html = self._html(meta)
+        self.assertIn("<p class='brand'>Motivatier Classics</p>", html)
+        self.assertIn("<p class='back-foot'>Motivatier Stiftung</p>", html)
+
+    def test_header_line_falls_back(self) -> None:
+        # aelterer Stand: Herausgabe steht als translator mit Label
+        old = _meta(
+            translator="Motivatier Classics",
+            translator_label="Herausgabe und editorische Einrichtung",
+            publisher="Motivatier Stiftung",
+        )
+        self.assertEqual(header_line(old), "Motivatier Classics")
+        # eine Uebersetzung ist keine Marke
+        trans = _meta(
+            translator="Jemand",
+            translator_label="Uebersetzung und editorische Einrichtung",
+            publisher="Verlag",
+        )
+        self.assertEqual(header_line(trans), "Verlag")
         self.assertEqual(header_line(_meta(publisher="Verlag")), "Verlag")
         self.assertEqual(header_line(_meta()), "")
         self.assertNotIn("class='brand'", self._html(_meta()))
         # Verlag steht nicht doppelt, wenn er schon die Kopfzeile ist
         self.assertEqual(footer_line(_meta(publisher="Verlag")), "")
-        self.assertEqual(footer_line(_meta(series="Reihe", publisher="Verlag")), "Verlag")
 
     def test_initial_only_for_letters(self) -> None:
         self.assertIn("class='dropcap'", self._html(_meta()))

@@ -421,6 +421,7 @@ class PrintHtmlTests(unittest.TestCase):
                     "title": "Der Pharao",
                     "author": "Boleslaw Prus",
                     "summary": "Ein Satz.",
+                    "publisher": "Motivatier Stiftung",
                 },
                 cover_path=cover,
                 html_path=root / "wrap.html",
@@ -429,7 +430,9 @@ class PrintHtmlTests(unittest.TestCase):
             )
         self.assertIn("size: 11.75in 8.75in", html)
         self.assertIn("barcode-reserve", html)
-        self.assertIn("Motivatier Classics", html)
+        # Barcode-Platz bleibt frei: nichts wird gemalt (kein Rahmen).
+        self.assertNotIn("dashed", html)
+        self.assertIn("Motivatier Stiftung", html)
         self.assertIn("class='spine'", html)
         # Ein einzelnes "}}" beendet die Regel und laesst die naechste Regel
         # fallen: der Ruecken verlor dann Breite und die Zentrierung, das

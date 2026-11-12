@@ -38,7 +38,7 @@ from lib.print_spec import (  # noqa: E402
     kdp_spine_mm,
     load_print_spec,
 )
-from lib.print_wrap import render_wrap_html  # noqa: E402
+from lib.print_wrap import measure_back_overflow, render_fitted_wrap_html  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 COVER_NAMES = ("cover-print.jpg", "cover-print.jpeg", "cover-print.png", "cover-print.webp")
@@ -138,16 +138,22 @@ def main(argv: list[str] | None = None) -> int:
     # `book` (Titel/Autor/Summary) und `print.back_cover` (Rueckseiten-Gestaltung).
     wrap_meta = dict(meta)
     html_path = target.with_suffix(".html")
-    html_text = render_wrap_html(
+    html_text, notes, text_fits = render_fitted_wrap_html(
         meta=wrap_meta,
         cover_path=cover,
         html_path=html_path,
         spec=spec,
         page_count=page_count,
+        measure=measure_back_overflow,
     )
+    for note in notes:
+        print(f"WARNUNG: {note}", file=sys.stderr)
     html_path.parent.mkdir(parents=True, exist_ok=True)
     html_path.write_text(html_text, encoding="utf-8")
     render_html_to_pdf(html_path, target)
+    if not text_fits:
+        print("FEHLER: Rueckseitentext passt nicht (siehe Warnung).", file=sys.stderr)
+        return 1
 
     pages = count_pdf_pages(target)
     if pages != 1:

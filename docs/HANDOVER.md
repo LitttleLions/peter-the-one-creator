@@ -118,6 +118,22 @@ Print-Satz mehr gebaut worden - die Schrift-Fixes (`ee90790`) fehlten ihm also.
   gilt die neutrale Palette (`DEFAULT_BACK_COLORS`: #f7f4ee / #3c332a /
   #a89478), die Autorenbio kommt aus `book.author_bio`, wenn nichts gesetzt ist.
   Damit bekommt jede KI bei einem neuen Print-Lauf automatisch das neue Format.
+- **Umschlagrueckseite, Gestaltungsdurchgang** (2026-11-12, `tools/lib/print_wrap.py`):
+  - Barcode: nur Platz (2 x 1,2 in unten rechts, `.barcode-reserve`), nichts
+    gemalt; der Text endet darueber. Masse vor Umstellung gegen die KDP-Hilfe pruefen.
+  - Farben: Rueckseite und Ruecken kommen aus dem linken Randstreifen des
+    Druckcovers (hell/dunkel, Kontrast >= 7:1, sonst `DEFAULT_BACK_COLORS`);
+    `print.back_cover.colors` gewinnt je Schluessel (neu: `spine`, `spine_text`).
+  - Felder: Kopfzeile = `book.series`, sonst `book.publisher`, sonst leer; Untertitel
+    (<= 60 Zeichen) unter dem Titel; Verlag als Fusszeile; leere Felder erzeugen
+    keine Elemente.
+  - Satz: `lang`, Silbentrennung, Spalte ca. 100 mm, Initiale nur bei Buchstaben.
+  - Passung: `render_fitted_wrap_html` misst im Browser und geht ueber `FIT_LEVELS`
+    (Fliesstext 10,5 -> 9,0 pt, Bio 8,8 -> 8,2 pt, zuletzt Zitat weg; die Bio bleibt).
+    Passt nichts, meldet `build_cover.py` einen Fehler (Klappentext kuerzen), der
+    Export eine Warnung. Es wird nie automatisch gekuerzt.
+  - Ruecken: unter 79 Seiten kein Text; Schrift = min(14 pt, 0,45 x Rueckenbreite);
+    Ornamente ab 12 mm, Verlag ab 25 mm.
 - **Inhaltsverzeichnis auf Gruppen reduziert** (`front_matter.toc_depth: groups`,
   neu in `export_manuscript.py`): Pharao listet nur **Buch I-III** statt 69
   durchgezaehlter Kapitel ("Erstes Kapitel" ... "Neunundsechzigstes Kapitel"),

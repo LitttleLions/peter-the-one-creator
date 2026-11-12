@@ -665,6 +665,16 @@ rendert den Wrap nach `exports/<style>/book/print/cover-wrap-<stempel>-<seiten>.
 und prueft die Ausgabegroesse gegen die Rechnung (Exit 1 bei Abweichung).
 Report daneben: `*-report.json`.
 
+**Titelbild und Rueckseite.** Die Marke ("Motivatier Classics", Feld
+Herausgeber/`book.editor`) steht oben auf Titel, Rueckseite und Ruecken, der
+Verlag ("Motivatier Stiftung", `book.publisher`) klein unten und im Impressum.
+Den Typografie-Block fuer den Cover-Prompt liefert
+`python tools/cover_text.py --book <id>`; die Prompts selbst sind Handarbeit
+unter `books/<id>/work/prompts/higgsfield/`. Neues Titelbild nach
+`assets/covers/cover-print.jpg` legen und den Wrap neu bauen - die Rueckseite
+leitet ihre Farben vom Randstreifen des Titelbilds ab und laesst unten rechts
+Platz fuer den KDP-Barcode.
+
 **Nach jedem Satzlauf den Wrap neu bauen** - der Ruecken haengt an der
 Innenseitenzahl, und die haengt an Trim und Bildmodus (`chapter_head` spart bei
 diesem Buch 17 Seiten gegenueber `full_page`).

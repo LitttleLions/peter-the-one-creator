@@ -118,6 +118,7 @@ Print-Satz mehr gebaut worden - die Schrift-Fixes (`ee90790`) fehlten ihm also.
   gilt die neutrale Palette (`DEFAULT_BACK_COLORS`: #f7f4ee / #3c332a /
   #a89478), die Autorenbio kommt aus `book.author_bio`, wenn nichts gesetzt ist.
   Damit bekommt jede KI bei einem neuen Print-Lauf automatisch das neue Format.
+- **Marke vs. Verlag, Cover-Textblock** (2026-11-12): Herausgeber = Marke "Motivatier Classics" (`book.editor`, oben auf Titel/Rueckseite/Ruecken), Verlag = "Motivatier Stiftung" (`book.publisher`, klein unten/Impressum). `lib/print_wrap.py brand_line()` mit Rueckfall (translator mit Herausgabe-Label, dann Verlag). Neu `tools/cover_text.py` (Typografie-Block fuer Titelbild-Prompts aus den Buchdaten). Sprache des Anderen: Prompt `cover-print-4k-20261112-v3.md` bereit, Titelbild noch nicht neu generiert; danach `build_cover.py` neu.
 - **Umschlagrueckseite, Gestaltungsdurchgang** (2026-11-12, `tools/lib/print_wrap.py`):
   - Barcode: nur Platz (2 x 1,2 in unten rechts, `.barcode-reserve`), nichts
     gemalt; der Text endet darueber. Masse vor Umstellung gegen die KDP-Hilfe pruefen.

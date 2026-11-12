@@ -598,6 +598,31 @@ gegen die Rechnung (Exit 1 bei Abweichung) und schreibt `cover-wrap-<stempel>-<s
 plus Report. Nach jedem Satzlauf neu bauen - der Ruecken haengt an der
 Innenseitenzahl, und die haengt an Trim und Bildmodus.
 
+
+**Umschlag: Marke, Verlag, Rueckseite (Stand 2026-11-12).** Zwei Namen, nicht
+vertauschen: der **Herausgeber** (`book.editor`, kommt aus RomanForge
+"Herausgeber") ist die **Marke** "Motivatier Classics" - sie steht sichtbar oben
+auf der Titelseite, oben auf der Rueckseite und am Ruecken. Der **Verlag**
+(`book.publisher`, "Motivatier Stiftung") ist die rechtliche Einheit: Impressum
+und klein als Fusszeile. Fehlt `book.editor`, nimmt `lib/print_wrap.py
+brand_line()` den als "Herausgabe ..." beschrifteten `translator`, danach den
+Verlag; eine Uebersetzung wird nie als Marke genommen.
+
+*Titelbild:* Es gibt keinen Cover-Generator; die Prompts liegen von Hand
+geschrieben in `books/<id>/work/prompts/higgsfield/cover-print-*.md` (Szene und
+Stil Handarbeit, Neufassung als neue Datei `-vN`, die alte bleibt). Den
+Typografie-Block (Marke oben, Titel, Untertitel, Autor, Verlag klein unten)
+nicht abtippen, sondern erzeugen: `python tools/cover_text.py --book <id>`.
+Ergebnis nach `assets/covers/cover-print.jpg`, danach den Wrap neu bauen.
+
+*Rueckseite* (`tools/lib/print_wrap.py`, Tests `tests/test_print_wrap_design.py`):
+Barcode nur als freier Platz (2 x 1,2 in unten rechts, nichts gezeichnet, KDP
+setzt ihn); Farben aus dem linken Randstreifen des Titelbilds (Kontrast >= 7:1,
+sonst Standardfarben, `print.back_cover.colors` gewinnt); Ruecken unter 79
+Seiten ohne Text, Schrift nach Dicke; Passung des Klappentexts wird im Browser
+gemessen (`FIT_LEVELS`), die Autorenbio bleibt immer, gekuerzt wird nichts
+automatisch - bei Ueberlauf Warnung, bei `build_cover.py` Exit 1.
+
 **Schriften einbetten:** Variable Fonts bettet Chromium nicht als TrueType ein
 (sie werden Type3-Pfade, KDP meldet "Schriftarten nicht ordnungsgemäß
 eingebettet"). `config/print.yaml` nutzt deshalb statische Instanzen

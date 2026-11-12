@@ -88,28 +88,26 @@ baue danach das Marketing aus der neuen Fassung.
 Ablauf (jeder Schritt mit Kurzbericht, dann weiter):
 1. Zugang pruefen: In .env muessen ROMANFORGE_URL und ROMANFORGE_API_KEY stehen. Nur melden, ob sie
    vorhanden sind, Werte nie anzeigen. Fehlen sie, anhalten und mich fragen.
-2. Modus: NEU (Buch in peter unbekannt) oder AKTUALISIEREN. Passt er nicht zum Stand: anhalten und fragen.
-   Die Zuordnung Buch <-> RomanForge-Projekt steht fest in books/<id>/book.yaml (Block `romanforge:` mit
-   instance und project_id), nie ueber den Titel. Ein Buch ohne Block einmalig binden (Trockenlauf, dann
-   mit --apply): .\.venv\Scripts\python.exe tools/import_markdown_original.py --book <id> --handoff <Uebergabe-ID> --bind
-   Passt Instanz oder Projekt-ID nicht oder tragen zwei Buecher dieselbe Bindung, bricht das Werkzeug mit
-   Exit 2 ab: stoppen und mich fragen.
-3. Vergleich (schreibt nichts), nur die Tabelle zeigen:
-   .\.venv\Scripts\python.exe tools/import_markdown_original.py --book <id> --handoff <Uebergabe-ID> --compare
-4. Auf meine Freigabe: --accept, hoechstens 5 Kapitel pro Lauf; --keep nur nach Absprache. Danach pro
-   Kapitel assemble_chapter.py und review_manuscript.py --llm none, nur die Zusammenfassung
-   (ERROR/WARNING/INFO). Bei ERROR>0 stoppt der Export.
-5. Figuren (fester Teil der Aufgabe, nicht optional; Figuren und ihr Aussehen speisen spaeter die Bilder):
-   Trockenlauf immer ausfuehren und die Tabelle zeigen, auch wenn nichts geaendert ist:
-   .\.venv\Scripts\python.exe tools/sync_romanforge_characters.py --book <id> --handoff <Uebergabe-ID>
-   Danach die Gegenueberstellung zeigen: ... tools/sync_romanforge_characters.py --book <id> --aussehen
-   Mein Ja zu den Kapiteln gilt nicht fuer --apply; frag danach einmal konkret "--apply ausfuehren?".
-5b. Buchangaben (Autor, Untertitel, Reihe, Band, Verlag, Herausgeber, Klappentext; RomanForge ist die Quelle):
-   .\.venv\Scripts\python.exe tools/rf_metadata.py --book <id> --handoff <Uebergabe-ID>
-   Trockenlauf: ist nichts zu tun, kommt eine Zeile, sonst nur die betroffenen Felder. Identitaetsfelder
-   ueberschreibt --apply; ein von Hand geaenderter Klappentext bleibt ("weicht-ab"), --force-meta blurb
-   uebernimmt ihn. Der Titel wird nie geschrieben. Auch hier erst nach meiner konkreten Antwort --apply.
-6. Marketing: erst tools/export_marketing.py --book <id> --dry-run. Das Paket aus vorhandenen Texten
+2. Status (ein Befehl, schreibt nur eine Archivkopie der Uebergabe-Angaben, keinen Kapiteltext):
+   .\.venv\Scripts\python.exe tools/rf_status.py --handoff <Uebergabe-ID>
+   Das Werkzeug findet das Buch ueber die feste Bindung in books/<id>/book.yaml (Block `romanforge:`),
+   nie ueber den Titel, und prueft Instanz, Projekt-ID und Eindeutigkeit. Es zeigt Kapitelvergleich,
+   Figuren und Buchangaben als Trockenlauf. Exit 2 (falsche Bindung oder Instanz, Doppelablage): stoppen
+   und mich fragen. Ein Buch ohne Bindung einmalig binden (Trockenlauf, dann mit --apply):
+   .\.venv\Scripts\python.exe tools/import_markdown_original.py --book <id> --handoff <Uebergabe-ID> --bind
+   Neues Buch: import_markdown_original.py --new --handoff <Uebergabe-ID> --title "<Titel>".
+   Zeige mir die drei Bereiche (bei "unveraendert" nur die Zeile).
+3. Jede Uebernahme einzeln und nur nach meiner konkreten Antwort auf genau diese Frage:
+   - Kapitel: import_markdown_original.py --book <id> --handoff <Uebergabe-ID> --accept 001,002
+     (hoechstens 5 pro Lauf; --keep nur nach Absprache; bricht ab, wenn Kapiteltexte oder state.yaml
+     uncommittet geaendert sind). Danach pro Kapitel assemble_chapter.py und
+     review_manuscript.py --llm none, nur die Zusammenfassung (ERROR/WARNING/INFO). Bei ERROR>0 stoppt der Export.
+   - Figuren (fester Teil, Aussehen speist spaeter die Bilder): sync_romanforge_characters.py --book <id>
+     --handoff <Uebergabe-ID> --apply, frag dafuer einmal konkret "--apply ausfuehren?".
+   - Buchangaben (RomanForge ist die Quelle): rf_metadata.py --book <id> --handoff <Uebergabe-ID> --apply.
+     Identitaetsfelder ueberschreibt --apply; ein von Hand geaenderter Klappentext bleibt ("weicht-ab"),
+     --force-meta blurb uebernimmt ihn. Der Titel wird nie geschrieben.
+4. Marketing: erst tools/export_marketing.py --book <id> --dry-run. Das Paket aus vorhandenen Texten
    ist kostenlos. Neue Texterzeugung ueber OpenRouter (--provider openrouter --regenerate) und
    Higgsfield nur nach meiner ausdruecklichen Freigabe je Aufruf.
 

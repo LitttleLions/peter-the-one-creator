@@ -23,6 +23,7 @@ import argparse
 import hashlib
 import re
 import shutil
+import subprocess
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -520,6 +521,25 @@ def resolve_book_root(book_id: str | None, book_root_arg: str | None) -> tuple[P
     return project.root, project.as_tool_config(REPO_ROOT)
 
 
+def uncommitted_book_paths(book_root: Path) -> list[str]:
+    """Ungesicherte Aenderungen an Kapitel- und Szenentexten sowie state.yaml des Buchs.
+
+    --accept ueberschreibt peter-Text direkt; die einzige Sicherung ist Git. Liegt dort Handarbeit
+    uncommittet, ist sie danach nicht wiederherstellbar. Ausserhalb eines Git-Repos: leer.
+    """
+    try:
+        done = subprocess.run(
+            ["git", "-C", str(book_root), "status", "--porcelain", "--", "work/chapters", "work/scenes",
+             "work/imports/romanforge/state.yaml"],
+            capture_output=True, text=True, encoding="utf-8", timeout=60,
+        )
+    except (OSError, subprocess.SubprocessError):
+        return []
+    if done.returncode != 0:
+        return []
+    return [line[3:].strip() for line in done.stdout.splitlines() if line.strip()]
+
+
 def build_parser() -> argparse.ArgumentParser:
     ap = argparse.ArgumentParser(description="RomanForge-Markdown uebernehmen (Stufe 1).")
     ap.add_argument("--book", default=None, help="Buch-ID unter books/<id>/")
@@ -533,6 +553,8 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--compare", action="store_true", help="Nur Bericht, schreibt nichts")
     ap.add_argument("--accept", action="append", default=None, help="Kapitel uebernehmen, z.B. 008 oder 008,012")
     ap.add_argument("--keep", action="append", default=None, help="peter-Text behalten, z.B. 008 oder 008,012")
+    ap.add_argument("--allow-dirty", action="store_true",
+                    help="--accept auch bei uncommitteten Aenderungen an Kapiteltexten/state.yaml des Buchs")
     ap.add_argument("--bind", action="store_true",
                     help="Bestehendes Buch an das RomanForge-Projekt der Uebergabe binden (Trockenlauf; mit --apply schreiben)")
     ap.add_argument("--apply", action="store_true", help="Mit --bind: Bindung in book.yaml schreiben")
@@ -1186,6 +1208,16 @@ def main(argv: list[str] | None = None) -> int:
             file=sys.stderr,
         )
         return 2
+    if accept and not args.allow_dirty:
+        dirty = uncommitted_book_paths(book_root)
+        if dirty:
+            print(
+                "FEHLER: In den Kapitel-/Szenentexten oder state.yaml liegen uncommittete Aenderungen "
+                f"({len(dirty)}, z. B. {dirty[0]}). --accept ueberschreibt Text; erst committen oder "
+                "bewusst mit --allow-dirty fortfahren. Es wurde nichts geschrieben.",
+                file=sys.stderr,
+            )
+            return 2
     code, rows = cmd_compare(
         book_title=book_title, book_root=book_root, style=style,
         chapters=chapters, state=state, source_baseline=source_baseline,

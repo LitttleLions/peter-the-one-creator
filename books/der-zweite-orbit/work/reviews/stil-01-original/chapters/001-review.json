@@ -1,0 +1,34 @@
+{
+  "chapter": "001",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "001",
+      "scene": 1,
+      "ru_path": "books\\der-zweite-orbit\\work\\scenes\\de\\001\\scene-01.md",
+      "de_path": "books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\001\\scene-01.md",
+      "ru_words": 2761,
+      "de_words": 2761,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "cyrillic_in_translation",
+          "message": "DE-Szene enthaelt kyrillische Zeichen.",
+          "chapter": "001",
+          "scene": 1,
+          "evidence": "e Einheiten mit Gewalt neustarten, riskieren wir das Durchbrennen der optischen матриzen“, sagte Henrik. „Dann haben wir drei blinde Schaufeln.“\n\n„Dann brennen Sie sie durch“, sagte Victoria gelassen und nippte erneut an",
+          "recommendation": "Pruefen, ob Originaltext stehen geblieben ist.",
+          "source": "deterministic",
+          "current_text": "м",
+          "suggested_text": "",
+          "confidence": 0.8,
+          "fixable": null,
+          "position": 12208
+        }
+      ]
+    }
+  ]
+}

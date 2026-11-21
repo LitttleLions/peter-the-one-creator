@@ -1,0 +1,268 @@
+entries:
+- source: Victoria Sterling
+  target: Victoria Sterling
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 0b8f5acf-535f-42b1-883c-eacfbf7510a4
+  rf_appearance_sha: 7f77083130a30e07ef1059983e49d08ebaee5fb35e95c26c8b68b1c167c7fa17
+  note: 'RomanForge-Rolle: Gegenspieler – Expeditionsleiterin und Venture-Direktorin
+    der Aethelgard-Mission im Camp'
+  visual: 44 Jahre alt, mittelgroß, schlank, mit kerzengerader, fast militärisch kontrollierter
+    Körperhaltung. Scharf geschnittenes Gesicht mit hohen Brauen, kühlen grünen Augen
+    und einem schmalen Mund, platinblondes Haar in einem exakt kinnlangen Bob, der
+    selbst im staubigen Camp immer makellos sitzt. Trägt maßgeschneiderte, dunkelblaue
+    Funktionskleidung aus sauberem High-Tech-Gewebe mit dem dezenten silbernen Aethelgard-Emblem
+    auf der Brust und ein dünnes Daten-Armband am linken Handgelenk.
+- source: Vostok
+  target: Vostok
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 1a1fcbf4-60ab-49e9-a0bd-9469942ed37c
+  rf_appearance_sha: 5cb053124c66af1ab8b86f7700f298d4976a896319d56af2d6559eb217c4e571
+  note: 'RomanForge-Rolle: Nebenfigur – Leitender Techniker und Schwarm-Koordinator
+    der Laika-Nachfahren'
+  visual: Im biologischen Körper ein mittelgroßer, drahtiger Rüde (ca. 20 kg) mit
+    kurzhaarigem, schwarz-lohfarbenem Fell, hellen Abzeichen über den Augen und einem
+    schmalen, kupferfarben schimmernden Neural-Kragen. Sein gesteuerter Roboter-Avatar
+    ist ein leicht modifizierter, 1,90 Meter großer Wartungs-Avatar mit vier zusätzlichen
+    feinmechanischen Werkzeug-Armen am Brustkorb (sechsarmig) und bläulich leuchtenden
+    Diagnose-Optiken.
+- source: Kudrjawka-Sieben
+  target: Kudrjawka-Sieben
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 1ab67a11-cf4e-4bce-8195-684c382251f1
+  rf_appearance_sha: c1eba8ccb3a975bb62c924f6826c573a2a89b2fc7d59facf33345d602c934355
+  note: 'RomanForge-Rolle: Hauptfigur – Grenzgänger und Späher der Laika-Nachfahren,
+    erster Kontaktpartner der Menschen'
+  visual: Im realen biologischen Körper ein mittelgroßer, kräftiger Mischlingshund
+    (ca. 22 kg, Züge von sibirischem Husky und Terrier) mit dichtem, grau-weiß-schwarz
+    geflecktem Fell, buschigem, geringeltem Schwanz, klaren bernsteinbraunen Augen
+    sowie einem nahtlos eingewachsenen, mattschwarzen bio-kybernetischen Neural-Kragen
+    mit bläulichen Lichtleiter-Adern entlang des Hinterkopfs und der Halswirbelsäule.
+    Sein gesteuerter Roboter-Avatar ist eine zwei Meter große, schlanke, zweibeinige
+    Maschine aus verwittertem, titanfarbenem Verbundstoff mit viergliedrigen Greifhänden,
+    nach hinten gewinkelten Laufgelenken und einem gesichtslosen, ovalen Sensorkopf.
+- source: Jannis Koster
+  target: Jannis Koster
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 27531688-a7ad-4fd8-a832-fbf100983b6f
+  rf_appearance_sha: 593776fb4f985eaac0aa74953accc9ad821f072c44d9c285e9b5dcc96c156318
+  note: 'RomanForge-Rolle: Nebenfigur – Landefähren-Pilot, Logistiker und Funk-Operator
+    im Camp'
+  visual: 34 Jahre alt, mittelgroß, schlaksig mit langen Fingern und unruhiger Körperhaltung.
+    Schmale Nase, blasse Haut mit Sommersprossen, wasserblaue, oft nervös blinzelnde
+    Augen und kurz geschnittenes, strohblondes Haar. Trägt eine gepolsterte, dunkelgrüne
+    Fliegerjacke mit abgewetzten Lederbündchen über dem grauen Bord-Overall und ein
+    schweres Funk-Headset um den Hals.
+- source: Iskra
+  target: Iskra
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 2d4d2386-2043-42fc-9f10-f7c68ac76f4a
+  rf_appearance_sha: e9b41ca8adf772cabb7bd05f38a77070a29d5eeeae8cb25fd3cb2c495fd224c8
+  note: 'RomanForge-Rolle: Nebenfigur – Junge Späher-Hündin der Laika-Nachfahren ohne
+    großen Avatar'
+  visual: Anderthalb Jahre alte, kleine, wendige Hündin (ca. 15 kg) mit dichtem, weiß-rotbraun
+    geschecktem Fell, spitzer Schnauze, leuchtend dunklen Knopfaugen und einer buschigen
+    Rute mit weißer Spitze. Trägt keinen massiven Schädelkranz, sondern nur ein schmales,
+    kaum sichtbares anthrazitfarbenes Kontaktband im Nackenfell.
+- source: Anton Lindqvist
+  target: Anton Lindqvist
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 2d5be083-137c-47a8-bc76-30fd64dd40d4
+  rf_appearance_sha: a8bcf9be344811cf9f8582b4eed9e167d6615aa3e2c1b56f99860c7e043380f8
+  note: 'RomanForge-Rolle: Gegenspieler – Vorstandsbeauftragter und Aufsichtsrats-Vertreter
+    auf dem Mutterschiff im Orbit'
+  visual: 56 Jahre alt, hochgewachsen, schlank, mit makellos gepflegtem Äußeren in
+    der Schwerelosigkeit bzw. im Rotations-Habitat des Mutterschiffs. Scharfes, schmales
+    Gesicht mit hoher Stirn, eisgrauen Augen, zurückgegeltem silberweißem Haar und
+    einem exakt gestutzten schmalen Oberlippen- und Kinnbart. Trägt auch an Bord des
+    Trägerschiffs einen maßgeschneiderten anthrazitfarbenen Business-Stehkragenanzug
+    mit magnetischen Sohlen.
+- source: Marcus Thorne
+  target: Marcus Thorne
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 35fbe977-bb38-4366-acbf-fc41ad56ff81
+  rf_appearance_sha: ae193b0bfffa43b126facbeefe35569b4b6854285d20657937e5bf695b1fe92f
+  note: 'RomanForge-Rolle: Nebenfigur – Leiter der Camp-Sicherheit und verantwortlicher
+    Taktiker vor Ort'
+  visual: 51 Jahre alt, breitschultrig, kompakt und muskulös wie ein ehemaliger Rugbyspieler,
+    mit ruhigen, sparsamen Bewegungen. Kantiges Gesicht mit gebrochener Nase, dunkler
+    Haut, kurz geschorenem schwarzem Haar mit grauen Schläfen und wachsamen dunkelbraunen
+    Augen. Trägt eine matte, anthrazitfarbene ballistische Schutzweste über dem grauen
+    Stations-Overall, ein schweres Mehrzweck-Werkzeugmesser am Oberschenkel und ein
+    Kehlkopfmikrofon.
+- source: Henrik Vance
+  target: Henrik Vance
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 373a7f0d-d127-4764-9564-0983ff837ab6
+  rf_appearance_sha: cc48daafeadaee763f205b5836803ad16a4515f910461f85184a85b0824574e6
+  note: 'RomanForge-Rolle: Hauptfigur – Leitender Systemarchitekt und Robotik-Diagnostiker
+    der Nova-Terra-Mission'
+  visual: 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern.
+    Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen,
+    kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und einen
+    unregelmäßig gestutzten Dreitagebart. Er trägt meist eine abgewetzte, dunkelgraue
+    Thermo-Arbeitsweste mit vielen Werkzeugtaschen über einem verwaschenen blauen
+    Rollkragenshirt, ölverschmierte Arbeitshandschuhe am Gürtel sowie eine auffällige
+    blasse Brandnarbe quer über dem linken Handrücken.
+- source: Boran
+  target: Boran
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 3af01348-99ef-4aa4-8b19-35a73076b6fd
+  rf_appearance_sha: 14de934a3e1176f7e303cc18f2fbc3c2cf3433add3525752b44bd9b6c2338c3e
+  note: 'RomanForge-Rolle: Nebenfigur – Ausgebildeter Erden-Spürhund im Camp und biologischer
+    Brückenbauer'
+  visual: Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem,
+    dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen
+    Ohren. Um die Schnauze zeigen sich erste graue Haare, und über dem linken Auge
+    befindet sich eine kleine, verheilte Kerbe im Fell. Im Außeneinsatz trägt er ein
+    leuchtend orangefarbenes Biometrie-Geschirr mit kleiner Helmkamera, GPS-Bake und
+    Vital-Sensoren am Brustkorb.
+- source: Soren Halvorsen
+  target: Soren Halvorsen
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 5ecc638f-aa3b-4789-b37c-0943dd5a8f6c
+  rf_appearance_sha: ba5777a413b39a36b6fb1ac7e449a7b47b906b8fae9208f1f2e1e85afbc7908c
+  note: 'RomanForge-Rolle: Nebenfigur – Kommandant des Orbital-Trägers Aethelgard
+    Prime'
+  visual: 60 Jahre alt, schwer gebaut, mit breitem Nacken und ruhiger, aufrechter
+    Haltung auf dem Kommandodeck. Wettergegerbtes, kantiges Gesicht mit tiefen Furchen,
+    grauem kurzem Vollbart, buschigen Brauen über blauen Augen und lichtem grauem
+    Haar. Trägt die dunkelblaue Standard-Flottenuniform mit goldenen Kapitänsstreifen
+    und magnetischen Stiefeln.
+- source: Jasdowski
+  target: Jasdowski
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 737c6e06-9547-4b3e-9ae3-e19d596d593f
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Historische Hintergrundfigur'
+- source: Darius Vance-Kowalski
+  target: Darius Vance-Kowalski
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 738ee8e1-4af6-4430-8630-56635a3c30a0
+  rf_appearance_sha: 29549fef4d89c6cf8205753a6212e9ada741c135bcf504fa02006b2916cdb29b
+  note: 'RomanForge-Rolle: Nebenfigur – Chef-Geologe und Leiter der automatisierten
+    Sinter-Bohrungen im Camp'
+  visual: 39 Jahre alt, untersetzt, stämmig mit breiten Händen und kurzen, kräftigen
+    Armen. Rundes, oft verschwitztes Gesicht mit rötlichem Vollbart, kleiner Knollennase,
+    müden braunen Augen mit dunklen Ringen und schütterem rotem Haar unter einer abgetragenen
+    Wollmütze. Trägt einen schweren, gelb-schwarzen Exoskelett-Stützgurt über seinem
+    verdreckten Mechaniker-Overall sowie schwere Stahlkappen-Stiefel.
+- source: Maljutka
+  target: Maljutka
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 8425187f-a79e-4f46-91b4-eeeb9a1785c6
+  rf_appearance_sha: d8885962d7187ea37cebb41d2db3ba9006fa85aeeacc4f9f210e353f5dd42a72
+  note: 'RomanForge-Rolle: Nebenfigur – Älteste Archivarin und Hüterin des Sputnik-Heiligtums
+    unter den Laika-Nachfahren'
+  visual: Vierzehn Jahre alte, kleine, zierliche Hündin (ca. 14 kg, im Aussehen fast
+    ein exaktes Abbild der historischen Laika von 1957) mit weiß-cremefarbenem Fell,
+    dunkelbraunen Ohren und einer fast völlig ergrauten Schnauze. Ihre Augen sind
+    von leichtem Altersstar milchig getrübt, blicken aber ruhig und durchdringend;
+    um ihren Hals sitzt ein besonders fein ziselierter, silbrig schimmernder Neural-Kragen
+    der ersten Alien-Generation. Wegen altersbedingt schwacher Gelenke nutzt sie keinen
+    großen zweibeinigen Roboter-Avatar, sondern bewegt sich auf vier Pfoten oder einer
+    schwebenden Repulsor-Trageplatte.
+- source: Oktjabr
+  target: Oktjabr
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 8d4de9d7-08c3-4981-bef2-6f3d9dcf434d
+  rf_appearance_sha: 623ddb6c7d2c159d57773a9dc6ffd69479d1dc82adb5157b1c774d4de9c17b6d
+  note: 'RomanForge-Rolle: Gegenspieler – Anführer der Wächter-Fraktion unter den
+    Laika-Nachfahren (Hardliner)'
+  visual: Im biologischen Körper ein großer, schwer gebauter Rüde (ca. 30 kg) mit
+    überwiegend schwarzem und rostbraunem Fell, einem vernarbten linken Ohr und einem
+    kalt glänzenden, breiten kybernetischen Neural-Kranz am Schädel, dessen Status-Leuchten
+    bernsteinfarben pulsieren. Sein gesteuerter Roboter-Avatar („Der schwere Wächter“)
+    ist eine 2,30 Meter hohe, massige Industrie- und Schutzmaschine mit dunkelgrauer
+    Keramik-Panzerung, hydraulischen Brechwerkzeugen anstelle feiner Finger und drei
+    rot leuchtenden optischen Linsen im breiten Brust-Kopf-Segment.
+- source: Taiga
+  target: Taiga
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: b547d2ae-8a12-46ef-ab81-d330201c52bf
+  rf_appearance_sha: 4fb02eccd7085dacfd8201fa5ed3980ab6ae4367fbb7596d94c184476396f825
+  note: 'RomanForge-Rolle: Nebenfigur – Jüngere Erden-Schutzhündin im Camp und Spurensucherin'
+  visual: Drei Jahre alte, mittelgroße, sehnige Hündin (ca. 26 kg) mit kurzem, dichtem,
+    sandfarben-rötlichem Fell, schwarzer Gesichtsmaske und einer buschigen, sichelförmig
+    über den Rücken getragenen Rute. Wache, dunkelbraune Augen und ein charakteristisches
+    Knickohr rechts. Trägt im Einsatz ein neongelbes Biometrie-Geschirr mit seitlichen
+    Packtaschen für Notfall-Signalstäbe.
+- source: Laika
+  target: Laika
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: c720f2ab-28c0-41b0-96fe-d9daa78222a2
+  rf_appearance_sha: 16b6deba4de35a9306d5ef706de8922670dafd775fe2f2ebca593435c0f959ce
+  note: 'RomanForge-Rolle: Historische Schlüsselfigur und mythologische Urmutter der
+    Hunde-Zivilisation auf Nova Terra'
+  visual: Historisch kleine, zierliche Hündin (deren optisches Abbild sich in der
+    Archivarin Maljutka mit weiß-cremefarbenem Fell und dunkelbraunen Ohren widerspiegelt).
+- source: Elena Koroljowa
+  target: Elena Koroljowa
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: c9610b1b-e046-45fe-9b89-14f707a7893f
+  rf_appearance_sha: ce82185d14f972c40b342bd7f76e06778754792b65200253ca6edea6b1903d77
+  note: 'RomanForge-Rolle: Hauptfigur – Kynologin, Bio-Scouting-Spezialistin und Hundeführerin
+    im Basiscamp'
+  visual: 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden,
+    lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller
+    Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng
+    zu einem tiefen Zopf im Nacken bindet. Sie trägt einen schlammverkrusteten, olivgrünen
+    Outdoor-Overall mit verstärkten Knien, eine taktische Hundeführerweste mit Signalpfeifen
+    und Biometrie-Empfängern sowie schwere Schnürstiefel. Eine feine, weiße Bissnarbe
+    zieht sich über ihr rechtes Handgelenk.
+- source: Lin Chen
+  target: Lin Chen
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: cf9bc951-6bf7-496e-bd17-3437a0d37e11
+  rf_appearance_sha: 215743a4cc2a9466a9ab129314ebebf4705b664675e6f5b9055b077de3824ba4
+  note: 'RomanForge-Rolle: Nebenfigur – Camp-Ärztin und Umwelt-Biologin in Outpost
+    Alpha'
+  visual: 38 Jahre alt, zierlich, aber zäh gebaut, mit ruhigen, fließenden Handbewegungen.
+    Schmales Gesicht mit glatter, blasser Haut, wachen dunklen Augen hinter einer
+    dünnen, randlosen Datenbrille und kinnlangem, glattem schwarzem Haar, das sie
+    unter einer weißen OP-Haube oder einem Stirnband trägt. Trägt einen sauberen,
+    hellgrauen Mediziner-Overall mit rot abgesetzten Schulterstreifen und ein tragbares
+    Biometrie-Tablet an einer Magnethalterung vor der Brust.
+- source: Karsten Radek
+  target: Karsten Radek
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: fc0bf3ff-07fb-4d06-a40f-c0d7faba1a3f
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Wächter-Hund auf der Gegenseite'

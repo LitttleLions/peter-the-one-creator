@@ -1,0 +1,51 @@
+{
+  "book_id": "der-zweite-orbit",
+  "title": "Der zweite Orbit",
+  "style": "stil-01-original",
+  "chapters": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014",
+    "015",
+    "016",
+    "017",
+    "018",
+    "019",
+    "020",
+    "021",
+    "022",
+    "023",
+    "024",
+    "025",
+    "026",
+    "027",
+    "028",
+    "029",
+    "030"
+  ],
+  "created_at": "2026-11-21T13:48:13",
+  "llm": "none",
+  "counts": {
+    "ERROR": 3,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "chapter_reports": [
+    "books\\der-zweite-orbit\\work\\reviews\\stil-01-original\\chapters\\001-review.md",
+    "books\\der-zweite-orbit\\work\\reviews\\stil-01-original\\chapters\\012-review.md",
+    "books\\der-zweite-orbit\\work\\reviews\\stil-01-original\\chapters\\015-review.md"
+  ],
+  "summary_markdown": "books\\der-zweite-orbit\\work\\reviews\\stil-01-original\\review-summary.md",
+  "summary_json": "books\\der-zweite-orbit\\work\\reviews\\stil-01-original\\review-summary.json"
+}

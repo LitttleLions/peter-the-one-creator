@@ -1,0 +1,182 @@
+book: der-zweite-orbit
+chapters:
+  '001':
+    title: Kalter Schlamm
+    rf_base: 04bb914c57c8916381ba969e530c735fec6b154ae625ec7ff0af99aeba676938
+    peter_base: 04bb914c57c8916381ba969e530c735fec6b154ae625ec7ff0af99aeba676938
+    base_export: 20261121-124753
+    rf_id: '384'
+  '002':
+    title: Witterung im Nebel
+    rf_base: 33554c2fa6c221ed64f5fa2c3bc73db1eca59ee0980c0a08564e915c017445ed
+    peter_base: 33554c2fa6c221ed64f5fa2c3bc73db1eca59ee0980c0a08564e915c017445ed
+    base_export: 20261121-124753
+    rf_id: '386'
+  '003':
+    title: Die Orbit-Schlinge
+    rf_base: 40382498a815d3f1f65695df214a8ee05e3843a4088683a8ec3282fde5d78f29
+    peter_base: 40382498a815d3f1f65695df214a8ee05e3843a4088683a8ec3282fde5d78f29
+    base_export: 20261121-124753
+    rf_id: '387'
+  '004':
+    title: Chirurgischer Schnitt
+    rf_base: 2aaeaaf809169efb71f9b389f8c37c8d42227ecdb71698b63f6eccbb17c3f175
+    peter_base: 2aaeaaf809169efb71f9b389f8c37c8d42227ecdb71698b63f6eccbb17c3f175
+    base_export: 20261121-124753
+    rf_id: '388'
+  '005':
+    title: Geister-Telemetrie
+    rf_base: d106843604eb3de115c19f47b9a34ed8ef549cba24cf0c642ac2c076b4365dcb
+    peter_base: d106843604eb3de115c19f47b9a34ed8ef549cba24cf0c642ac2c076b4365dcb
+    base_export: 20261121-124753
+    rf_id: '389'
+  '006':
+    title: Spur und Frequenz
+    rf_base: 2875560846b72a9d60fe916c3ba2adccfb7d25c779c35e6681c3b96526ed5253
+    peter_base: 2875560846b72a9d60fe916c3ba2adccfb7d25c779c35e6681c3b96526ed5253
+    base_export: 20261121-124753
+    rf_id: '390'
+  '007':
+    title: Die Kette schließt sich
+    rf_base: f674b3ecb1876f7b69f7f4d97812622241fedce844f58b60bb97dae5c8ab4df2
+    peter_base: f674b3ecb1876f7b69f7f4d97812622241fedce844f58b60bb97dae5c8ab4df2
+    base_export: 20261121-124753
+    rf_id: '391'
+  008:
+    title: Das Gesetz der Pfote
+    rf_base: 565bd75f248e066c9b103a58ee2aad2231cbab32284a092a222aa338946833ca
+    peter_base: 565bd75f248e066c9b103a58ee2aad2231cbab32284a092a222aa338946833ca
+    base_export: 20261121-124753
+    rf_id: '392'
+  009:
+    title: Rudel-Dynamik
+    rf_base: c0ede9dd170a0f44a4d0b430b83e61ffbc6103be58ffcd24fe08a057fe074035
+    peter_base: c0ede9dd170a0f44a4d0b430b83e61ffbc6103be58ffcd24fe08a057fe074035
+    base_export: 20261121-124753
+    rf_id: '393'
+  '010':
+    title: Waffenspuren im Eis
+    rf_base: 48065c1f8a22e8fb418974653bb83691429b6144b5ba23655cf3d9cb25e1d6da
+    peter_base: 48065c1f8a22e8fb418974653bb83691429b6144b5ba23655cf3d9cb25e1d6da
+    base_export: 20261121-124753
+    rf_id: '394'
+  '011':
+    title: Der Barmherzige Stoß
+    rf_base: 8eaa51c18349e06b66ac9312db6b553ee0dbc3ee22c049dfe1ed2e167d51c58e
+    peter_base: 8eaa51c18349e06b66ac9312db6b553ee0dbc3ee22c049dfe1ed2e167d51c58e
+    base_export: 20261121-124753
+    rf_id: '395'
+  '012':
+    title: Der Funke im Schilf
+    rf_base: b1d33fc265ca542bfa0d98e97c3f428ddb0d4931d4ddd3b49b431d302a47f6cc
+    peter_base: b1d33fc265ca542bfa0d98e97c3f428ddb0d4931d4ddd3b49b431d302a47f6cc
+    base_export: 20261121-124753
+    rf_id: '396'
+  '013':
+    title: Das EKG der Toten
+    rf_base: ff0516b1559e4cf74db58d51d1dbc76f53afd21e461615935938fa3fe7ebff34
+    peter_base: ff0516b1559e4cf74db58d51d1dbc76f53afd21e461615935938fa3fe7ebff34
+    base_export: 20261121-124753
+    rf_id: '397'
+  '014':
+    title: Jagd durch die Nadeln
+    rf_base: 395f0d81b0c85d711ab8e65aa61c12f3d326d2d014bc4580ba65b34700cd7b72
+    peter_base: 395f0d81b0c85d711ab8e65aa61c12f3d326d2d014bc4580ba65b34700cd7b72
+    base_export: 20261121-124753
+    rf_id: '398'
+  '015':
+    title: Das Erbe von 1957
+    rf_base: 35fced64eeb9f0025a3d39f051c711387a7b6cbbf7006cef4d71103a5f8eb72c
+    peter_base: 35fced64eeb9f0025a3d39f051c711387a7b6cbbf7006cef4d71103a5f8eb72c
+    base_export: 20261121-124753
+    rf_id: '399'
+  '016':
+    title: Die Kammer der Kudrjawka
+    rf_base: a6a2ca7de4a42bd13b42b3198bcba6407f257a0b85d9b92d38b46ed4850f6e1b
+    peter_base: a6a2ca7de4a42bd13b42b3198bcba6407f257a0b85d9b92d38b46ed4850f6e1b
+    base_export: 20261121-124753
+    rf_id: '400'
+  '017':
+    title: Die Eiserne Stimme
+    rf_base: 0f0979fa4ea69a0386115fbe8fef31694a5259f22bf89da5bdee964543470c81
+    peter_base: 0f0979fa4ea69a0386115fbe8fef31694a5259f22bf89da5bdee964543470c81
+    base_export: 20261121-124753
+    rf_id: '401'
+  018:
+    title: Protokoll zweier Welten
+    rf_base: 107f13fd1fbffd6dc050c920d1d22267889f2022c155a70028abec1f588acc42
+    peter_base: 107f13fd1fbffd6dc050c920d1d22267889f2022c155a70028abec1f588acc42
+    base_export: 20261121-124753
+    rf_id: '402'
+  019:
+    title: Der Marktwert des Wunders
+    rf_base: 0b983e67d15c2100cf70ad2fae6c4d4d90f236a98c663cbfba7dc763cd42e0ca
+    peter_base: 0b983e67d15c2100cf70ad2fae6c4d4d90f236a98c663cbfba7dc763cd42e0ca
+    base_export: 20261121-124753
+    rf_id: '403'
+  '020':
+    title: Operation Ernte
+    rf_base: 21003c6715629a61a7a9e91d1fcf6949bbdc04e9903277f8caf60b57412d1dc2
+    peter_base: 21003c6715629a61a7a9e91d1fcf6949bbdc04e9903277f8caf60b57412d1dc2
+    base_export: 20261121-124753
+    rf_id: '404'
+  '021':
+    title: Fünf von Sieben
+    rf_base: 4ac7871b829ea2bb13db074225571e87d9ecee0fd956d960ef0914d55f69b1f1
+    peter_base: 4ac7871b829ea2bb13db074225571e87d9ecee0fd956d960ef0914d55f69b1f1
+    base_export: 20261121-124753
+    rf_id: '405'
+  '022':
+    title: Der Zündbefehl
+    rf_base: bdd8c15b01450c70fb978d113ad64e005d764d671869dc1a820c7362c2c686c1
+    peter_base: bdd8c15b01450c70fb978d113ad64e005d764d671869dc1a820c7362c2c686c1
+    base_export: 20261121-124753
+    rf_id: '406'
+  '023':
+    title: Zähne im Kupfer
+    rf_base: 7f97ed69164c8215cc99d15cc38d1a679f6910268c06d12d1daa7cb0bbc4d642
+    peter_base: 7f97ed69164c8215cc99d15cc38d1a679f6910268c06d12d1daa7cb0bbc4d642
+    base_export: 20261121-124753
+    rf_id: '407'
+  '024':
+    title: Die Meuterei der Schaufeln
+    rf_base: b10189e57077bd13ba5699c1b0a6d7ac23641a2878342a84f271d075ae3b73a2
+    peter_base: b10189e57077bd13ba5699c1b0a6d7ac23641a2878342a84f271d075ae3b73a2
+    base_export: 20261121-124753
+    rf_id: '408'
+  '025':
+    title: Der Riss in der Kuppel
+    rf_base: 9bdf40d56ae69c847ddff243d0ba9760838fe7b539b94d8df011bd24de055a77
+    peter_base: 9bdf40d56ae69c847ddff243d0ba9760838fe7b539b94d8df011bd24de055a77
+    base_export: 20261121-124753
+    rf_id: '409'
+  '026':
+    title: Entwaffnet
+    rf_base: c599d738fcf1a2df982dbe6494c3c9dbc4e1adfddb7cde2013613eb8356c2dc1
+    peter_base: c599d738fcf1a2df982dbe6494c3c9dbc4e1adfddb7cde2013613eb8356c2dc1
+    base_export: 20261121-124753
+    rf_id: '410'
+  '027':
+    title: Vierzig Grad im Eisen
+    rf_base: c64c5b7aa4db84b315b1e2dc984206aeef2ce9a772b5a18e433053666798d793
+    peter_base: c64c5b7aa4db84b315b1e2dc984206aeef2ce9a772b5a18e433053666798d793
+    base_export: 20261121-124753
+    rf_id: '411'
+  028:
+    title: Drei Sekunden Licht
+    rf_base: 2a62cfe29d6672de87ee30f8e661607ca3d29e3676777390f7e43b8f3e7681e1
+    peter_base: 2a62cfe29d6672de87ee30f8e661607ca3d29e3676777390f7e43b8f3e7681e1
+    base_export: 20261121-124753
+    rf_id: '412'
+  029:
+    title: Bypässe und Abschied
+    rf_base: c8ddf54f56be4e246acef112a1f23f6c2f14b99594b9c601356b94bd9fae4959
+    peter_base: c8ddf54f56be4e246acef112a1f23f6c2f14b99594b9c601356b94bd9fae4959
+    base_export: 20261121-124753
+    rf_id: '413'
+  '030':
+    title: Der erste Kreis
+    rf_base: 82cde8738c225909c70f3b4b42c71210b3d03a5892e647495482f40eb5a98b51
+    peter_base: 82cde8738c225909c70f3b4b42c71210b3d03a5892e647495482f40eb5a98b51
+    base_export: 20261121-124753
+    rf_id: '414'

@@ -1,0 +1,179 @@
+{
+  "format": "romanforge-characters/1",
+  "generated": "Erzeugt von tools/sync_romanforge_characters.py - nicht von Hand bearbeiten.",
+  "handoff_id": "90ca9b7c-1388-40a0-a470-345e6682c169",
+  "fetched_at": "2026-11-21T12:47:53Z",
+  "characters": [
+    {
+      "uid": "0b8f5acf-535f-42b1-883c-eacfbf7510a4",
+      "name": "Victoria Sterling",
+      "role": "Gegenspieler – Expeditionsleiterin und Venture-Direktorin der Aethelgard-Mission im Camp",
+      "description": "Victoria Sterling trägt die Gesamtverantwortung für den Aufbau von Outpost Alpha und die fristgerechte Inbetriebnahme der Helium-3- und Seltenerd-Sinteranlagen auf Nova Terra. Als hochintelligente, eiskalt kalkulierende Risiko-Managerin will sie die Förderquote und Treibstoff-Synthese innerhalb des 28-Tage-Fensters um jeden Preis sichern. Sie fungiert als unerbittlicher System-Antagonist, deren panische Angst vor Kontroll- und Bedeutungsverlust eine fortschreitende Militarisierung antreibt, bis sie im Finale durch ihre eigene Fehlkalkulation entmachtet wird.",
+      "appearance": "44 Jahre alt, mittelgroß, schlank, mit kerzengerader, fast militärisch kontrollierter Körperhaltung. Scharf geschnittenes Gesicht mit hohen Brauen, kühlen grünen Augen und einem schmalen Mund, platinblondes Haar in einem exakt kinnlangen Bob, der selbst im staubigen Camp immer makellos sitzt. Trägt maßgeschneiderte, dunkelblaue Funktionskleidung aus sauberem High-Tech-Gewebe mit dem dezenten silbernen Aethelgard-Emblem auf der Brust und ein dünnes Daten-Armband am linken Handgelenk.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "1a1fcbf4-60ab-49e9-a0bd-9469942ed37c",
+      "name": "Vostok",
+      "role": "Nebenfigur – Leitender Techniker und Schwarm-Koordinator der Laika-Nachfahren",
+      "description": "Vostok ist der technische Spezialist und System-Ingenieur unter den Hunden von Nova Terra, der für die Wartung der Kuppel-Mechanik und das unblutige Übernehmen der menschlichen Arbeits-Androiden verantwortlich ist. Getrieben von leidenschaftlicher Neugier auf die fremde Technik studiert er die Systeme der Menschen, statt sie unnötig zu zerstören. In der zweiten Buchhälfte arbeitet er eng und begeistert mit Henrik Vance und Darius Vance-Kowalski zusammen, um die Geothermie-Leitung zu koppeln und das Datenpaket für den Friedensvertrag vorzubereiten.",
+      "appearance": "Im biologischen Körper ein mittelgroßer, drahtiger Rüde (ca. 20 kg) mit kurzhaarigem, schwarz-lohfarbenem Fell, hellen Abzeichen über den Augen und einem schmalen, kupferfarben schimmernden Neural-Kragen. Sein gesteuerter Roboter-Avatar ist ein leicht modifizierter, 1,90 Meter großer Wartungs-Avatar mit vier zusätzlichen feinmechanischen Werkzeug-Armen am Brustkorb (sechsarmig) und bläulich leuchtenden Diagnose-Optiken.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "1ab67a11-cf4e-4bce-8195-684c382251f1",
+      "name": "Kudrjawka-Sieben",
+      "role": "Hauptfigur – Grenzgänger und Späher der Laika-Nachfahren, erster Kontaktpartner der Menschen",
+      "description": "Kudrjawka-Sieben (von Henrik kurz „Sieben“ genannt) ist ein kybernetisch erweiterter Nachfahre von Laika in der elften Generation, der anfangs einen humanoiden Späher-Avatar steuert, um das menschliche Camp zu beobachten. Er will herausfinden, ob die Menschen immer noch rücksichtslose Herren wie 1957 sind oder zu einer echten Partnerschaft auf Augenhöhe fähig sind. Nach der Enthüllung seines wahren Wesens in Kapitel 15 wird er zum philosophischen Brückenbauer für Henrik und stellt sich gegen die Hardliner seines Rudels, um eine tödliche Eskalation zu verhindern.",
+      "appearance": "Im realen biologischen Körper ein mittelgroßer, kräftiger Mischlingshund (ca. 22 kg, Züge von sibirischem Husky und Terrier) mit dichtem, grau-weiß-schwarz geflecktem Fell, buschigem, geringeltem Schwanz, klaren bernsteinbraunen Augen sowie einem nahtlos eingewachsenen, mattschwarzen bio-kybernetischen Neural-Kragen mit bläulichen Lichtleiter-Adern entlang des Hinterkopfs und der Halswirbelsäule. Sein gesteuerter Roboter-Avatar ist eine zwei Meter große, schlanke, zweibeinige Maschine aus verwittertem, titanfarbenem Verbundstoff mit viergliedrigen Greifhänden, nach hinten gewinkelten Laufgelenken und einem gesichtslosen, ovalen Sensorkopf.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "27531688-a7ad-4fd8-a832-fbf100983b6f",
+      "name": "Jannis Koster",
+      "role": "Nebenfigur – Landefähren-Pilot, Logistiker und Funk-Operator im Camp",
+      "description": "Jannis Koster ist der verantwortliche Pilot der schweren Rückkehrfähre und verwaltet den Funkverkehr sowie die Treibstoff-Betankung zwischen Outpost Alpha und dem Mutterschiff im Orbit. Er schweigt lange aus Angst um seinen eigenen Sitzplatz und seine Pilotenlizenz über Victoria Sterlings Manipulationen an den Treibstofftabellen. Schließlich findet er durch Kowalski und Thorne den Mut, die Startcodes zu sperren und die Gruppe sicher im Finale zum Mutterschiff zu fliegen.",
+      "appearance": "34 Jahre alt, mittelgroß, schlaksig mit langen Fingern und unruhiger Körperhaltung. Schmale Nase, blasse Haut mit Sommersprossen, wasserblaue, oft nervös blinzelnde Augen und kurz geschnittenes, strohblondes Haar. Trägt eine gepolsterte, dunkelgrüne Fliegerjacke mit abgewetzten Lederbündchen über dem grauen Bord-Overall und ein schweres Funk-Headset um den Hals.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "2d4d2386-2043-42fc-9f10-f7c68ac76f4a",
+      "name": "Iskra",
+      "role": "Nebenfigur – Junge Späher-Hündin der Laika-Nachfahren ohne großen Avatar",
+      "description": "Iskra („Der Funke“) ist die jüngste aktive Späherin der Kudrjawka und bewegt sich im Gegensatz zu den älteren Wächtern fast ausschließlich auf ihren eigenen vier Pfoten durch die Felsen rund um Outpost Alpha. Ihr äußeres Ziel ist es, die Erdenhunde Boran und Taiga kennenzulernen und als flinke Botin zwischen dem Tal und dem Camp zu dienen. Da sie der jüngsten Generation angehört, ist sie kaum von historischen Ängsten vor den Menschen belastet und folgt ihrer natürlichen Neugier, wodurch sie zur Retterin für Henrik und Elena wird.",
+      "appearance": "Anderthalb Jahre alte, kleine, wendige Hündin (ca. 15 kg) mit dichtem, weiß-rotbraun geschecktem Fell, spitzer Schnauze, leuchtend dunklen Knopfaugen und einer buschigen Rute mit weißer Spitze. Trägt keinen massiven Schädelkranz, sondern nur ein schmales, kaum sichtbares anthrazitfarbenes Kontaktband im Nackenfell.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "2d5be083-137c-47a8-bc76-30fd64dd40d4",
+      "name": "Anton Lindqvist",
+      "role": "Gegenspieler – Vorstandsbeauftragter und Aufsichtsrats-Vertreter auf dem Mutterschiff im Orbit",
+      "description": "Anton Lindqvist vertritt die Mehrheitseigner des Konsortiums Aethelgard Ventures an Bord des Orbital-Trägers „Aethelgard Prime“ und überwacht die Bodenmission aus der sicheren Distanz des Orbits. Er ist der unsichtbare System-Antagonist im Hintergrund, der durch seinen gnadenlosen finanziellen Druck Victoria Sterling zu immer verzweifelteren Schritten treibt, um vor Ablauf des 28-Tage-Fensters den Börsenkollaps abzuwenden. Nachdem er von der Alien-Bionik erfährt, befiehlt er skrupellos die „Operation Ernte“, muss sich jedoch am Ende der Macht der Quanten-Bake und Kapitän Halvorsen beugen.",
+      "appearance": "56 Jahre alt, hochgewachsen, schlank, mit makellos gepflegtem Äußeren in der Schwerelosigkeit bzw. im Rotations-Habitat des Mutterschiffs. Scharfes, schmales Gesicht mit hoher Stirn, eisgrauen Augen, zurückgegeltem silberweißem Haar und einem exakt gestutzten schmalen Oberlippen- und Kinnbart. Trägt auch an Bord des Trägerschiffs einen maßgeschneiderten anthrazitfarbenen Business-Stehkragenanzug mit magnetischen Sohlen.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "35fbe977-bb38-4366-acbf-fc41ad56ff81",
+      "name": "Marcus Thorne",
+      "role": "Nebenfigur – Leiter der Camp-Sicherheit und verantwortlicher Taktiker vor Ort",
+      "description": "Marcus Thorne ist für den physischen Schutz von Outpost Alpha, die Perimeter-Sensoren und die Sicherheit der sieben Teammitglieder verantwortlich. Sein Ziel ist es, jeden Übergriff aus dem Nebelgebiet abzuwehren und seine Leute vollzählig nach Hause zu bringen, gerät dabei jedoch in den Konflikt zwischen soldatischem Gehorsam und seinem eigenen Ehrenkodex. Nachdem er anfangs die Verteidigung gegen die Laika-Avatare forciert, erkennt er Victoria Sterlings rücksichtslosen Kurs und stellt sich schließlich auf die Seite von Henrik und Elena.",
+      "appearance": "51 Jahre alt, breitschultrig, kompakt und muskulös wie ein ehemaliger Rugbyspieler, mit ruhigen, sparsamen Bewegungen. Kantiges Gesicht mit gebrochener Nase, dunkler Haut, kurz geschorenem schwarzem Haar mit grauen Schläfen und wachsamen dunkelbraunen Augen. Trägt eine matte, anthrazitfarbene ballistische Schutzweste über dem grauen Stations-Overall, ein schweres Mehrzweck-Werkzeugmesser am Oberschenkel und ein Kehlkopfmikrofon.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "373a7f0d-d127-4764-9564-0983ff837ab6",
+      "name": "Henrik Vance",
+      "role": "Hauptfigur – Leitender Systemarchitekt und Robotik-Diagnostiker der Nova-Terra-Mission",
+      "description": "Henrik Vance ist der leitende Systemarchitekt im Basiscamp Outpost Alpha und für die humanoiden Arbeits-Androiden der Mission zuständig, wobei er die rätselhaften Systemausfälle aufzuklären versucht. Geprägt von einem früheren Unglück flieht er vor menschlicher Unberechenbarkeit in sauberen Code, bis er erkennt, dass hinter den fremden Maschinenwesen fühlende Hunde-Nachfahren stecken. Vom zynischen Einzelgänger wächst er zum entscheidenden Vermittler zwischen der Menschheit und den Nachfahren von Laika heran.",
+      "appearance": "47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und einen unregelmäßig gestutzten Dreitagebart. Er trägt meist eine abgewetzte, dunkelgraue Thermo-Arbeitsweste mit vielen Werkzeugtaschen über einem verwaschenen blauen Rollkragenshirt, ölverschmierte Arbeitshandschuhe am Gürtel sowie eine auffällige blasse Brandnarbe quer über dem linken Handrücken.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "3af01348-99ef-4aa4-8b19-35a73076b6fd",
+      "name": "Boran",
+      "role": "Nebenfigur – Ausgebildeter Erden-Spürhund im Camp und biologischer Brückenbauer",
+      "description": "Boran ist der ältere und erfahrenere der beiden Erdenhunde, die Elena Koroljowa für das Bio-Scouting nach Nova Terra mitgebracht hat. Er schützt Elena im unwegsamen Gelände und wittert Gefahren sowie die biologischen Pheromone und Steuertöne der Laika-Nachfahren lange vor den technischen Sensoren. Indem er den Angriffsbefehl auf die fremden Maschinenwesen verweigert und sich beschwichtigend vor ihnen niederlegt, liefert er den entscheidenden Impuls zur Aufklärung des Geheimnisses und fungiert fortan als emotionaler Dolmetscher zwischen Mensch und kybernetischem Hund.",
+      "appearance": "Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren. Um die Schnauze zeigen sich erste graue Haare, und über dem linken Auge befindet sich eine kleine, verheilte Kerbe im Fell. Im Außeneinsatz trägt er ein leuchtend orangefarbenes Biometrie-Geschirr mit kleiner Helmkamera, GPS-Bake und Vital-Sensoren am Brustkorb.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "5ecc638f-aa3b-4789-b37c-0943dd5a8f6c",
+      "name": "Soren Halvorsen",
+      "role": "Nebenfigur – Kommandant des Orbital-Trägers Aethelgard Prime",
+      "description": "Kapitän Soren Halvorsen trägt die nautische und technische Gesamtverantwortung für das Mutterschiff „Aethelgard Prime“ und die Einhaltung des astronomischen Rückkehrfensters durch die Saturn-Anomalie. Sein Ziel ist es, sein Schiff und die Expeditionsmitglieder vor dem Kollaps des Transferfensters sicher ins innere Sonnensystem zurückzubringen. Obwohl an Flottenverträge gebunden, verachtet er die Rendite-Gier der Konzernspitze und nutzt schließlich sein nautisches Notstandsrecht, um Lindqvist zu überstimmen und den Friedensvertrag zu besiegeln.",
+      "appearance": "60 Jahre alt, schwer gebaut, mit breitem Nacken und ruhiger, aufrechter Haltung auf dem Kommandodeck. Wettergegerbtes, kantiges Gesicht mit tiefen Furchen, grauem kurzem Vollbart, buschigen Brauen über blauen Augen und lichtem grauem Haar. Trägt die dunkelblaue Standard-Flottenuniform mit goldenen Kapitänsstreifen und magnetischen Stiefeln.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "737c6e06-9547-4b3e-9ae3-e19d596d593f",
+      "name": "Jasdowski",
+      "role": "Historische Hintergrundfigur",
+      "description": "Jasdowski ist ein historischer Wissenschaftler aus dem Jahr 1957 im Umfeld des sowjetischen Raumfahrtprogramms und von Laika. Seine Kinder spielten kurz vor dem verhängnisvollen Start von Sputnik 2 im Garten mit der Hündin, was als friedvolle Erinnerungssequenz im kollektiven Gedächtnis ihrer Nachfahren überdauerte.",
+      "appearance": null,
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "738ee8e1-4af6-4430-8630-56635a3c30a0",
+      "name": "Darius Vance-Kowalski",
+      "role": "Nebenfigur – Chef-Geologe und Leiter der automatisierten Sinter-Bohrungen im Camp",
+      "description": "Kowalski leitet die schweren Bodenbohrungen und den 3D-Gesteinssinter-Druck für die Habitate und Treibstoff-Gewinnung in Outpost Alpha. Er fungiert als pragmatische Stimme der arbeitenden Crew, leidet unter dem enormen Verschleiß und fürchtet, auf Nova Terra zu stranden und seine Tochter nie wiederzusehen. Aus Verzweiflung über die Sabotageakte fordert er zunächst Vergeltung, hilft später jedoch mit seinem geologischen Fachwissen dabei, tektonische Gefahren zu entschärfen.",
+      "appearance": "39 Jahre alt, untersetzt, stämmig mit breiten Händen und kurzen, kräftigen Armen. Rundes, oft verschwitztes Gesicht mit rötlichem Vollbart, kleiner Knollennase, müden braunen Augen mit dunklen Ringen und schütterem rotem Haar unter einer abgetragenen Wollmütze. Trägt einen schweren, gelb-schwarzen Exoskelett-Stützgurt über seinem verdreckten Mechaniker-Overall sowie schwere Stahlkappen-Stiefel.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "8425187f-a79e-4f46-91b4-eeeb9a1785c6",
+      "name": "Maljutka",
+      "role": "Nebenfigur – Älteste Archivarin und Hüterin des Sputnik-Heiligtums unter den Laika-Nachfahren",
+      "description": "Maljutka ist die älteste lebende Hündin in der Biokuppel und die Bewahrerin des kollektiven Gedächtnisses seit 1957. Ihr Ziel ist es, die Erinnerung an die Urmutter Kudrjawka unverfälscht zu bewahren und eine Spaltung ihres Volkes zwischen den Fraktionen von Sieben und Oktjabr zu verhindern. In Kapitel 16 öffnet sie für Henrik und Elena die tiefen Erinnerungsspeicher am Monument von Sputnik 2 und ermöglicht schließlich den neuen Bund zwischen Menschen und Hunden.",
+      "appearance": "Vierzehn Jahre alte, kleine, zierliche Hündin (ca. 14 kg, im Aussehen fast ein exaktes Abbild der historischen Laika von 1957) mit weiß-cremefarbenem Fell, dunkelbraunen Ohren und einer fast völlig ergrauten Schnauze. Ihre Augen sind von leichtem Altersstar milchig getrübt, blicken aber ruhig und durchdringend; um ihren Hals sitzt ein besonders fein ziselierter, silbrig schimmernder Neural-Kragen der ersten Alien-Generation. Wegen altersbedingt schwacher Gelenke nutzt sie keinen großen zweibeinigen Roboter-Avatar, sondern bewegt sich auf vier Pfoten oder einer schwebenden Repulsor-Trageplatte.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "8d4de9d7-08c3-4981-bef2-6f3d9dcf434d",
+      "name": "Oktjabr",
+      "role": "Gegenspieler – Anführer der Wächter-Fraktion unter den Laika-Nachfahren (Hardliner)",
+      "description": "Oktjabr ist der taktische Anführer der Schutz- und Sicherheitsfraktion („Die Wächter“) innerhalb der Zivilisation von Laikas Nachfahren. Sein Ziel ist es, die menschliche Expedition durch gezielte Sabotage zur Umkehr zu zwingen oder notfalls das Wurmloch durch die Quanten-Bake für immer zu kollabieren. Er ist tief von der historischen Lehre geprägt, dass der Mensch schwächere Wesen versklavt oder opfert, respektiert die Menschen jedoch insgeheim und will sein Rudel vor einem erneuten Schicksal wie dem von Sputnik 2 bewahren.",
+      "appearance": "Im biologischen Körper ein großer, schwer gebauter Rüde (ca. 30 kg) mit überwiegend schwarzem und rostbraunem Fell, einem vernarbten linken Ohr und einem kalt glänzenden, breiten kybernetischen Neural-Kranz am Schädel, dessen Status-Leuchten bernsteinfarben pulsieren. Sein gesteuerter Roboter-Avatar („Der schwere Wächter“) ist eine 2,30 Meter hohe, massige Industrie- und Schutzmaschine mit dunkelgrauer Keramik-Panzerung, hydraulischen Brechwerkzeugen anstelle feiner Finger und drei rot leuchtenden optischen Linsen im breiten Brust-Kopf-Segment.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "b547d2ae-8a12-46ef-ab81-d330201c52bf",
+      "name": "Taiga",
+      "role": "Nebenfigur – Jüngere Erden-Schutzhündin im Camp und Spurensucherin",
+      "description": "Taiga ist die jüngere, temperamentvollere der beiden Erdenhunde von Elena Koroljowa und für den Nahschutz sowie die Flächensuche im unwegsamen Gelände zuständig. Ihr Ziel ist es, ihr Rudel aus Elena und Boran zu schützen und ihre Energie mit den Einsatzregeln zu vereinbaren. Im Finale verteidigt sie gemeinsam mit Boran die Schachtrampe in der Biokuppel gegen Victorias Kampf-Androiden.",
+      "appearance": "Drei Jahre alte, mittelgroße, sehnige Hündin (ca. 26 kg) mit kurzem, dichtem, sandfarben-rötlichem Fell, schwarzer Gesichtsmaske und einer buschigen, sichelförmig über den Rücken getragenen Rute. Wache, dunkelbraune Augen und ein charakteristisches Knickohr rechts. Trägt im Einsatz ein neongelbes Biometrie-Geschirr mit seitlichen Packtaschen für Notfall-Signalstäbe.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "c720f2ab-28c0-41b0-96fe-d9daa78222a2",
+      "name": "Laika",
+      "role": "Historische Schlüsselfigur und mythologische Urmutter der Hunde-Zivilisation auf Nova Terra",
+      "description": "Laika (auch Kudrjawka) ist die historische Hündin, die 1957 von sowjetischen Wissenschaftlern in den Weltraum geschossen wurde und den Ursprung der auf Nova Terra lebenden Hundezivilisation bildet. Ihre gespeicherten Erinnerungen an die Hitze, Enge und Todesangst in Sputnik 2 prägen das kollektive Trauma und Misstrauen ihrer Nachfahren gegenüber den Menschen. Zugleich birgt ihr Vermächtnis Erinnerungen an die frühe Zuneigung durch Menschen, die den Grundstein für eine mögliche Erneuerung der Symbiose legen.",
+      "appearance": "Historisch kleine, zierliche Hündin (deren optisches Abbild sich in der Archivarin Maljutka mit weiß-cremefarbenem Fell und dunkelbraunen Ohren widerspiegelt).",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "c9610b1b-e046-45fe-9b89-14f707a7893f",
+      "name": "Elena Koroljowa",
+      "role": "Hauptfigur – Kynologin, Bio-Scouting-Spezialistin und Hundeführerin im Basiscamp",
+      "description": "Elena Koroljowa leitet die biologische Geländeerkennung im Basiscamp Outpost Alpha und führt die speziell ausgebildeten Erdenhunde Boran und Taiga. Sie misstraut Menschen und Institutionen zutiefst und vertraut bedingungslos Tieren, muss jedoch lernen, Verbündete zuzulassen, um ihre Schützlinge zu retten. Sie ist der biologische Schlüssel der Mission, da sie als Erste das Rudelverhalten der fremden Maschinenwesen erkennt und gemeinsam mit Henrik Vance zur Fürsprecherin der Laika-Nachfahren wird.",
+      "appearance": "33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu einem tiefen Zopf im Nacken bindet. Sie trägt einen schlammverkrusteten, olivgrünen Outdoor-Overall mit verstärkten Knien, eine taktische Hundeführerweste mit Signalpfeifen und Biometrie-Empfängern sowie schwere Schnürstiefel. Eine feine, weiße Bissnarbe zieht sich über ihr rechtes Handgelenk.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "cf9bc951-6bf7-496e-bd17-3437a0d37e11",
+      "name": "Lin Chen",
+      "role": "Nebenfigur – Camp-Ärztin und Umwelt-Biologin in Outpost Alpha",
+      "description": "Lin Chen leitet die medizinische Station und das biologische Umweltlabor im Basiscamp Outpost Alpha. Sie sichert die Gesundheit der Crew unter den toxischen Umweltbedingungen von Nova Terra und analysiert die fremde Biosphäre. Im Konflikt zwischen wissenschaftlicher Faszination und ihrem hippokratischen Eid entscheidet sie sich schließlich gegen die Konzernleitung und unterstützt Henrik und Elena.",
+      "appearance": "38 Jahre alt, zierlich, aber zäh gebaut, mit ruhigen, fließenden Handbewegungen. Schmales Gesicht mit glatter, blasser Haut, wachen dunklen Augen hinter einer dünnen, randlosen Datenbrille und kinnlangem, glattem schwarzem Haar, das sie unter einer weißen OP-Haube oder einem Stirnband trägt. Trägt einen sauberen, hellgrauen Mediziner-Overall mit rot abgesetzten Schulterstreifen und ein tragbares Biometrie-Tablet an einer Magnethalterung vor der Brust.",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    },
+    {
+      "uid": "fc0bf3ff-07fb-4d06-a40f-c0d7faba1a3f",
+      "name": "Karsten Radek",
+      "role": "Wächter-Hund auf der Gegenseite",
+      "description": "Karsten Radek ist ein Wächter-Hund auf der Gegenseite der Laika-Nachfahren. Er agiert als taktischer Gegenspieler bzw. Gegenpart zum menschlichen Sicherheitschef Marcus Thorne.",
+      "appearance": null,
+      "first_appears_chapter": 1,
+      "updated_at": "2026-11-15T19:01:22.081Z"
+    }
+  ]
+}

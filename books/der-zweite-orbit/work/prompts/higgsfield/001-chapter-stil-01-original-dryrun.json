@@ -1,0 +1,74 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "001",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": null,
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\001\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\001-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-001.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Henrik kauert am Bohrkopf im Schlammbecken von Outpost Alpha und streicht den Dichtungsring mit dem Daumen sauber, während über ihm auf der Plattform ein Kollege etwas herunterruft. Figuren: Henrik Vance — kniet im Schlamm, den Dichtungsring in der Hand, konzentriert und erschöpft — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und; Darius Vance-Kowalski — steht auf der Bohrbühne und ruft herunter, ölverschmiert — 39 Jahre alt, untersetzt, stämmig mit breiten Händen und kurzen, kräftigen Armen. Rundes, oft verschwitztes Gesicht mit rötlichem Vollbart, kleiner Knollennase, müden braunen Augen mit dunklen Ringen und schütterem rotem Haar unter einer. Gegenstände: Bohrkrone mit Dichtungsring, Schlammwanne, Helmlampe, schwere Arbeitshandschuhe. Bildausschnitt: medium shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\001.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "001",
+    "title": "Kalter Schlamm",
+    "moment": "Henrik kauert am Bohrkopf im Schlammbecken von Outpost Alpha und streicht den Dichtungsring mit dem Daumen sauber, während über ihm auf der Plattform ein Kollege etwas herunterruft.",
+    "figures": [
+      {
+        "name": "Henrik Vance",
+        "action": "kniet im Schlamm, den Dichtungsring in der Hand, konzentriert und erschöpft",
+        "look": ""
+      },
+      {
+        "name": "Darius Vance-Kowalski",
+        "action": "steht auf der Bohrbühne und ruft herunter, ölverschmiert",
+        "look": ""
+      }
+    ],
+    "props": [
+      "Bohrkrone mit Dichtungsring",
+      "Schlammwanne",
+      "Helmlampe",
+      "schwere Arbeitshandschuhe"
+    ],
+    "composition": "medium shot",
+    "beat": "Arbeit unter Zeitdruck",
+    "evidence": [
+      5,
+      18
+    ],
+    "source": "manual",
+    "model": null,
+    "created": "2026-11-21T13:14:15Z",
+    "text_sha256": "",
+    "usage": {}
+  }
+}

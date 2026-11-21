@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "chapter": "003",
+  "title": "Die Orbit-Schlinge",
+  "moment": "Im engen Kommando-Container sitzt Victoria an der zentralen Konsole, Jannis Koster starrt übermüdet auf das Holo-Diagramm der Treibstoff-Telemetrie, und Henrik lehnt schweigend an der Wand daneben.",
+  "figures": [
+    {
+      "name": "Victoria Sterling",
+      "action": "sitzt aufrecht an der Konsole, die Hände flach auf der Tischplatte"
+    },
+    {
+      "name": "Jannis Koster",
+      "action": "sitzt vorgebeugt vor dem Holo-Diagramm, reibt sich die Schläfen"
+    },
+    {
+      "name": "Henrik Vance",
+      "action": "lehnt an der Wandverkleidung, den Blick auf die Messkurven geheftet"
+    }
+  ],
+  "props": [
+    "Holo-Diagramm der Treibstoff-Telemetrie",
+    "Thermobecher",
+    "Stahlrippen des Containers",
+    "Kondenswasser an den Scheiben"
+  ],
+  "composition": "medium shot",
+  "beat": "Krise",
+  "evidence": [
+    3,
+    13
+  ],
+  "source": "manual"
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "chapter": "002",
+  "title": "Witterung im Nebel",
+  "moment": "Elena steht mit dem Rüden Boran am Nordzaun des Camps im Schein der Natriumlampen; der Hund steht plötzlich still, die Ohren nach vorn, und starrt in den Schwefelnebel jenseits des Stacheldrahts.",
+  "figures": [
+    {
+      "name": "Elena Koroljowa",
+      "action": "hält die Führleine kurz, blickt angespannt in den Nebel"
+    },
+    {
+      "name": "Boran",
+      "action": "steht reglos da, Ohren gespitzt, Nackenhaare glatt, starrt in die Dunkelheit"
+    }
+  ],
+  "props": [
+    "Stacheldrahtzaun",
+    "Natriumdampflampen",
+    "Maulkorb",
+    "gefrorener Basaltschotter"
+  ],
+  "composition": "two-shot",
+  "beat": "Witterung",
+  "evidence": [
+    3,
+    9
+  ],
+  "source": "manual"
+}

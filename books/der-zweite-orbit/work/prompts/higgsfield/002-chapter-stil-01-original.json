@@ -1,0 +1,96 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "002",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": null,
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\002\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\002-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-002.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Elena steht mit dem Rüden Boran am Nordzaun des Camps im Schein der Natriumlampen; der Hund steht plötzlich still, die Ohren nach vorn, und starrt in den Schwefelnebel jenseits des Stacheldrahts. Figuren: Elena Koroljowa — hält die Führleine kurz, blickt angespannt in den Nebel — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — steht reglos da, Ohren gespitzt, Nackenhaare glatt, starrt in die Dunkelheit — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren. Gegenstände: Stacheldrahtzaun, Natriumdampflampen, Maulkorb, gefrorener Basaltschotter. Bildausschnitt: two-shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_131632_c17be0ed-efaa-4c10-93a6-83f448bc5555.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-21T13:16:32.749887Z",
+      "display_name": "GPT Image 2",
+      "id": "c17be0ed-efaa-4c10-93a6-83f448bc5555",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_131632_c17be0ed-efaa-4c10-93a6-83f448bc5555_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Elena steht mit dem Rüden Boran am Nordzaun des Camps im Schein der Natriumlampen; der Hund steht plötzlich still, die Ohren nach vorn, und starrt in den Schwefelnebel jenseits des Stacheldrahts. Figuren: Elena Koroljowa — hält die Führleine kurz, blickt angespannt in den Nebel — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — steht reglos da, Ohren gespitzt, Nackenhaare glatt, starrt in die Dunkelheit — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren. Gegenstände: Stacheldrahtzaun, Natriumdampflampen, Maulkorb, gefrorener Basaltschotter. Bildausschnitt: two-shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_131632_c17be0ed-efaa-4c10-93a6-83f448bc5555.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\002.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "002",
+    "title": "Witterung im Nebel",
+    "moment": "Elena steht mit dem Rüden Boran am Nordzaun des Camps im Schein der Natriumlampen; der Hund steht plötzlich still, die Ohren nach vorn, und starrt in den Schwefelnebel jenseits des Stacheldrahts.",
+    "figures": [
+      {
+        "name": "Elena Koroljowa",
+        "action": "hält die Führleine kurz, blickt angespannt in den Nebel",
+        "look": ""
+      },
+      {
+        "name": "Boran",
+        "action": "steht reglos da, Ohren gespitzt, Nackenhaare glatt, starrt in die Dunkelheit",
+        "look": ""
+      }
+    ],
+    "props": [
+      "Stacheldrahtzaun",
+      "Natriumdampflampen",
+      "Maulkorb",
+      "gefrorener Basaltschotter"
+    ],
+    "composition": "two-shot",
+    "beat": "Witterung",
+    "evidence": [
+      3,
+      9
+    ],
+    "source": "manual",
+    "model": null,
+    "created": "2026-11-21T13:16:30Z",
+    "text_sha256": "",
+    "usage": {}
+  }
+}

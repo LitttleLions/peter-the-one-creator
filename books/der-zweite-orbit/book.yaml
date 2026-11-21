@@ -40,6 +40,25 @@ ai:
   granularity: scene
   max_tokens_per_scene: 10000
 
+# Bild-Defaults: gleiche Optik wie das Cover (Graphit/Teal, Bernstein-Licht)
+higgsfield:
+  model: gpt_image_2
+  aspect_ratio: "3:4"
+  quality: "2k"
+  vignette:
+    provider: auto
+
+illustration_setting: |
+  Hard science fiction illustration, painterly realism, used-future industrial
+  mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog,
+  warm amber work lights as the only warm accent. Fine detail, cinematic light.
+
+illustration_world: |
+  Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog
+  and magnetic storms; a mining outpost with drilling towers, pressurised
+  domes, worn machinery and patched exosuits. The same visual world as the
+  cover.
+
 # Feste Zuordnung zum RomanForge-Projekt (nicht ueber den Titel suchen)
 romanforge:
   instance: romanforge.littlelionsfilms.de

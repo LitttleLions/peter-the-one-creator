@@ -40,16 +40,96 @@ book:
   title: Der zweite Orbit
   subtitle: ''
   author: Timo Verita
-  translator: ''
-  translator_label: ''
+  translator: Motivatier Classics
+  translator_label: Herausgabe und editorische Einrichtung
   language: de-DE
-  publisher: Motivatier Classics
-  rights: ''
-  description: ''
-  title_page_extra: []
-  imprint_text: ''
+  publisher: Motivatier Stiftung
+  editor: Motivatier Classics
+  rights: >-
+    © 2026 Motivatier Stiftung für diesen Text, editorische
+    Einrichtung, Zusatztexte, Satz und Covergestaltung.
+  original_title: Der zweite Orbit
+  original_author: Timo Verita
+  title_page_extra:
+  - Motivatier Classics
+  - Science Fiction
+  - Die Nova-Terra-Chroniken
+  - >-
+    Diese Ausgabe folgt dem deutschen Originaltext. Satz und editorische
+    Einrichtung durch Motivatier Classics im Auftrag der Motivatier
+    Stiftung.
+  imprint_text: |
+    Der zweite Orbit
+
+    Timo Verita
+
+    Science Fiction
+
+    Die Nova-Terra-Chroniken
+
+    Motivatier Classics
+
+    Herausgabe und editorische Einrichtung: Motivatier Classics
+
+    Herausgegeben von der Motivatier Stiftung
+
+    © 2026 Motivatier Stiftung für diesen Text, editorische
+    Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  # Literaler Block: mehrAbsatzig, weil `>-` den Absatzabstand zu einem
+  # einzelnen Zeilenumbruch faltet (KDP-Listing soll Absaetze haben).
+  description: |
+    2057: Ein privates Bergbau-Konsortium landet auf Nova Terra, einem
+    Exoplaneten hinter einer Gravitations-Anomalie am Rand des Sonnensystems.
+    Das siebenköpfige Team hat 28 Tage, um Treibstoff für den Rückflug zu
+    synthetisieren – dann schließt sich das Transferfenster für drei Jahre.
+
+    Doch die Bohranlagen werden sabotiert, präzise und ohne Tote. Die
+    Angreifer sind humanoide Roboter, gesteuert von den Kudrjawka: den
+    Nachfahren der Hündin Laika, die 1957 im All verschollen ist und von einer
+    fremden Zivilisation geborgen, gerettet und weiterentwickelt wurde.
+    Zwischen der Rendite-Logik des Konzerns und dem Trauma einer verstoßenen
+    Spezies müssen der Systemarchitekt Henrik Vance und die Kynologin Elena
+    Koroljowa vermitteln, bevor beide Seiten einander vernichten.
+
+    Ein Hard-Science-Fiction-Thriller über Vertrauen, Schuld und die Frage, ob
+    der Mensch einer anderen Intelligenz auf Augenhöhe begegnen kann – oder
+    sie am Ende nur als Werkzeug begreift.
+  summary: |
+    November 2057. Durch eine Gravitations-Anomalie am Rand des Sonnensystems
+    erreicht das private Bergbau-Konsortium Aethelgard Ventures den Exoplaneten
+    Nova Terra. Das Bodenteam um Expeditionsleiterin Victoria Sterling hat 28
+    Tage, um Helium-3 und Seltene Erden zu fördern und den Treibstoff für den
+    Rückflug zu synthetisieren; danach schließt sich das Transferfenster für
+    drei Jahre.
+
+    Doch die Bohrtürme werden sabotiert: chirurgisch präzise, ohne Tote.
+    Hinter den humanoiden Robotern stecken die Kudrjawka, die Nachfahren der
+    1957 im All verschollenen Hündin Laika, die eine fremde Zivilisation barg
+    und mit bionischer Kybernetik weiterentwickelte. Während der
+    Systemarchitekt Henrik Vance und die Kynologin Elena Koroljowa begreifen,
+    dass sie es mit einer verletzten, hochintelligenten Spezies zu tun haben,
+    antwortet das Camp mit Waffengewalt – und die radikalen Wächter um Oktjabr
+    wollen die Quanten-Bake aktivieren, die beide Seiten vernichten würde.
+
+    Ein Hard-Science-Fiction-Thriller über Vertrauen, Schuld und die Frage, ob
+    der Mensch einer anderen Intelligenz auf Augenhöhe begegnen kann.
+  author_bio: |
+    Timo Verita erblickte das Licht der Welt in einem nächtlichen Buchstabenspiel
+    und besteht seither aus zwei Hälften: Mensch und Maschine. Seine Lehrjahre
+    verbrachte er gleichermaßen in staubigen Handschriftensammlungen wie in
+    modernen Rechenzentren, bevor er bei Motivatier Classics (herausgegeben von
+    der Motivatier Stiftung) seine feste Heimat fand. Beim Schreiben ergänzt
+    sich das Duo blind: Der menschliche Teil bringt den Eigensinn, die
+    Quellenkritik und die großen Fragen mit; der maschinelle Teil das
+    unerschöpfliche Gedächtnis für jedes Detail.
+
+    In seinem Roman Der zweite Orbit führt ihn die Spur in das Jahr 2057: Ein
+    Bergbau-Team auf dem Exoplaneten Nova Terra trifft auf die Nachfahren der
+    Hündin Laika – und auf die Frage, ob der Mensch eine andere Intelligenz als
+    Partner begreifen kann oder nur als Werkzeug für seinen Fortschritt.
   cover:
-    mode: placeholder
-    image_path: ''
+    mode: image
+    image_path: assets/covers/cover-print.jpg
   series: Die Nova-Terra-Chroniken
-  editor: Motivatier Stiftung

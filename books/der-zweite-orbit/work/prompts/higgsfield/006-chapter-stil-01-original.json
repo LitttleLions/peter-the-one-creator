@@ -1,0 +1,101 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "006",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\006\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\006-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-006.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Henrik betritt den frostigen Hundezwinger; Boran liegt auf einer Holzpalette und hebt kaum den Kopf, während Elena am hinteren Ende der Werkbank über einer Silikonform mit erstarrtem grauem Schlamm arbeitet, den. Figuren: Henrik Vance — kommt durch die Schleuse herein, die Hand noch an der Schottverriegelung — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und; Elena Koroljowa — steht an der Werkbank, über die Silikonform gebeugt, Lederriemen zwischen den Zähnen — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — liegt langgestreckt auf einer Holzpalette, den Kopf kaum gehoben — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren. Gegenstände: Gitterbox mit Holzpalette, Silikonform mit erstarrtem grauem Schlamm, getrockneter Lederriemen, orangefarbenes Einsatzgeschirr. Bildausschnitt: medium shot.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_133356_bff0378f-2606-4551-8d76-5b50b797f7ba.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-21T13:33:56.882714Z",
+      "display_name": "GPT Image 2",
+      "id": "bff0378f-2606-4551-8d76-5b50b797f7ba",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_133356_bff0378f-2606-4551-8d76-5b50b797f7ba_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Henrik betritt den frostigen Hundezwinger; Boran liegt auf einer Holzpalette und hebt kaum den Kopf, während Elena am hinteren Ende der Werkbank über einer Silikonform mit erstarrtem grauem Schlamm arbeitet, den. Figuren: Henrik Vance — kommt durch die Schleuse herein, die Hand noch an der Schottverriegelung — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und; Elena Koroljowa — steht an der Werkbank, über die Silikonform gebeugt, Lederriemen zwischen den Zähnen — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — liegt langgestreckt auf einer Holzpalette, den Kopf kaum gehoben — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren. Gegenstände: Gitterbox mit Holzpalette, Silikonform mit erstarrtem grauem Schlamm, getrockneter Lederriemen, orangefarbenes Einsatzgeschirr. Bildausschnitt: medium shot.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_133356_bff0378f-2606-4551-8d76-5b50b797f7ba.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\006.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "006",
+    "title": "Spur und Frequenz",
+    "moment": "Henrik betritt den frostigen Hundezwinger; Boran liegt auf einer Holzpalette und hebt kaum den Kopf, während Elena am hinteren Ende der Werkbank über einer Silikonform mit erstarrtem grauem Schlamm arbeitet, den.",
+    "figures": [
+      {
+        "name": "Henrik Vance",
+        "action": "kommt durch die Schleuse herein, die Hand noch an der Schottverriegelung",
+        "look": ""
+      },
+      {
+        "name": "Elena Koroljowa",
+        "action": "steht an der Werkbank, über die Silikonform gebeugt, Lederriemen zwischen den Zähnen",
+        "look": ""
+      },
+      {
+        "name": "Boran",
+        "action": "liegt langgestreckt auf einer Holzpalette, den Kopf kaum gehoben",
+        "look": ""
+      }
+    ],
+    "props": [
+      "Gitterbox mit Holzpalette",
+      "Silikonform mit erstarrtem grauem Schlamm",
+      "getrockneter Lederriemen",
+      "orangefarbenes Einsatzgeschirr"
+    ],
+    "composition": "medium shot",
+    "beat": "Ankunft",
+    "evidence": [
+      3,
+      9
+    ],
+    "source": "manual",
+    "model": null,
+    "created": "2026-11-21T13:33:56Z",
+    "text_sha256": "",
+    "usage": {}
+  }
+}

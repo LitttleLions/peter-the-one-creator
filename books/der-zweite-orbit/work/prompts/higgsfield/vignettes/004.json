@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "chapter": "004",
+  "title": "Chirurgischer Schnitt",
+  "moment": "Henrik steht auf der vereisten Gitterplattform der zweiten Ebene an Bohrturm Eins; der zwölftausend Kilowatt starke Bohrantrieb ist mitten im Vollhub ausgefallen, und im Schwefelnebel steht plötzlich absolute Stille.",
+  "figures": [
+    {
+      "name": "Henrik Vance",
+      "action": "hält inne, den Blick auf das Handgelenk-Display mit der auf null gefallenen Telemetriekurve gerichtet"
+    }
+  ],
+  "props": [
+    "eisüberzogene Metallgitter-Plattform",
+    "Handgelenk-Display",
+    "Schutzhelm mit Sichtscheibe",
+    "Stahlfachwerk des Förderturms im Nebel"
+  ],
+  "composition": "low angle",
+  "beat": "Stillstand",
+  "evidence": [
+    3,
+    9
+  ],
+  "source": "manual"
+}

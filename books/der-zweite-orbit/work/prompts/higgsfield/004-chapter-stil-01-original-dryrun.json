@@ -1,0 +1,69 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "004",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\004\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\004-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-004.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Henrik steht auf der vereisten Gitterplattform der zweiten Ebene an Bohrturm Eins; der zwölftausend Kilowatt starke Bohrantrieb ist mitten im Vollhub ausgefallen, und im Schwefelnebel steht plötzlich absolute Stille. Figuren: Henrik Vance — hält inne, den Blick auf das Handgelenk-Display mit der auf null gefallenen Telemetriekurve gerichtet — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und. Gegenstände: eisüberzogene Metallgitter-Plattform, Handgelenk-Display, Schutzhelm mit Sichtscheibe, Stahlfachwerk des Förderturms im Nebel. Bildausschnitt: low angle.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\004.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "004",
+    "title": "Chirurgischer Schnitt",
+    "moment": "Henrik steht auf der vereisten Gitterplattform der zweiten Ebene an Bohrturm Eins; der zwölftausend Kilowatt starke Bohrantrieb ist mitten im Vollhub ausgefallen, und im Schwefelnebel steht plötzlich absolute Stille.",
+    "figures": [
+      {
+        "name": "Henrik Vance",
+        "action": "hält inne, den Blick auf das Handgelenk-Display mit der auf null gefallenen Telemetriekurve gerichtet",
+        "look": ""
+      }
+    ],
+    "props": [
+      "eisüberzogene Metallgitter-Plattform",
+      "Handgelenk-Display",
+      "Schutzhelm mit Sichtscheibe",
+      "Stahlfachwerk des Förderturms im Nebel"
+    ],
+    "composition": "low angle",
+    "beat": "Stillstand",
+    "evidence": [
+      3,
+      9
+    ],
+    "source": "manual",
+    "model": null,
+    "created": "2026-11-21T13:32:39Z",
+    "text_sha256": "",
+    "usage": {}
+  }
+}

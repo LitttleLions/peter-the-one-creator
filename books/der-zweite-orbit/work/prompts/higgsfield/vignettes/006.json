@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "chapter": "006",
+  "title": "Spur und Frequenz",
+  "moment": "Henrik betritt den frostigen Hundezwinger; Boran liegt auf einer Holzpalette und hebt kaum den Kopf, während Elena am hinteren Ende der Werkbank über einer Silikonform mit erstarrtem grauem Schlamm arbeitet, den Lederriemen im Mundwinkel.",
+  "figures": [
+    {
+      "name": "Henrik Vance",
+      "action": "kommt durch die Schleuse herein, die Hand noch an der Schottverriegelung"
+    },
+    {
+      "name": "Elena Koroljowa",
+      "action": "steht an der Werkbank, über die Silikonform gebeugt, Lederriemen zwischen den Zähnen"
+    },
+    {
+      "name": "Boran",
+      "action": "liegt langgestreckt auf einer Holzpalette, den Kopf kaum gehoben"
+    }
+  ],
+  "props": [
+    "Gitterbox mit Holzpalette",
+    "Silikonform mit erstarrtem grauem Schlamm",
+    "getrockneter Lederriemen",
+    "orangefarbenes Einsatzgeschirr"
+  ],
+  "composition": "medium shot",
+  "beat": "Ankunft",
+  "evidence": [
+    3,
+    9
+  ],
+  "source": "manual"
+}

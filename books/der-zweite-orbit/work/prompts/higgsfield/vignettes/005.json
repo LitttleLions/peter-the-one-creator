@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "chapter": "005",
+  "title": "Geister-Telemetrie",
+  "moment": "Henrik sitzt im dämmrigen Diagnose-Labor auf einem Rollhocker vor dem Vektortisch und steckt ein versiegeltes Aluminium-Datenträgermodul in die Lesebank, während über dem Tisch drei blau flackernde Projektionskegel stehen.",
+  "figures": [
+    {
+      "name": "Henrik Vance",
+      "action": "sitzt vorgebeugt am Vektortisch, die Finger am Datenträgermodul, den Blick auf die Projektionen"
+    }
+  ],
+  "props": [
+    "Rollhocker",
+    "Vektortisch mit drei volumetrischen Projektionskegeln",
+    "Aluminium-Datenträgermodul mit rotem Lacksiegel",
+    "Serverracks mit blauen Diagnose-Dioden"
+  ],
+  "composition": "medium shot",
+  "beat": "Fund",
+  "evidence": [
+    3,
+    9
+  ],
+  "source": "manual"
+}

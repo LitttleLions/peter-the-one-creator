@@ -22,7 +22,7 @@
     "create",
     "gpt_image_2",
     "--prompt",
-    "Henrik betritt den frostigen Hundezwinger; Boran liegt auf einer Holzpalette und hebt kaum den Kopf, während Elena am hinteren Ende der Werkbank über einer Silikonform mit erstarrtem grauem Schlamm arbeitet, den. Figuren: Henrik Vance — kommt durch die Schleuse herein, die Hand noch an der Schottverriegelung — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und; Elena Koroljowa — steht an der Werkbank, über die Silikonform gebeugt, Lederriemen zwischen den Zähnen — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — liegt langgestreckt auf einer Holzpalette, den Kopf kaum gehoben — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren. Gegenstände: Gitterbox mit Holzpalette, Silikonform mit erstarrtem grauem Schlamm, getrockneter Lederriemen, orangefarbenes Einsatzgeschirr. Bildausschnitt: medium shot.",
+    "Henrik betritt den frostigen Hundezwinger; Boran liegt auf einer Holzpalette und hebt kaum den Kopf, während Elena am hinteren Ende der Werkbank über einer Silikonform mit erstarrtem grauem Schlamm arbeitet, den. Figuren: Henrik Vance — kommt durch die Schleuse herein, die Hand noch an der Schottverriegelung — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und; Elena Koroljowa — steht an der Werkbank, über die Silikonform gebeugt, Lederriemen zwischen den Zähnen — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — liegt langgestreckt auf einer Holzpalette, den Kopf kaum gehoben — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren. Gegenstände: Gitterbox mit Holzpalette, Silikonform mit erstarrtem grauem Schlamm, getrockneter Lederriemen, orangefarbenes Einsatzgeschirr. Bildausschnitt: medium shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
     "--aspect_ratio",
     "3:4",
     "--resolution",
@@ -32,27 +32,27 @@
     "--wait",
     "--json"
   ],
-  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_133356_bff0378f-2606-4551-8d76-5b50b797f7ba.png",
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134202_71c79b0f-3dfc-4fcc-a98f-c14716262bc2.png",
   "job_result": [
     {
-      "created_at": "2026-11-21T13:33:56.882714Z",
+      "created_at": "2026-11-21T13:42:02.633819Z",
       "display_name": "GPT Image 2",
-      "id": "bff0378f-2606-4551-8d76-5b50b797f7ba",
+      "id": "71c79b0f-3dfc-4fcc-a98f-c14716262bc2",
       "job_type": "gpt_image_2",
-      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_133356_bff0378f-2606-4551-8d76-5b50b797f7ba_min.webp",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134202_71c79b0f-3dfc-4fcc-a98f-c14716262bc2_min.webp",
       "params": {
         "aspect_ratio": "3:4",
         "height": 1168,
         "medias": [],
         "model": "videotape-alpha",
-        "prompt": "Henrik betritt den frostigen Hundezwinger; Boran liegt auf einer Holzpalette und hebt kaum den Kopf, während Elena am hinteren Ende der Werkbank über einer Silikonform mit erstarrtem grauem Schlamm arbeitet, den. Figuren: Henrik Vance — kommt durch die Schleuse herein, die Hand noch an der Schottverriegelung — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und; Elena Koroljowa — steht an der Werkbank, über die Silikonform gebeugt, Lederriemen zwischen den Zähnen — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — liegt langgestreckt auf einer Holzpalette, den Kopf kaum gehoben — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren. Gegenstände: Gitterbox mit Holzpalette, Silikonform mit erstarrtem grauem Schlamm, getrockneter Lederriemen, orangefarbenes Einsatzgeschirr. Bildausschnitt: medium shot.",
+        "prompt": "Henrik betritt den frostigen Hundezwinger; Boran liegt auf einer Holzpalette und hebt kaum den Kopf, während Elena am hinteren Ende der Werkbank über einer Silikonform mit erstarrtem grauem Schlamm arbeitet, den. Figuren: Henrik Vance — kommt durch die Schleuse herein, die Hand noch an der Schottverriegelung — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und; Elena Koroljowa — steht an der Werkbank, über die Silikonform gebeugt, Lederriemen zwischen den Zähnen — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — liegt langgestreckt auf einer Holzpalette, den Kopf kaum gehoben — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren. Gegenstände: Gitterbox mit Holzpalette, Silikonform mit erstarrtem grauem Schlamm, getrockneter Lederriemen, orangefarbenes Einsatzgeschirr. Bildausschnitt: medium shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
         "quality": "medium",
         "reference_elements": [],
         "remove_bg": false,
         "resolution": "1k",
         "width": 880
       },
-      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_133356_bff0378f-2606-4551-8d76-5b50b797f7ba.png",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134202_71c79b0f-3dfc-4fcc-a98f-c14716262bc2.png",
       "status": "completed"
     }
   ],
@@ -94,7 +94,7 @@
     ],
     "source": "manual",
     "model": null,
-    "created": "2026-11-21T13:33:56Z",
+    "created": "2026-11-21T13:42:02Z",
     "text_sha256": "",
     "usage": {}
   }

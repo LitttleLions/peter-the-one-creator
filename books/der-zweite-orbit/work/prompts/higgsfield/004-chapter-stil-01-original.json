@@ -22,7 +22,7 @@
     "create",
     "gpt_image_2",
     "--prompt",
-    "Henrik steht auf der vereisten Gitterplattform der zweiten Ebene an Bohrturm Eins; der zwölftausend Kilowatt starke Bohrantrieb ist mitten im Vollhub ausgefallen, und im Schwefelnebel steht plötzlich absolute Stille. Figuren: Henrik Vance — hält inne, den Blick auf das Handgelenk-Display mit der auf null gefallenen Telemetriekurve gerichtet — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und. Gegenstände: eisüberzogene Metallgitter-Plattform, Handgelenk-Display, Schutzhelm mit Sichtscheibe, Stahlfachwerk des Förderturms im Nebel. Bildausschnitt: low angle.",
+    "Henrik steht auf der vereisten Gitterplattform der zweiten Ebene an Bohrturm Eins; der zwölftausend Kilowatt starke Bohrantrieb ist mitten im Vollhub ausgefallen, und im Schwefelnebel steht plötzlich absolute Stille. Figuren: Henrik Vance — hält inne, den Blick auf das Handgelenk-Display mit der auf null gefallenen Telemetriekurve gerichtet — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und. Gegenstände: eisüberzogene Metallgitter-Plattform, Handgelenk-Display, Schutzhelm mit Sichtscheibe, Stahlfachwerk des Förderturms im Nebel. Bildausschnitt: low angle. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
     "--aspect_ratio",
     "3:4",
     "--resolution",
@@ -32,27 +32,27 @@
     "--wait",
     "--json"
   ],
-  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_133243_6aa3732b-94c7-459f-a512-c86bad1f5484.png",
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134052_10a8f7d7-f953-4594-ab3f-178d22d4b8b0.png",
   "job_result": [
     {
-      "created_at": "2026-11-21T13:32:43.803063Z",
+      "created_at": "2026-11-21T13:40:52.456124Z",
       "display_name": "GPT Image 2",
-      "id": "6aa3732b-94c7-459f-a512-c86bad1f5484",
+      "id": "10a8f7d7-f953-4594-ab3f-178d22d4b8b0",
       "job_type": "gpt_image_2",
-      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_133243_6aa3732b-94c7-459f-a512-c86bad1f5484_min.webp",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134052_10a8f7d7-f953-4594-ab3f-178d22d4b8b0_min.webp",
       "params": {
         "aspect_ratio": "3:4",
         "height": 1168,
         "medias": [],
         "model": "videotape-alpha",
-        "prompt": "Henrik steht auf der vereisten Gitterplattform der zweiten Ebene an Bohrturm Eins; der zwölftausend Kilowatt starke Bohrantrieb ist mitten im Vollhub ausgefallen, und im Schwefelnebel steht plötzlich absolute Stille. Figuren: Henrik Vance — hält inne, den Blick auf das Handgelenk-Display mit der auf null gefallenen Telemetriekurve gerichtet — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und. Gegenstände: eisüberzogene Metallgitter-Plattform, Handgelenk-Display, Schutzhelm mit Sichtscheibe, Stahlfachwerk des Förderturms im Nebel. Bildausschnitt: low angle.",
+        "prompt": "Henrik steht auf der vereisten Gitterplattform der zweiten Ebene an Bohrturm Eins; der zwölftausend Kilowatt starke Bohrantrieb ist mitten im Vollhub ausgefallen, und im Schwefelnebel steht plötzlich absolute Stille. Figuren: Henrik Vance — hält inne, den Blick auf das Handgelenk-Display mit der auf null gefallenen Telemetriekurve gerichtet — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und. Gegenstände: eisüberzogene Metallgitter-Plattform, Handgelenk-Display, Schutzhelm mit Sichtscheibe, Stahlfachwerk des Förderturms im Nebel. Bildausschnitt: low angle. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
         "quality": "medium",
         "reference_elements": [],
         "remove_bg": false,
         "resolution": "1k",
         "width": 880
       },
-      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_133243_6aa3732b-94c7-459f-a512-c86bad1f5484.png",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134052_10a8f7d7-f953-4594-ab3f-178d22d4b8b0.png",
       "status": "completed"
     }
   ],
@@ -84,7 +84,7 @@
     ],
     "source": "manual",
     "model": null,
-    "created": "2026-11-21T13:32:43Z",
+    "created": "2026-11-21T13:40:51Z",
     "text_sha256": "",
     "usage": {}
   }

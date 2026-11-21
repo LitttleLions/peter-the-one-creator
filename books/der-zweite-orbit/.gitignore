@@ -16,4 +16,6 @@
 /exports/**/work/
 # Ganze Exporte bleiben aus Git (AGENTS: regenerierbare Ausgaben).
 /exports/
+# Optimierungs-Archive (Original steckt in assets/master/).
+/assets/chapter/*_alt.jpg
 # <<< motivatier:large-assets <<<

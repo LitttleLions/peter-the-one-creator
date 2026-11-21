@@ -1,0 +1,106 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "007",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "high",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\007\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\007-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-007.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Elena steht mit den beiden Hunden Boran und Taiga auf der inneren Ringstraße hinter Pfosten 18; vor ihr blockieren Marcus Thorne und zwei umgebaute Atlas-Androiden den Weg zum Aussengelände, im Scheinwerferlicht des. Figuren: Elena Koroljowa — steht angespannt, die Leine kurz, den Blick auf Thorne gerichtet — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — geht bei Fuss, die Muskeln unter dem Deckhaar gespannt — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren; Taiga — trottet rechts neben ihr, die Ohren nach hinten gelegt — Drei Jahre alte, mittelgroße, sehnige Hündin (ca. 26 kg) mit kurzem, dichtem, sandfarben-rötlichem Fell, schwarzer Gesichtsmaske und einer buschigen, sichelförmig über den Rücken getragenen Rute; Marcus Thorne — steht breitbeinig im Scheinwerferlicht, die Faust am Koppelschloss — 51 Jahre alt, breitschultrig, kompakt und muskulös wie ein ehemaliger Rugbyspieler, mit ruhigen, sparsamen Bewegungen. Gegenstände: zwei umgebaute Atlas-Androiden mit Blendwerfern und Impulsgebern, Wachturm-Scheinwerfer, vereister Stahlzaun, grauer Basaltstaub. Bildausschnitt: wide establishing shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134535_df49541f-3a42-46f1-9787-b9a918b6e84d.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-21T13:45:35.418683Z",
+      "display_name": "GPT Image 2.5",
+      "id": "df49541f-3a42-46f1-9787-b9a918b6e84d",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134535_df49541f-3a42-46f1-9787-b9a918b6e84d_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Elena steht mit den beiden Hunden Boran und Taiga auf der inneren Ringstraße hinter Pfosten 18; vor ihr blockieren Marcus Thorne und zwei umgebaute Atlas-Androiden den Weg zum Aussengelände, im Scheinwerferlicht des. Figuren: Elena Koroljowa — steht angespannt, die Leine kurz, den Blick auf Thorne gerichtet — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Boran — geht bei Fuss, die Muskeln unter dem Deckhaar gespannt — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren; Taiga — trottet rechts neben ihr, die Ohren nach hinten gelegt — Drei Jahre alte, mittelgroße, sehnige Hündin (ca. 26 kg) mit kurzem, dichtem, sandfarben-rötlichem Fell, schwarzer Gesichtsmaske und einer buschigen, sichelförmig über den Rücken getragenen Rute; Marcus Thorne — steht breitbeinig im Scheinwerferlicht, die Faust am Koppelschloss — 51 Jahre alt, breitschultrig, kompakt und muskulös wie ein ehemaliger Rugbyspieler, mit ruhigen, sparsamen Bewegungen. Gegenstände: zwei umgebaute Atlas-Androiden mit Blendwerfern und Impulsgebern, Wachturm-Scheinwerfer, vereister Stahlzaun, grauer Basaltstaub. Bildausschnitt: wide establishing shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134535_df49541f-3a42-46f1-9787-b9a918b6e84d.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\007.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "007",
+    "title": "Die Kette schließt sich",
+    "moment": "Elena steht mit den beiden Hunden Boran und Taiga auf der inneren Ringstraße hinter Pfosten 18; vor ihr blockieren Marcus Thorne und zwei umgebaute Atlas-Androiden den Weg zum Aussengelände, im Scheinwerferlicht des.",
+    "figures": [
+      {
+        "name": "Elena Koroljowa",
+        "action": "steht angespannt, die Leine kurz, den Blick auf Thorne gerichtet",
+        "look": ""
+      },
+      {
+        "name": "Boran",
+        "action": "geht bei Fuss, die Muskeln unter dem Deckhaar gespannt",
+        "look": ""
+      },
+      {
+        "name": "Taiga",
+        "action": "trottet rechts neben ihr, die Ohren nach hinten gelegt",
+        "look": ""
+      },
+      {
+        "name": "Marcus Thorne",
+        "action": "steht breitbeinig im Scheinwerferlicht, die Faust am Koppelschloss",
+        "look": ""
+      }
+    ],
+    "props": [
+      "zwei umgebaute Atlas-Androiden mit Blendwerfern und Impulsgebern",
+      "Wachturm-Scheinwerfer",
+      "vereister Stahlzaun",
+      "grauer Basaltstaub"
+    ],
+    "composition": "wide establishing shot",
+    "beat": "Konfrontation",
+    "evidence": [
+      3,
+      11
+    ],
+    "source": "manual",
+    "model": null,
+    "created": "2026-11-21T13:45:34Z",
+    "text_sha256": "",
+    "usage": {}
+  }
+}

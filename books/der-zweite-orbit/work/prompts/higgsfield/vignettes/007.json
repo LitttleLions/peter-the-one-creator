@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "chapter": "007",
+  "title": "Die Kette schließt sich",
+  "moment": "Elena steht mit den beiden Hunden Boran und Taiga auf der inneren Ringstraße hinter Pfosten 18; vor ihr blockieren Marcus Thorne und zwei umgebaute Atlas-Androiden den Weg zum Aussengelände, im Scheinwerferlicht des Wachturms.",
+  "figures": [
+    {
+      "name": "Elena Koroljowa",
+      "action": "steht angespannt, die Leine kurz, den Blick auf Thorne gerichtet"
+    },
+    {
+      "name": "Boran",
+      "action": "geht bei Fuss, die Muskeln unter dem Deckhaar gespannt"
+    },
+    {
+      "name": "Taiga",
+      "action": "trottet rechts neben ihr, die Ohren nach hinten gelegt"
+    },
+    {
+      "name": "Marcus Thorne",
+      "action": "steht breitbeinig im Scheinwerferlicht, die Faust am Koppelschloss"
+    }
+  ],
+  "props": [
+    "zwei umgebaute Atlas-Androiden mit Blendwerfern und Impulsgebern",
+    "Wachturm-Scheinwerfer",
+    "vereister Stahlzaun",
+    "grauer Basaltstaub"
+  ],
+  "composition": "wide establishing shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    3,
+    11
+  ],
+  "source": "manual"
+}

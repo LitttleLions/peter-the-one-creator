@@ -42,10 +42,10 @@ ai:
 
 # Bild-Defaults: Cover-Optik als Stilanker, 1k/medium
 higgsfield:
-  model: gpt_image_2
+  model: gpt_image_2_5
   aspect_ratio: "3:4"
-  quality: "1k"
-  render_quality: "medium"
+  quality: "2k"
+  render_quality: "high"
   vignette:
     provider: auto
 

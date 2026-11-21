@@ -1,0 +1,90 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "027",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "high",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\027\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\027-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-027.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Henrik schlägt mit einem Fäustel auf das verkeilte Ventilrad, seine verbrannten Hände um den Hammer geklammert. Figuren: Henrik Vance — schlägt mit einem Fäustel zu — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und. Gegenstände: Fäustel, verkeiltes Ventilrad, glühende Schachtwand. Bildausschnitt: close-up. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\027.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "027",
+    "title": "Vierzig Grad im Eisen",
+    "moment": "Henrik schlägt mit einem Fäustel auf das verkeilte Ventilrad, seine verbrannten Hände um den Hammer geklammert.",
+    "figures": [
+      {
+        "name": "Henrik Vance",
+        "action": "schlägt mit einem Fäustel zu",
+        "look": "Verbrannte Hände, Reste von Kleidung, die an der Haut kleben."
+      }
+    ],
+    "props": [
+      "Fäustel",
+      "verkeiltes Ventilrad",
+      "glühende Schachtwand"
+    ],
+    "composition": "close-up",
+    "beat": "Opfer",
+    "evidence": [
+      33,
+      41
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-21T13:49:25Z",
+    "text_sha256": "9b34956feda2facb",
+    "usage": {
+      "prompt_tokens": 7199,
+      "completion_tokens": 179,
+      "total_tokens": 7378,
+      "cost": 0.0007915,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0007915,
+        "upstream_inference_prompt_cost": 0.0007199,
+        "upstream_inference_completions_cost": 7.16e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

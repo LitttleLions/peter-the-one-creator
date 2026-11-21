@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "chapter": "029",
+  "title": "Bypässe und Abschied",
+  "moment": "Henrik und Elena stehen im aufziehenden Nebel, die Hunde zu ihren Füßen, während die Landefähre abhebt.",
+  "figures": [
+    {
+      "name": "Henrik Vance",
+      "action": "blickt auf sein Terminal, seine Hände sind verbunden",
+      "look": "dicke Arbeitskleidung, verbundenen Hände"
+    },
+    {
+      "name": "Elena Koroljowa",
+      "action": "legt den Hunden die Hand auf den Nacken",
+      "look": "schlammverkrusteter Overall, taktische Hundeführerweste"
+    },
+    {
+      "name": "Boran",
+      "action": "stupst Henrik mit der Nase an",
+      "look": "dunkelgraues und schwarzes Stockhaar, aufmerksam"
+    },
+    {
+      "name": "Taiga",
+      "action": "presst die Rute an die Schenkel und legt die Ohren an",
+      "look": "sandfarben-rötliches Fell, schwarze Gesichtsmaske"
+    }
+  ],
+  "props": [
+    "Terminal",
+    "Hunde",
+    "Landefähre",
+    "Nebel"
+  ],
+  "composition": "medium shot",
+  "beat": "Abschied",
+  "evidence": [
+    42,
+    43,
+    44,
+    46,
+    54
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-21T13:49:29Z",
+  "text_sha256": "8ed60c23b2b4eb7d",
+  "usage": {
+    "prompt_tokens": 7274,
+    "completion_tokens": 348,
+    "total_tokens": 7622,
+    "cost": 0.0008666,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008666,
+      "upstream_inference_prompt_cost": 0.0007274,
+      "upstream_inference_completions_cost": 0.0001392
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

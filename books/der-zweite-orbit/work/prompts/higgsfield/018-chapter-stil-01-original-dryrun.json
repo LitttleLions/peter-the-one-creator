@@ -1,0 +1,97 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "018",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "high",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\018\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\018-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-018.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Der sechsarmige Avatar von Vostok beugt sich über eine Konsole, während der Hund im Nackensitz den Kopf neigt und drei Nadeln aus Wolframcarbid ausfährt, um eine Kupferlitze zu bearbeiten. Figuren: Vostok — Der Avatar beugt sich über die Konsole, die Nadeln fahren aus — Im biologischen Körper ein mittelgroßer, drahtiger Rüde (ca. 20 kg) mit kurzhaarigem, schwarz-lohfarbenem Fell, hellen Abzeichen über den Augen und einem schmalen, kupferfarben schimmernden Neural-Kragen; Henrik Koster — Hält eine Kupferlitze mit Daumen und Zeigefinger ruhig — Trägt eine abgewetzte, dunkelgraue Thermo-Arbeitsweste mit Werkzeugtaschen über einem blauen Rollkragenshirt. Eine Brandnarbe auf dem Handrü. Gegenstände: Konsole mit Silikat und Schalttafeln, Kupferlitze, Wolframcarbid-Nadeln, Datenbrille. Bildausschnitt: medium shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\018.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "018",
+    "title": "Protokoll zweier Welten",
+    "moment": "Der sechsarmige Avatar von Vostok beugt sich über eine Konsole, während der Hund im Nackensitz den Kopf neigt und drei Nadeln aus Wolframcarbid ausfährt, um eine Kupferlitze zu bearbeiten.",
+    "figures": [
+      {
+        "name": "Vostok",
+        "action": "Der Avatar beugt sich über die Konsole, die Nadeln fahren aus.",
+        "look": "Sechsarmiger Wartungs-Avatar, vier zusätzliche Werkzeugarme, bläulich leuchtende Diagnose-Optiken. Im Nackensitz ein drahtiger Rüde mit schw"
+      },
+      {
+        "name": "Henrik Koster",
+        "action": "Hält eine Kupferlitze mit Daumen und Zeigefinger ruhig.",
+        "look": "Trägt eine abgewetzte, dunkelgraue Thermo-Arbeitsweste mit Werkzeugtaschen über einem blauen Rollkragenshirt. Eine Brandnarbe auf dem Handrü"
+      }
+    ],
+    "props": [
+      "Konsole mit Silikat und Schalttafeln",
+      "Kupferlitze",
+      "Wolframcarbid-Nadeln",
+      "Datenbrille"
+    ],
+    "composition": "medium shot",
+    "beat": "Kooperation",
+    "evidence": [
+      10,
+      11,
+      12
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-21T13:49:08Z",
+    "text_sha256": "85cb3223ec8c348b",
+    "usage": {
+      "prompt_tokens": 7623,
+      "completion_tokens": 356,
+      "total_tokens": 7979,
+      "cost": 0.0009047,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0009047,
+        "upstream_inference_prompt_cost": 0.0007623,
+        "upstream_inference_completions_cost": 0.0001424
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

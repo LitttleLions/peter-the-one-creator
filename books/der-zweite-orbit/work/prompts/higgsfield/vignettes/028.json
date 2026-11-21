@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "chapter": "028",
+  "title": "Drei Sekunden Licht",
+  "moment": "Ein blendender Lichtstrahl bricht aus einem Monolithen hervor und durchschneidet die Nacht, während die Figuren darunter gebannt aufblicken.",
+  "figures": [
+    {
+      "name": "Henrik Vance",
+      "action": "blickt mit aufgestützten Ellbogen zum Lichtstrahl auf",
+      "look": "verbrannte Hände, schmutziger Overall"
+    },
+    {
+      "name": "Elena Koroljowa",
+      "action": "steht neben Henrik, blickt zum Lichtstrahl",
+      "look": "schlammverkrusteter Overall, taktische Hundeführerweste"
+    },
+    {
+      "name": "Marcus Thorne",
+      "action": "steht fünf Schritte entfernt, blickt zum Lichtstrahl",
+      "look": "ballistische Schutzweste über Overall, Maschinengewehr gesenkt"
+    }
+  ],
+  "props": [
+    "Monolith mit Lichtstrahl",
+    "zerstörte Kuppel",
+    "Schotterboden"
+  ],
+  "composition": "medium shot",
+  "beat": "Offenbarung",
+  "evidence": [
+    53,
+    54,
+    55
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-21T13:49:27Z",
+  "text_sha256": "c3abee11d1d45e1b",
+  "usage": {
+    "prompt_tokens": 9245,
+    "completion_tokens": 304,
+    "total_tokens": 9549,
+    "cost": 0.0010461,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0010461,
+      "upstream_inference_prompt_cost": 0.0009245,
+      "upstream_inference_completions_cost": 0.0001216
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

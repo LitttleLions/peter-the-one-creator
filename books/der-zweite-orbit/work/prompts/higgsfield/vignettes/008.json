@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "chapter": "008",
+  "title": "Das Gesetz der Pfote",
+  "moment": "Der kräftige Rüde Boran senkt die Vorderhand tief in den Schlamm, die Hinterhand bleibt aufgerichtet, und wendet den Kopf zur Seite, um dem angeschossenen Titan-Avatar Kudrjawka-Sieben Friedfertigkeit zu signalisieren.",
+  "figures": [
+    {
+      "name": "Boran",
+      "action": "senkt die Vorderhand, wendet den Kopf zur Seite, Rute locker pendelnd, Ohren flach angelegt",
+      "look": "sechsjähriger Laika-Mischling, dunkelgraues Stockhaar, Rute unter Rückenlinie, Lefzen glattgezogen"
+    },
+    {
+      "name": "Kudrjawka-Sieben",
+      "action": "neigt den Sensorkopf schräg, senkt den Schwerpunkt, geht in die Hocke",
+      "look": "zwei Meter große, schlanke Maschine aus Titan und Verbundstoff, ovaler Sensorkopf mit horizontalem bernsteinfarbenem Lichtspalt"
+    }
+  ],
+  "props": [
+    "gefrorener Schlamm",
+    "Basaltsäulen",
+    "Nebel"
+  ],
+  "composition": "medium shot",
+  "beat": "Kommunikation",
+  "evidence": [
+    31,
+    32,
+    40
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-21T13:48:45Z",
+  "text_sha256": "9cb66b8acfc391e4",
+  "usage": {
+    "prompt_tokens": 7783,
+    "completion_tokens": 321,
+    "total_tokens": 8104,
+    "cost": 0.0009067,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0009067,
+      "upstream_inference_prompt_cost": 0.0007783,
+      "upstream_inference_completions_cost": 0.0001284
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

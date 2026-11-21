@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "chapter": "020",
+  "title": "Operation Ernte",
+  "moment": "In der Waffenkammer richtet Henrik Vance den Bolzensetzer auf Victoria Sterling, während Darius Kowalski ihm zuruft, die Finger von der Konsole zu nehmen.",
+  "figures": [
+    {
+      "name": "Henrik Vance",
+      "action": "hält den Bolzensetzer auf Sterling, Hände über der Tastatur",
+      "look": "Arbeitsweste, Datenpad in der Tasche, Narbe am Handrücken"
+    },
+    {
+      "name": "Darius Vance-Kowalski",
+      "action": "brüllt und hebt den Bolzensetzer",
+      "look": "Mechaniker-Overall, Exoskelett-Gurt, roter Vollbart, rote Wollmütze"
+    },
+    {
+      "name": "Victoria Sterling",
+      "action": "steht mit dem Rücken zu den Männern, blickt auf Monitore",
+      "look": "dunkelblaue Funktionskleidung, Daten-Armband"
+    }
+  ],
+  "props": [
+    "Bolzensetzer",
+    "Datenpad",
+    "Werkbank",
+    "Minendroiden-Konsole"
+  ],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-21T13:49:12Z",
+  "text_sha256": "7a7421e273749a0f",
+  "usage": {
+    "prompt_tokens": 9285,
+    "completion_tokens": 414,
+    "total_tokens": 9699,
+    "cost": 0.0010941,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0010941,
+      "upstream_inference_prompt_cost": 0.0009285,
+      "upstream_inference_completions_cost": 0.0001656
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

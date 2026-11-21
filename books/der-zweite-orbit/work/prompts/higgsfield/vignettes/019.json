@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "chapter": "019",
+  "title": "Der Marktwert des Wunders",
+  "moment": "Vor dem Panzerglas des Leitstands stehen die Titan-Avatare und Caniden im Schneesturm, angeführt von Iskra, während Oktjabr seinen Kopf senkt.",
+  "figures": [
+    {
+      "name": "Iskra",
+      "action": "springt von einem Felsblock und verschwindet im Sturm",
+      "look": "rotbraun gefleckte Hündin, die auf einem Felsblock steht"
+    },
+    {
+      "name": "Oktjabr",
+      "action": "senkt seinen Kopf",
+      "look": "massige Industrie- und Schutzmaschine mit drei rot leuchtenden optischen Linsen, die zu Bernstein verblassen"
+    },
+    {
+      "name": "Boran",
+      "action": "stößt seine Schnauze gegen Elenas Handfläche",
+      "look": "mächtiger Rüde mit dichtem Fell und aufgestelltem Nackenkamm"
+    }
+  ],
+  "props": [
+    "Panzerglas des Leitstands",
+    "Schneesturm",
+    "Felsblock",
+    "Neural-Kragen"
+  ],
+  "composition": "wide establishing shot",
+  "beat": "Abschied",
+  "evidence": [
+    85,
+    87,
+    88,
+    113,
+    114,
+    115
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-21T13:49:10Z",
+  "text_sha256": "5f670c1fd05932b2",
+  "usage": {
+    "prompt_tokens": 11213,
+    "completion_tokens": 335,
+    "total_tokens": 11548,
+    "cost": 0.0012553,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0012553,
+      "upstream_inference_prompt_cost": 0.0011213,
+      "upstream_inference_completions_cost": 0.000134
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

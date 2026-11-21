@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "chapter": "030",
+  "title": "Der erste Kreis",
+  "moment": "Henrik und Elena sitzen mit den Hunden Kudrjawka-Sieben, Boran, Taiga und Iskra um ein kleines Feuer auf einem Basaltplateau.",
+  "figures": [
+    {
+      "name": "Henrik Vance",
+      "action": "sitzt mit angezogenen Beinen, die Ellbogen auf die Knie gestützt, und blickt ins Feuer.",
+      "look": "trägt eine abgewetzte graue Thermo-Arbeitsweste über einem blauen Rollkragenshirt, die Hände sind mit Verbänden bedeckt."
+    },
+    {
+      "name": "Elena Koroljowa",
+      "action": "sitzt mit gekreuzten Beinen, die Hände flach über den Knien, und blickt ins Feuer.",
+      "look": "trägt einen schlammverkrusteten olivgrünen Outdoor-Overall, die Haare zu einem strengen Zopf gebunden."
+    },
+    {
+      "name": "Kudrjawka-Sieben",
+      "action": "liegt Henrik gegenüber, Vorderläufe unter der Brust, Rute eng an die Flanke gelegt.",
+      "look": "grau-weiß geflecktes Fell, mattschwarzer Neural-Kragen mit bläulichen Lichtleiter-Adern."
+    }
+  ],
+  "props": [
+    "kleines Lagerfeuer",
+    "Basaltblöcke",
+    "getrocknete Flechten und Holzsplitter",
+    "Kudrjawka-Siebens Neural-Kragen"
+  ],
+  "composition": "medium shot",
+  "beat": "Geborgenheit",
+  "evidence": [
+    41,
+    42,
+    43,
+    45,
+    47
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-21T13:49:31Z",
+  "text_sha256": "7ef336d9b02d36d7",
+  "usage": {
+    "prompt_tokens": 8208,
+    "completion_tokens": 420,
+    "total_tokens": 8628,
+    "cost": 0.0009888,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0009888,
+      "upstream_inference_prompt_cost": 0.0008208,
+      "upstream_inference_completions_cost": 0.000168
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

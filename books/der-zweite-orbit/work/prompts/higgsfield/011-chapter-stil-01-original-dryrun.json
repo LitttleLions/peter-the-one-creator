@@ -1,0 +1,98 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "011",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "high",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\011\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\011-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-011.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Der schwere Roboter-Avatar von Oktjabr hebt den bewusstlosen Darius Vance-Kowalski vorsichtig aus dem Schnee und legt ihn vor eine Schleuse. Figuren: Oktjabr — senkt sich auf die Knie, hebt Kowalski mit seinen Brechwerkzeugen an — Im biologischen Körper ein großer, schwer gebauter Rüde (ca. 30 kg) mit überwiegend schwarzem und rostbraunem Fell, einem vernarbten linken Ohr und einem kalt glänzenden, breiten kybernetischen Neural-Kranz am Schädel, dessen; Darius Vance-Kowalski — reglos, in den Armen des Roboters — 39 Jahre alt, untersetzt, stämmig mit breiten Händen und kurzen, kräftigen Armen. Rundes, oft verschwitztes Gesicht mit rötlichem Vollbart, kleiner Knollennase, müden braunen Augen mit dunklen Ringen und schütterem rotem Haar unter einer. Gegenstände: Schleusentor, Schneesturm, Notruf-Taster. Bildausschnitt: medium shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\011.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "011",
+    "title": "Der Barmherzige Stoß",
+    "moment": "Der schwere Roboter-Avatar von Oktjabr hebt den bewusstlosen Darius Vance-Kowalski vorsichtig aus dem Schnee und legt ihn vor eine Schleuse.",
+    "figures": [
+      {
+        "name": "Oktjabr",
+        "action": "senkt sich auf die Knie, hebt Kowalski mit seinen Brechwerkzeugen an",
+        "look": "2,30m groß, dunkelgraue Panzerung, drei rote Linsen im Brustkorb, massive Brechwerkzeuge"
+      },
+      {
+        "name": "Darius Vance-Kowalski",
+        "action": "reglos, in den Armen des Roboters",
+        "look": "untersetzt, stämmig, verschwitztes Gesicht, rote Bartstoppeln, rote Wollmütze, gelb-schwarzer Exoskelett-Stützgurt, verdreckter Mechaniker-O"
+      }
+    ],
+    "props": [
+      "Schleusentor",
+      "Schneesturm",
+      "Notruf-Taster"
+    ],
+    "composition": "medium shot",
+    "beat": "Rettung",
+    "evidence": [
+      31,
+      33,
+      41,
+      42,
+      44
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-21T13:48:56Z",
+    "text_sha256": "9cd1d7119aafe95b",
+    "usage": {
+      "prompt_tokens": 8361,
+      "completion_tokens": 318,
+      "total_tokens": 8679,
+      "cost": 0.0009633,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0009633,
+        "upstream_inference_prompt_cost": 0.0008361,
+        "upstream_inference_completions_cost": 0.0001272
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

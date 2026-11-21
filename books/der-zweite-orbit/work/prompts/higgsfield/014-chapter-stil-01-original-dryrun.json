@@ -1,0 +1,106 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "014",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "high",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\014\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\014-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-014.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Marcus Thorne steht am Rand der Gletscherspalte, flankiert von zwei Droiden, und erklärt Henrik und Elena für tot. Figuren: Marcus Thorne — steht am Rand, blickt auf die Verfolgten, hebt die Hand zum Mikrofon — 51 Jahre alt, breitschultrig, kompakt und muskulös wie ein ehemaliger Rugbyspieler, mit ruhigen, sparsamen Bewegungen; Elena Koroljowa — liegt auf dem Boden, Hände in Borans Fell vergraben, blickt zu Thorne — 33 Jahre alt, mittelgroß, drahtig und durchtrainiert mit einem federnden, lautlosen Gang. Ovales Gesicht mit hohen Wangenknochen, wettergegerbter heller Haut, wachen bernsteinfarbenen Augen und langem, dunkelbraunem Haar, das sie streng zu; Henrik Vance — stützt sich auf die Ellbogen, blickt zu Elena, dann zu Thorne — 47 Jahre alt, hochgewachsen und hager, mit leicht nach vorn geneigten Schultern. Er hat schmale, markante Gesichtszüge mit tiefen Falten um die graublauen Augen, kurz geschorenes dunkelblondes Haar mit deutlichen silbernen Schläfen und. Gegenstände: Gletscherspalte, zwei Droiden, ballistischer Helm, Kehlkopfmikrofon. Bildausschnitt: medium shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\014.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "014",
+    "title": "Jagd durch die Nadeln",
+    "moment": "Marcus Thorne steht am Rand der Gletscherspalte, flankiert von zwei Droiden, und erklärt Henrik und Elena für tot.",
+    "figures": [
+      {
+        "name": "Marcus Thorne",
+        "action": "steht am Rand, blickt auf die Verfolgten, hebt die Hand zum Mikrofon",
+        "look": "ballistischer Helm, Visier leicht hochgeschoben, Blick fest auf die Verfolgten gerichtet"
+      },
+      {
+        "name": "Elena Koroljowa",
+        "action": "liegt auf dem Boden, Hände in Borans Fell vergraben, blickt zu Thorne",
+        "look": "schlammverkrusteter Overall, schwere Stiefel"
+      },
+      {
+        "name": "Henrik Vance",
+        "action": "stützt sich auf die Ellbogen, blickt zu Elena, dann zu Thorne",
+        "look": "abgewetzte Thermo-Arbeitsweste, Rollkragenshirt, ölverschmierte Handschuhe am Gürtel"
+      }
+    ],
+    "props": [
+      "Gletscherspalte",
+      "zwei Droiden",
+      "ballistischer Helm",
+      "Kehlkopfmikrofon"
+    ],
+    "composition": "medium shot",
+    "beat": "Täuschung",
+    "evidence": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      79,
+      80
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-21T13:49:01Z",
+    "text_sha256": "dbdc12219d01f9b5",
+    "usage": {
+      "prompt_tokens": 8293,
+      "completion_tokens": 370,
+      "total_tokens": 8663,
+      "cost": 0.0009773,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0009773,
+        "upstream_inference_prompt_cost": 0.0008293,
+        "upstream_inference_completions_cost": 0.000148
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

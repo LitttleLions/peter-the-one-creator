@@ -1,0 +1,118 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "023",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "high",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\023\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\023-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-023.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Boran reißt mit seinen Zähnen das Kupferkabel aus dem geschützten Kanal, während Iskra draußen am Türspalt hilft. Figuren: Boran — mit dem Kopf herumgerissen, das Kabel im Maul haltend — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren; Iskra — beißt in die obere Verankerung und stemmt Pfoten gegen die Wand — Anderthalb Jahre alte, kleine, wendige Hündin (ca. 15 kg) mit dichtem, weiß-rotbraun geschecktem Fell, spitzer Schnauze, leuchtend dunklen Knopfaugen und einer buschigen Rute mit weißer Spitze. Gegenstände: Kupferkabel, Türspalt, Neoprenschlauch. Bildausschnitt: close-up. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_135950_5f0a9f45-f1d0-4a0e-b773-dffaac181b39.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-21T13:59:50.079917Z",
+      "display_name": "GPT Image 2.5",
+      "id": "5f0a9f45-f1d0-4a0e-b773-dffaac181b39",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_135950_5f0a9f45-f1d0-4a0e-b773-dffaac181b39_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Boran reißt mit seinen Zähnen das Kupferkabel aus dem geschützten Kanal, während Iskra draußen am Türspalt hilft. Figuren: Boran — mit dem Kopf herumgerissen, das Kabel im Maul haltend — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren; Iskra — beißt in die obere Verankerung und stemmt Pfoten gegen die Wand — Anderthalb Jahre alte, kleine, wendige Hündin (ca. 15 kg) mit dichtem, weiß-rotbraun geschecktem Fell, spitzer Schnauze, leuchtend dunklen Knopfaugen und einer buschigen Rute mit weißer Spitze. Gegenstände: Kupferkabel, Türspalt, Neoprenschlauch. Bildausschnitt: close-up. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_135950_5f0a9f45-f1d0-4a0e-b773-dffaac181b39.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\023.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "023",
+    "title": "Zähne im Kupfer",
+    "moment": "Boran reißt mit seinen Zähnen das Kupferkabel aus dem geschützten Kanal, während Iskra draußen am Türspalt hilft.",
+    "figures": [
+      {
+        "name": "Boran",
+        "action": "mit dem Kopf herumgerissen, das Kabel im Maul haltend",
+        "look": "großer, kräftiger Rüde mit dichtem, dunkelgrauem und schwarzem Stockhaar, breiter Brust, aufrecht stehenden Ohren, Schnauze rußgeschwärzt, N"
+      },
+      {
+        "name": "Iskra",
+        "action": "beißt in die obere Verankerung und stemmt Pfoten gegen die Wand",
+        "look": "kleine, wendige Hündin mit weiß-rotbraun geschecktem Fell, spitze Schnauze, dunkle Knopfaugen, Rute steht sichelförmig und hoch über dem Rüc"
+      }
+    ],
+    "props": [
+      "Kupferkabel",
+      "Türspalt",
+      "Neoprenschlauch"
+    ],
+    "composition": "close-up",
+    "beat": "Durchbruch",
+    "evidence": [
+      40,
+      42,
+      43
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-21T13:49:18Z",
+    "text_sha256": "968dfd91e01f8e57",
+    "usage": {
+      "prompt_tokens": 8590,
+      "completion_tokens": 311,
+      "total_tokens": 8901,
+      "cost": 0.0009834,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0009834,
+        "upstream_inference_prompt_cost": 0.000859,
+        "upstream_inference_completions_cost": 0.0001244
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "chapter": "026",
+  "title": "Entwaffnet",
+  "moment": "Victoria Sterling liegt verletzt am Monolithen, die Waffe in der zitternden Hand, während Thorne ihr das Handgelenk fixiert.",
+  "figures": [
+    {
+      "name": "Victoria Sterling",
+      "action": "liegt, hält eine Waffe, ihr Arm ist verdreht, sie hat eine klaffende Wunde im Gesicht.",
+      "look": "zerstörter Anzug, aufgerissen, Visier abgesplittert, blutiges Haar, linke Hand hält Pistole, rechte Hand zittert."
+    },
+    {
+      "name": "Marcus Thorne",
+      "action": "kniet, fixiert Sterlings Handgelenk mit seinem Stiefel, zieht ein Tourniquet.",
+      "look": "ballistische Weste, Overall, schwere Stiefel."
+    }
+  ],
+  "props": [
+    "kleine Neun-Millimeter-Dienstpistole",
+    "zerstörtes Funkgerät",
+    "Notfall-Tourniquet",
+    "Monolith der Quanten-Bake"
+  ],
+  "composition": "medium shot",
+  "beat": "Unterwerfung",
+  "evidence": [
+    34,
+    35,
+    36,
+    37,
+    39
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-21T13:49:23Z",
+  "text_sha256": "3246ec267f498079",
+  "usage": {
+    "prompt_tokens": 7596,
+    "completion_tokens": 308,
+    "total_tokens": 7904,
+    "cost": 0.0008828,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008828,
+      "upstream_inference_prompt_cost": 0.0007596,
+      "upstream_inference_completions_cost": 0.0001232
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "022",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "high",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\022\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\022-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-022.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Oktjabrs Avatar, eine gigantische Kriegsmaschine, reißt die Schaufel der Raupe hoch und konfrontiert Victoria Sterling. Figuren: Oktjabr — hält die Schaufel der Raupe mit einer riesigen Klaue hoch — Im biologischen Körper ein großer, schwer gebauter Rüde (ca. 30 kg) mit überwiegend schwarzem und rostbraunem Fell, einem vernarbten linken Ohr und einem kalt glänzenden, breiten kybernetischen Neural-Kranz am Schädel, dessen; Victoria Sterling — wird gegen das Steuerpult geschleudert, ihr Gesicht ist von einer Platzwunde gezeichnet — 44 Jahre alt, mittelgroß, schlank, mit kerzengerader, fast militärisch kontrollierter Körperhaltung. Scharf geschnittenes Gesicht mit hohen Brauen, kühlen grünen Augen und einem schmalen Mund, platinblondes Haar in einem exakt kinnlangen. Gegenstände: Führungsraupe, titanverstärkte Schaufel, silberner Becher. Bildausschnitt: medium shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\022.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "022",
+    "title": "Der Zündbefehl",
+    "moment": "Oktjabrs Avatar, eine gigantische Kriegsmaschine, reißt die Schaufel der Raupe hoch und konfrontiert Victoria Sterling.",
+    "figures": [
+      {
+        "name": "Oktjabr",
+        "action": "hält die Schaufel der Raupe mit einer riesigen Klaue hoch",
+        "look": "zweieinhalb Meter hohe Kriegsmaschine, graue Panzerung angeschmolzen, drei rote Linsen im Brustkorb"
+      },
+      {
+        "name": "Victoria Sterling",
+        "action": "wird gegen das Steuerpult geschleudert, ihr Gesicht ist von einer Platzwunde gezeichnet",
+        "look": "Overall zerrissen, Blut an der Wange, silbernes Aethelgard-Emblem"
+      }
+    ],
+    "props": [
+      "Führungsraupe",
+      "titanverstärkte Schaufel",
+      "silberner Becher"
+    ],
+    "composition": "medium shot",
+    "beat": "Konfrontation",
+    "evidence": [
+      59,
+      60
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-21T13:49:16Z",
+    "text_sha256": "98301c3deb54f580",
+    "usage": {
+      "prompt_tokens": 9724,
+      "completion_tokens": 271,
+      "total_tokens": 9995,
+      "cost": 0.0010808,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0010808,
+        "upstream_inference_prompt_cost": 0.0009724,
+        "upstream_inference_completions_cost": 0.0001084
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

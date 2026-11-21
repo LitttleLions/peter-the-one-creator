@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "chapter": "023",
+  "title": "Zähne im Kupfer",
+  "moment": "Boran reißt mit seinen Zähnen das Kupferkabel aus dem geschützten Kanal, während Iskra draußen am Türspalt hilft.",
+  "figures": [
+    {
+      "name": "Boran",
+      "action": "mit dem Kopf herumgerissen, das Kabel im Maul haltend",
+      "look": "großer, kräftiger Rüde mit dichtem, dunkelgrauem und schwarzem Stockhaar, breiter Brust, aufrecht stehenden Ohren, Schnauze rußgeschwärzt, N"
+    },
+    {
+      "name": "Iskra",
+      "action": "beißt in die obere Verankerung und stemmt Pfoten gegen die Wand",
+      "look": "kleine, wendige Hündin mit weiß-rotbraun geschecktem Fell, spitze Schnauze, dunkle Knopfaugen, Rute steht sichelförmig und hoch über dem Rüc"
+    }
+  ],
+  "props": [
+    "Kupferkabel",
+    "Türspalt",
+    "Neoprenschlauch"
+  ],
+  "composition": "close-up",
+  "beat": "Durchbruch",
+  "evidence": [
+    40,
+    42,
+    43
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-21T13:49:18Z",
+  "text_sha256": "968dfd91e01f8e57",
+  "usage": {
+    "prompt_tokens": 8590,
+    "completion_tokens": 311,
+    "total_tokens": 8901,
+    "cost": 0.0009834,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0009834,
+      "upstream_inference_prompt_cost": 0.000859,
+      "upstream_inference_completions_cost": 0.0001244
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

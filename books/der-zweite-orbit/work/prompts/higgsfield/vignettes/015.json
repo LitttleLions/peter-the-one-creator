@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "chapter": "015",
+  "title": "Das Erbe von 1957",
+  "moment": "Henrik und Elena knien vor dem zerschossenen Avatar, aus dessen Brust ein lebender Hund geborgen wird.",
+  "figures": [
+    {
+      "name": "Henrik Vance",
+      "action": "knien, Hände auf den Hund legend",
+      "look": "Arbeitsweste, Rollkragenshirt, Brandnarbe am Handrücken"
+    },
+    {
+      "name": "Elena Koroljowa",
+      "action": "knien, Hände auf den Hund legend",
+      "look": "Outdoor-Overall, Hundeführerweste, Bissnarbe am Handgelenk"
+    },
+    {
+      "name": "Kudrjawka-Sieben",
+      "action": "liegt zerschossen, Augen geöffnet, winselt",
+      "look": "grau-weiß-schwarz geflecktes Fell, bernsteinfarbene Augen, schwarzer Neural-Kragen"
+    }
+  ],
+  "props": [
+    "zerschossener Avatar",
+    "Neural-Kragen",
+    "flüssigkeitsgefülltes Schockkissen"
+  ],
+  "composition": "medium shot",
+  "beat": "Offenbarung",
+  "evidence": [
+    34,
+    35,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-21T13:49:03Z",
+  "text_sha256": "3b3061f9454c91ef",
+  "usage": {
+    "prompt_tokens": 8094,
+    "completion_tokens": 332,
+    "total_tokens": 8426,
+    "cost": 0.0009422,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0009422,
+      "upstream_inference_prompt_cost": 0.0008094,
+      "upstream_inference_completions_cost": 0.0001328
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

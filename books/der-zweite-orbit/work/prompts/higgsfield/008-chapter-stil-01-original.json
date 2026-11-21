@@ -1,0 +1,118 @@
+{
+  "book": "der-zweite-orbit",
+  "chapter": "008",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "high",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\scenes\\de\\stil-01-original\\008\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\008-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\assets\\chapter\\chapter-008.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Der kräftige Rüde Boran senkt die Vorderhand tief in den Schlamm, die Hinterhand bleibt aufgerichtet, und wendet den Kopf zur Seite, um dem angeschossenen Titan-Avatar Kudrjawka-Sieben Friedfertigkeit zu signalisieren. Figuren: Boran — senkt die Vorderhand, wendet den Kopf zur Seite, Rute locker pendelnd, Ohren flach angelegt — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren; Kudrjawka-Sieben — neigt den Sensorkopf schräg, senkt den Schwerpunkt, geht in die Hocke — Im realen biologischen Körper ein mittelgroßer, kräftiger Mischlingshund (ca. 22 kg, Züge von sibirischem Husky und Terrier) mit dichtem, grau-weiß-schwarz geflecktem Fell, buschigem, geringeltem Schwanz, klaren bernsteinbraunen Augen. Gegenstände: gefrorener Schlamm, Basaltsäulen, Nebel. Bildausschnitt: medium shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134948_30a8af65-c464-4cfd-8e88-2ec1f5938bb6.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-21T13:49:48.585499Z",
+      "display_name": "GPT Image 2.5",
+      "id": "30a8af65-c464-4cfd-8e88-2ec1f5938bb6",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134948_30a8af65-c464-4cfd-8e88-2ec1f5938bb6_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Der kräftige Rüde Boran senkt die Vorderhand tief in den Schlamm, die Hinterhand bleibt aufgerichtet, und wendet den Kopf zur Seite, um dem angeschossenen Titan-Avatar Kudrjawka-Sieben Friedfertigkeit zu signalisieren. Figuren: Boran — senkt die Vorderhand, wendet den Kopf zur Seite, Rute locker pendelnd, Ohren flach angelegt — Sechs Jahre alter, kräftiger Rüde (ca. 34 kg) mit dichtem, wolfsartigem, dunkelgrauem und schwarzem Stockhaar, breiter Brust und aufrecht stehenden, spitzen Ohren; Kudrjawka-Sieben — neigt den Sensorkopf schräg, senkt den Schwerpunkt, geht in die Hocke — Im realen biologischen Körper ein mittelgroßer, kräftiger Mischlingshund (ca. 22 kg, Züge von sibirischem Husky und Terrier) mit dichtem, grau-weiß-schwarz geflecktem Fell, buschigem, geringeltem Schwanz, klaren bernsteinbraunen Augen. Gegenstände: gefrorener Schlamm, Basaltsäulen, Nebel. Bildausschnitt: medium shot. Nova Terra, 2057: ash-grey exoplanet with black basalt needles, methane fog and magnetic storms; a mining outpost with drilling towers, pressurised domes, worn machinery and patched exosuits. The same visual world as the cover. Hard science fiction illustration, painterly realism, used-future industrial mood. Cold graphite and deep teal shadows, ash-grey basalt and drifting fog, warm amber work lights as the only warm accent. Fine detail, cinematic light.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261121_134948_30a8af65-c464-4cfd-8e88-2ec1f5938bb6.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\der-zweite-orbit\\work\\prompts\\higgsfield\\vignettes\\008.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "008",
+    "title": "Das Gesetz der Pfote",
+    "moment": "Der kräftige Rüde Boran senkt die Vorderhand tief in den Schlamm, die Hinterhand bleibt aufgerichtet, und wendet den Kopf zur Seite, um dem angeschossenen Titan-Avatar Kudrjawka-Sieben Friedfertigkeit zu signalisieren.",
+    "figures": [
+      {
+        "name": "Boran",
+        "action": "senkt die Vorderhand, wendet den Kopf zur Seite, Rute locker pendelnd, Ohren flach angelegt",
+        "look": "sechsjähriger Laika-Mischling, dunkelgraues Stockhaar, Rute unter Rückenlinie, Lefzen glattgezogen"
+      },
+      {
+        "name": "Kudrjawka-Sieben",
+        "action": "neigt den Sensorkopf schräg, senkt den Schwerpunkt, geht in die Hocke",
+        "look": "zwei Meter große, schlanke Maschine aus Titan und Verbundstoff, ovaler Sensorkopf mit horizontalem bernsteinfarbenem Lichtspalt"
+      }
+    ],
+    "props": [
+      "gefrorener Schlamm",
+      "Basaltsäulen",
+      "Nebel"
+    ],
+    "composition": "medium shot",
+    "beat": "Kommunikation",
+    "evidence": [
+      31,
+      32,
+      40
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-21T13:48:45Z",
+    "text_sha256": "9cb66b8acfc391e4",
+    "usage": {
+      "prompt_tokens": 7783,
+      "completion_tokens": 321,
+      "total_tokens": 8104,
+      "cost": 0.0009067,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0009067,
+        "upstream_inference_prompt_cost": 0.0007783,
+        "upstream_inference_completions_cost": 0.0001284
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

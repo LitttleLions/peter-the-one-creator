@@ -60,9 +60,10 @@ Kapitel als `scene-01.md` neu aus `work/chapters/` gezogen. Das bisher falsch
 benannte `stil-01-original/006/stil-01-scene-01.md` heisst jetzt `scene-01.md`.
 Gate buchweit **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur
 `repetition_style` in 000 und 014). EPUB
-`book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-155635.epub`
-(16,9 MB, 7 Kapitelbilder) und Paperback-Innenleben 229 Seiten (5,5x8,5,
-classic, full_page, Gate ohne Bypass). Nachgezogen: Wikisource-Apparat
+`book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-164445.epub`
+(17,7 MB, 7 Kapitelbilder, drei Anhang-Tafeln) und Paperback-Innenleben
+**233 Seiten** (5,5x8,5, classic, full_page, inkl. 4 Anhangseiten, Gate ohne
+Bypass). Nachgezogen: Wikisource-Apparat
 (Inhalts-TOC, ↑-Zeilen, Lizenztext) aus 000/001/008/010/012/014 entfernt,
 Kolophone vereinheitlicht, fehlende Haupttextsätze in 014 ergänzt
 (Qachidut/Laosasut, Tammachin-Rückkehr, Dschürtschet/Jalairtai), Kamel-
@@ -88,10 +89,12 @@ Dritte Tafel `assets/genealogie/ordo-014.png` (vier Ordo + Nachfolge 1244).
 Higgsfield-Sunburst-Test (`gpt_image_2_5`, 1k/xhigh, 2 Credits,
 `work/genealogie/higgsfield-sunburst-test.jpg`): optisch stark, Namen lesbar,
 aber Topologie falsch (Alan Qo'a und die fünf Stämme unten an Börte Čino) –
-nur Stiltest. Einbindung als Szenenbilder getestet: im EPUB sichtbar, im
-Paperback bei 5,5×8,5 nur ca. 4 pt groß und damit unleserlich; Szenenbilder
-wieder aus. Für den Druck braucht es druckgroße Tafeln (Anhang, Stammtafel
-zweigeteilt).
+nur Stiltest. Einbindung gelöst (2026-11-22): druckgroße Tafeln `tafel-1.png`
+und `tafel-2.png` (zweigeteilte Stammtafel) sowie `tafel-3.png` (Ordo), je
+1350×1800 (~7 pt); sie stehen als Bildanhang
+`work/appendices/de/stil-01-original/stammtafeln.md` im Buch (`appendices:` in
+`export.yaml`). Paperback **233 Seiten** inkl. 4 Anhangseiten; EPUB bettet die
+Tafeln ein (Pandoc `--resource-path`-Fix, Print-CSS-Regel `.appendix-text img`).
 Offen: Druckcover + Wrap; optional Weg B (Edition in `stil-04-original-geheim`,
 284 Szenen; 006/09 ist eine reine Titelzeile und wuerde dort als
 `empty_or_short`/`degeneration` blockieren).

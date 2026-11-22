@@ -441,12 +441,12 @@ Loader sucht `scene-*.md` und fand 006 vorher nicht).
 Stand:
 - Gate buchweit **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur
   `repetition_style` in 000 und 014; 006 ist 0/0/0).
-- EPUB `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-155635.epub`
-  (16,9 MB, 7 Kapitelbilder 000-005 + 014, Gate ohne Bypass).
+- EPUB `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-164445.epub`
+  (17,7 MB, 7 Kapitelbilder 000-005 + 014, drei Anhang-Tafeln, Gate ohne Bypass).
 - Paperback-Innenleben
-  `...-55x85-classic-full-20261122-155639-paperback-interior.pdf`
-  (229 Seiten, 5,5x8,5, classic, full_page; Hinweis: Kapitelbild 000 mit
-  289 dpi). Kein `cover-print.*` -> kein Komplett-PDF/Wrap.
+  `...-55x85-classic-full-20261122-164306-paperback-interior.pdf`
+  (233 Seiten inkl. 4 Anhangseiten, 5,5x8,5, classic, full_page; Hinweis:
+  Kapitelbild 000 mit 289 dpi). Kein `cover-print.*` -> kein Komplett-PDF/Wrap.
 - `stil-04-original-geheim` unveraendert: 006 (20/20 Dateien, aber Szene 09
   ist eine reine Titelzeile -> `empty_or_short`/`degeneration`) und 014
   (12/13). Weg B bleibt optional: 284 Szenen; vorher 006/09 klaeren.
@@ -495,14 +495,17 @@ Nachtrag 2026-11-22 (Textbereinigung nach der Pruefung von 014):
   `work/genealogie/higgsfield-sunburst-test.jpg` – optisch stark, Namen
   lesbar, aber Topologie falsch (Alan Qo'a und die fuenf Staemme haengen unten
   an Boerte Cino). Nur Stiltest, keine Faktentafel.
-- Einbindung getestet: als Szenenbilder (`assets/scene/001|014/scene-001.png`)
-  erscheinen die Tafeln im EPUB (ch003/ch014); im Paperback sind sie bei
-  5,5x8,5 aber nur ca. 4 pt gross und damit unleserlich. Szenenbilder wieder
-  aus; fuer den Druck braucht es druckgrosse Tafeln (Anhang, Stammtafel
-  zweigeteilt) und einen erneuten Test.
+- Drucktafeln und Anhang (2026-11-22): `assets/genealogie/tafel-1.png`
+  (Boerte Cino bis Alan Qo'a), `tafel-2.png` (Bodonchar bis Temuedschin),
+  `tafel-3.png` (Ordo/Nachfolge), je 1350x1800 (~7 pt, 300 dpi). Anhang
+  `work/appendices/de/stil-01-original/stammtafeln.md` mit den drei Bildern;
+  `export.yaml` hat einen `appendices:`-Block. Paperback 233 Seiten
+  (4 Anhangseiten), EPUB mit eingebetteten Tafeln. Fuer EPUB braucht Pandoc
+  `--resource-path=<work-Ordner>`, sonst loest es relative Anhang-Bilder vom
+  Repo-Root (Fix in `tools/export_manuscript.py`); die Print-CSS-Regel
+  `.appendix-text img` deckelt die Tafeln auf die Satzspiegelbreite.
 - Offen: wortgetreue Pruefung gegen die gedruckte Ausgabe; Namenskanon (Text
-  "Jaesuegai" vs. names.yaml "Yesuegei"); druckgrosse Tafeln + Anhang;
-  Einbindung in EPUB/Print (noch nicht referenziert).
+  "Jaesuegai" vs. names.yaml "Yesuegei").
 
 Checkliste (nur falls Weg B spaeter kommt; `--style` immer explizit):
 

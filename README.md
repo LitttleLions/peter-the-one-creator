@@ -110,12 +110,14 @@ Anonym, `ja→de`): **Weg A am 2026-11-22 umgesetzt** – `structure.mode:
 chapter_as_scene`, 15 Kapitel als Arbeitseinheit; die 317 §-Abschnitte der
 japanischen Edition liegen archiviert unter
 `work/legacy/scenes-ja-sections-20261122/` (und in der Git-Historie). Gate
-**ERROR=0/WARNING=3/INFO=7**; EPUB `...-20261122-155635.epub` und
-Paperback-Innenleben **229 Seiten** (5,5×8,5, classic, full_page). Bereinigt:
+**ERROR=0/WARNING=3/INFO=7**; EPUB `...-20261122-164445.epub` und
+Paperback-Innenleben **233 Seiten** (5,5×8,5, classic, full_page, inkl.
+4 Anhangseiten mit drei Stammtafeln). Bereinigt:
 Wikisource-Apparat entfernt, Kolophone vereinheitlicht, 014-Lücken im
 Haupttext ergänzt und die Kamel-Anmerkung korrigiert; die beiden langen
 Quellen-Exkurse in 014 (Westfeldzug/Rus, Jalairtai/Goryeo) sind bewusst
-nicht übersetzt. Offen: `cover-print.*` (kein Wrap), optional Weg B
+nicht übersetzt. Die Drucktafeln stehen als Bildanhang im Buch
+(`appendices:` in `export.yaml`). Offen: `cover-print.*` (kein Wrap), optional Weg B
 (Edition in `stil-04-original-geheim`, 284 Szenen). Details:
 `docs/offene-punkte.md` §5,
 Übergabeprompt E in `docs/uebergabe-prompt.md`.

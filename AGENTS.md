@@ -719,9 +719,9 @@ Bundsteg).
   `stil-01-original/006/stil-01-scene-01.md` heißt jetzt `scene-01.md` (der
   Loader sucht `scene-*.md` und fand 006 vorher nicht). Gate buchweit
   **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur `repetition_style` in 000
-  und 014). Exporte: EPUB `...-20261122-155635.epub` (16,9 MB, 7
-  Kapitelbilder) und Paperback-Innenleben **229 Seiten** (5,5×8,5, classic,
-  full_page). Am 2026-11-22 nachgezogen: Wikisource-Apparat (Inhalts-TOC,
+  und 014). Exporte: EPUB `...-20261122-164445.epub` (17,7 MB, 7
+  Kapitelbilder, drei Anhang-Tafeln) und Paperback-Innenleben **233 Seiten**
+  (5,5×8,5, classic, full_page, inkl. 4 Anhangseiten). Am 2026-11-22 nachgezogen: Wikisource-Apparat (Inhalts-TOC,
   ↑-Zeilen, Lizenztext) aus 000/001/008/010/012/014 entfernt,
   Kolophone vereinheitlicht, die fehlenden Haupttextsätze in 014
   (Qachidut/Laosasut, Tammachin-Rückkehr, Dschürtschet/Jalairtai) ergänzt
@@ -738,8 +738,8 @@ Bundsteg).
   `nebenlinien-001.png` (Nebenlinien 40-52, Arbeitsübersetzung
   `quelle-001-40-52-de.md`) und `ordo-014.png` (Ordo + Nachfolge). Die
   Higgsfield-Testbilder (4k/high und Sunburst 1k/xhigh) sind nur Stiltests
-  (Topologie-Fehler); die Einbindung als Szenenbilder ist im EPUB möglich, im
-  Paperback bei 5,5×8,5 aber zu klein – druckgroße Tafeln/Anhang stehen aus.
+  (Topologie-Fehler). Drucktafeln `tafel-1..3.png` (1350x1800) stehen als
+  Bildanhang im Buch (`appendices:` in `export.yaml`, `work/appendices/...`).
   Übergabeprompt:
   `docs/uebergabe-prompt.md` (Prompt E).
 - **Die dritte Chronik** (auf `main`): DE-Original, Timo Verita, Untertitel
@@ -798,7 +798,7 @@ Bundsteg).
   (011/03, 002/11, 003/05, 009/08, 010/01, 010/02), Buch-EPUB neu mit Gate
   0 Fehler; offen nur noch Kindle Previewer und eine menschliche Stichprobe
   der drei zuletzt neu uebersetzten Szenen; Mongolen: Weg A umgesetzt
-  (Kapitelmodus, Gate 0/3/7, EPUB + Paperback 229 Seiten; offen nur
+  (Kapitelmodus, Gate 0/3/7, EPUB + Paperback 233 Seiten; offen nur
   Cover-print/Wrap, optional Weg B); Chronik (2026-11-11): Uebernahme und alle Formate
   fertig, Gate 0/0/0 - offen nur der KDP-Upload;
   Pharao: 4k-Druckcover, Satz 609 Seiten und Wrap fertig, bei KDP hochgeladen

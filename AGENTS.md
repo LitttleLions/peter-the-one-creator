@@ -684,7 +684,8 @@ Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER
 (Stand 2026-11-11). Kopiertext neues Fenster:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md) - dort stehen die Prompts
 A (RomanForge-Uebernahme + Marketing), B (allgemeiner Einstieg), C (Bilder und
-Print fuer die Sprache des Anderen) und D (Print, Cover und Wrap bauen);
+Print fuer die Sprache des Anderen), D (Print, Cover und Wrap bauen) und E
+(Geheime Geschichte der Mongolen weiterfuehren);
 dort steht auch, was vor Beginn gelesen wird und dass danach erst auf die
 Aufgabe gewartet wird.
 Einstiegskosten und Hebel (gemessen): [docs/kontextanalyse.md](./docs/kontextanalyse.md).
@@ -709,14 +710,19 @@ Bundsteg).
   Glossar nur `source -> target` (`name_registry`); Style-Dateien = Embed-
   Profile. `stil-04-original-geheim.md` = Interlinear/Edition (Mongolen).
 - **Geheime Geschichte der Mongolen** (auf `main`): Quelle `ja`→`de`,
-  `structure.mode: scenes`, ~317 Abschnitte `scene-NN.md`, Import
-  `tools/import_geheime_geschichte.py`. Kapitel 006 ist dateiseitig fertig
-  (20/20 Szenen in `stil-04-original-geheim`, aus einem Modellvergleich und
-  deshalb mit Review-Marker). Offen sind 14 Monolith-Kapitel in
-  `stil-01-original` (000, 001–005, 007–013 = 284 Szenen) sowie Szene 07 in
-  014. Vor jedem Lauf `--style stil-04-original-geheim` explizit mitgeben,
-  sonst plant der Default `stil-01-original` Kapitel 006 mit. Feature-Branch-
-  Inhalt wurde 2026-07-28 per Fast-Forward nach `main` gemerged.
+  `structure.mode: scenes`, 15 Kapitel, **317 Quell-Szenen**, Import
+  `tools/import_geheime_geschichte.py`. Die DE-Fassung liegt als Monolith vor
+  (je 1 Szene in `stil-01-original`), deshalb meldet der Gate buchweit
+  **ERROR=303** (`missing_de_scene`). Fertig im Szenenformat:
+  `stil-04-original-geheim` 006 (20/20) und 014 (12/13, Szene 07 fehlt);
+  000 ist 1:1. **Offen: 284 Szenen in 13 Kapiteln** (001–005, 007–013
+  komplett = 283 + 014/07). Entscheidung offen: Weg A (`structure.mode:
+  chapter_as_scene`, Monolithe als Kapitel exportieren) oder Weg B
+  (abschnittsweise in `stil-04`). Vor jedem Lauf `--style
+  stil-04-original-geheim` explizit mitgeben, sonst plant der Default
+  `stil-01-original` Kapitel 006 mit. Feature-Branch-Inhalt wurde 2026-07-28
+  per Fast-Forward nach `main` gemerged. Übergabeprompt: `docs/uebergabe-prompt.md`
+  (Prompt E).
 - **Die dritte Chronik** (auf `main`): DE-Original, Timo Verita, Untertitel
   "Im Schatten Dschingis Khans". **RomanForge-Uebernahme 2026-11-11
   abgeschlossen** (Uebergabe `7357431a`, Stufe 2, `--handoff`): 48/48 Kapitel
@@ -772,8 +778,9 @@ Bundsteg).
   deterministische Fixes und alle 6 gerafften Szenen gelaufen
   (011/03, 002/11, 003/05, 009/08, 010/01, 010/02), Buch-EPUB neu mit Gate
   0 Fehler; offen nur noch Kindle Previewer und eine menschliche Stichprobe
-  der drei zuletzt neu uebersetzten Szenen; Mongolen: 14 Monolith-Kapitel abschnittsweise in
-  `stil-04-original-geheim`; Chronik (2026-11-11): Uebernahme und alle Formate
+  der drei zuletzt neu uebersetzten Szenen; Mongolen: Weg A (Kapitel-Export)
+  oder Weg B entscheiden, offen sind 284 Szenen in 13 Kapiteln
+  (`stil-04-original-geheim`); Chronik (2026-11-11): Uebernahme und alle Formate
   fertig, Gate 0/0/0 - offen nur der KDP-Upload;
   Pharao: 4k-Druckcover, Satz 609 Seiten und Wrap fertig, bei KDP hochgeladen
   (Testbuch, Nutzer prueft die Druckansicht); offen dort die Rueckmeldung;

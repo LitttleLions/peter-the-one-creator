@@ -6,11 +6,42 @@ Unter Windows CLI immer `.\.venv\Scripts\python.exe`, nicht `python`/`py -3`.
 Kein OpenRouter ohne ausdrueckliche Freigabe. Committen und Pushen nur nach
 Freigabe des Nutzers, kein Branch-Wechsel.
 
-Es gibt vier Prompts: **A** (neue Fassung aus RomanForge holen und daraus
+Es gibt fuenf Prompts: **A** (neue Fassung aus RomanForge holen und daraus
 Marketing machen, Stand 2026-11-09), **B** (allgemeiner Einstieg mit Warten auf
 die Aufgabe, ab „Schritt 1“), **C** (Bilder, Print und Veroeffentlichung fuer
-`die-sprache-des-anderen`, Stand 2026-11-10) und **D** (Print und Cover aus dem
-aktuellen Textstand bauen, Stand 2026-11-11).
+`die-sprache-des-anderen`, Stand 2026-11-10), **D** (Print und Cover aus dem
+aktuellen Textstand bauen, Stand 2026-11-11) und **E** (Geheime Geschichte der
+Mongolen weiterfuehren, Stand 2026-11-22).
+
+---
+
+## Prompt E: Geheime Geschichte der Mongolen weiterfuehren (Stand 2026-11-22)
+
+```text
+Lies AGENTS.md, README.md und den Mongolen-Abschnitt in
+docs/offene-punkte.md (Punkt 5). Arbeite in C:\code\peter-the-one auf
+main: erst `git fetch` und Abgleich, bei Abweichung oder uncommitteten
+Aenderungen anhalten und fragen.
+
+Stand (gemessen 2026-11-22): 15 Kapitel, Quelle ja->de mit 317 Szenen.
+Die DE-Fassung liegt als Monolith vor (je 1 Szene in stil-01-original),
+deshalb meldet der Gate ERROR=303 (`missing_de_scene`). Im Szenenformat
+fertig sind 006 (20/20) in stil-04-original-geheim und 014 (12/13,
+Szene 07 fehlt); 000 ist 1:1. Offen: 284 Szenen in 13 Kapiteln
+(001-005, 007-013 komplett + 014/07).
+
+Aufgabe heute: [hier eintragen]
+- Weg A (schnell): structure.mode auf chapter_as_scene, Gate laufen
+  lassen, danach EPUB/Print bauen.
+- Weg B (geplant): abschnittsweise in stil-04-original-geheim, hoechstens
+  5 Kapitel pro Paket, je Kapitel assemble_chapter + review_manuscript
+  --chapter NNN --llm none, danach Kurzbericht (nur ERROR/WARNING/INFO).
+
+Regeln: `--style stil-04-original-geheim` immer explizit mitgeben (sonst
+plant der Default stil-01 Kapitel 006 mit); keine Uebersetzung, keine
+Bilder und kein OpenRouter ohne ausdrueckliche Freigabe; source/ bleibt
+tabu; Aenderungen am Ende committen und pushen.
+```
 
 ---
 

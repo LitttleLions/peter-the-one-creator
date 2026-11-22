@@ -425,24 +425,43 @@ Echt nur mit Freigabe mit `--provider openrouter --auto-status --assemble-after`
 
 Status: OFFEN.
 
-## 5. Geheime Geschichte der Mongolen: 284 Szenen Monolithen
+## 5. Geheime Geschichte der Mongolen: 284 Szenen offen
 
-Was: Quelle `ja->de`, `structure.mode: scenes`, ca. 317 Abschnitte.
-`stil-04-original-geheim` = Interlinear/Edition (kein Lesestil).
-Stand: Kap. 006 fertig (20/20 in stil-04, Review-Marker bleibt).
-Offen: 000, 001-005, 007-013 = 284 Szenen + Szene 07 in 014.
+Was: Quelle `ja->de`, `structure.mode: scenes`, 15 Kapitel mit **317
+Quell-Szenen**. `stil-04-original-geheim` = Interlinear/Edition (kein Lesestil).
+
+Stand 2026-11-22 (gemessen):
+- Alle 15 Kapitel sind uebersetzt, aber als **Monolith** (je 1 Szene in
+  `stil-01-original`). Der Gate meldet deshalb buchweit **ERROR=303**
+  (`missing_de_scene`), WARNING=3, INFO=7 - die Struktur passt nicht, nicht der Text.
+- Im Szenenformat fertig: **006** (20/20 in `stil-04-original-geheim`) und
+  **014** (12/13, **Szene 07 fehlt**); 000 ist 1:1.
+- **Offen: 284 Szenen in 13 Kapiteln** - 001 (69), 002 (35), 003 (25), 004 (25),
+  005 (25), 007 (15), 008 (12), 009 (23), 010 (17), 011 (12), 012 (16), 013 (9)
+  plus 014/07.
+- Alter EPUB-Stand vom 2026-07-21 ist veraltet.
+
+Zwei Wege:
+- **A (schnell)**: `structure.mode: chapter_as_scene` setzen, Gate neu laufen,
+  dann EPUB/Paperback aus den Monolithen. Kapitel 006 muesste aus `stil-04`
+  nach `stil-01` ueberfuehrt werden.
+- **B (geplant)**: abschnittsweise in `stil-04-original-geheim` uebersetzen,
+  max. 5 Kapitel pro Paket, je Kapitel `assemble_chapter` +
+  `review_manuscript --chapter NNN --llm none`.
+
 Kritisch: immer `--style stil-04-original-geheim` explizit mitgeben.
+Uebergabeprompt: `docs/uebergabe-prompt.md` (Prompt E).
 
 Checkliste:
 
 ```bat
-py -3 tools/status.py --book geheime-geschichte-mongolen summary
-py -3 tools/translate_batch.py --book geheime-geschichte-mongolen --missing --style stil-04-original-geheim --provider prompt_file --dry-run
+.\.venv\Scripts\python.exe tools/status.py --book geheime-geschichte-mongolen summary
+.\.venv\Scripts\python.exe tools/translate_batch.py --book geheime-geschichte-mongolen --missing --style stil-04-original-geheim --provider prompt_file --dry-run
 ```
 
 Echt nur abschnittsweise + Freigabe.
 
-Status: OFFEN.
+Status: OFFEN - Weg noch nicht entschieden.
 
 ## 6. Dritte Chronik: Gate 0/13/36 + Redaktionstabelle (Stand 2026-09-19 abends)
 

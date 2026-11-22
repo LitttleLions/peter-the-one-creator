@@ -50,6 +50,18 @@ fehlte aber in peter; nach Rückfrage als **NEU** angelegt
   assemblieren/reviewen und die Exporte **ohne** Bypass bauen; KDP-Upload;
   ggf. größere/randlose Bildseiten im Paperback.
 
+## Naechste Aufgabe: Geheime Geschichte der Mongolen (Stand 2026-11-22)
+
+Gemessen am 2026-11-22: 15 Kapitel, 317 Quell-Szenen (`ja`), DE liegt als
+Monolith vor (je 1 Szene in `stil-01-original`). Gate buchweit
+**ERROR=303** (`missing_de_scene`), WARNING=3, INFO=7. Im Szenenformat fertig:
+`stil-04-original-geheim` 006 (20/20) und 014 (12/13, Szene 07 fehlt); 000
+ist 1:1. **Offen: 284 Szenen in 13 Kapiteln** (001–005, 007–013 komplett =
+283 + 014/07). Weg A (chapter_as_scene, Monolithe exportieren) oder Weg B
+(abschnittsweise in `stil-04`) ist noch nicht entschieden.
+Details/Checkliste: `docs/offene-punkte.md` §5; Kopiertext:
+`docs/uebergabe-prompt.md` (Prompt E).
+
 ## Letzte Session (2026-11-11 abends, `die-dritte-chronik`: RomanForge-Uebernahme + neue Saetze)
 
 Branch **`main`**. Die Chronik wurde komplett auf die RomanForge-Uebergabe

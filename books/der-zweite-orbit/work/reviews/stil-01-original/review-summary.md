@@ -2,11 +2,11 @@
 
 - Buch-ID: der-zweite-orbit
 - Stil: stil-01-original
-- Erstellt: 2026-11-21T13:48:13
+- Erstellt: 2026-11-22T13:49:35
 - LLM: none
 - Kapitel: 30
-- Kapitel mit Befunden: 3
-- Fehler: 3
+- Kapitel mit Befunden: 1
+- Fehler: 1
 - Warnungen: 0
 - Hinweise: 0
 
@@ -23,10 +23,10 @@
 - 009: OK (ERROR=0, WARNING=0, INFO=0)
 - 010: OK (ERROR=0, WARNING=0, INFO=0)
 - 011: OK (ERROR=0, WARNING=0, INFO=0)
-- 012: Befund (ERROR=1, WARNING=0, INFO=0)
+- 012: OK (ERROR=0, WARNING=0, INFO=0)
 - 013: OK (ERROR=0, WARNING=0, INFO=0)
 - 014: OK (ERROR=0, WARNING=0, INFO=0)
-- 015: Befund (ERROR=1, WARNING=0, INFO=0)
+- 015: OK (ERROR=0, WARNING=0, INFO=0)
 - 016: OK (ERROR=0, WARNING=0, INFO=0)
 - 017: OK (ERROR=0, WARNING=0, INFO=0)
 - 018: OK (ERROR=0, WARNING=0, INFO=0)
@@ -46,5 +46,3 @@
 ## Release-blockierende Fehler
 
 - 001, Szene 01: cyrillic_in_translation - DE-Szene enthaelt kyrillische Zeichen.
-- 012, Szene 01: cyrillic_in_translation - DE-Szene enthaelt kyrillische Zeichen.
-- 015, Szene 01: cyrillic_in_translation - DE-Szene enthaelt kyrillische Zeichen.

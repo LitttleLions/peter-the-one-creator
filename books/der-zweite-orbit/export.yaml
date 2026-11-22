@@ -38,7 +38,7 @@ defaults:
     scene_page_break_after_image: false
 book:
   title: Der zweite Orbit
-  subtitle: ''
+  subtitle: Ein Nova-Terra-Roman
   author: Timo Verita
   translator: Motivatier Classics
   translator_label: Herausgabe und editorische Einrichtung
@@ -131,3 +131,35 @@ book:
     mode: image
     image_path: assets/covers/cover-print.jpg
   series: Die Nova-Terra-Chroniken
+  series_volume: 1
+
+# Regal-Freigabe (top-level, gelesen von build_shelf_website.py)
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 100
+
+# KDP (gelesen von tools/lib/kdp_mapping.py); Preise sind Entwuerfe,
+# Kategorien sind die Klartext-Pfade aus dem KDP-Dropdown.
+amazon:
+  marketplace: DE
+  keywords:
+    - Science Fiction Thriller
+    - Erstkontakt im Weltraum
+    - Bergbau auf fremdem Planeten
+    - Nova Terra
+    - Science-Fiction-Reihe
+    - Space Thriller 2057
+    - Timo Verita
+  categories:
+    - Belletristik > Science Fiction > Space Opera
+    - Belletristik > Science Fiction > Erstkontakt
+    - Belletristik > Abenteuer > Weltraum
+  kindle:
+    enabled: true
+    price_eur: "4.99"
+    price_usd: "5.99"
+    categories: []
+  paperback:
+    enabled: true
+    categories: []

@@ -1,0 +1,10 @@
+# Echte Originalzitate in DE-Szenen (kyrillisch) - Ausnahme vom Zeichen-Check.
+# Nur belegte Zitate, keine Tippfehler: 001 ("матриzen") bleibt bewusst ERROR,
+# bis der Text in RomanForge korrigiert ist.
+original_quotes:
+  - chapter: "012"
+    scene: 1
+    text: "ОСТ 4784-49"
+  - chapter: "015"
+    scene: 1
+    text: "СССР – СПУТНИК-2"

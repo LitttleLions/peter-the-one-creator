@@ -475,6 +475,37 @@ Nachtrag 2026-11-22 (Textbereinigung nach der Pruefung von 014):
   "Teil 1"/"Teil 2" (Gruppe "Zwoelftes Buch"), Kapitel 000 als "Einleitung"
   (statt "0stes Kapitel"); die redundante Gruppe `joron` ist entfernt.
 
+Nachtrag 2026-11-22 abends (Leseausgabe-Bereinigung, Bloecke 1-5, Commits
+`3a638b0`/`f30b657`/`7d60ff4`/`7866a61`/`75e3c7f`):
+- Apparat-Reste entfernt: Seitenmarker `[N]` (1943er-Seitenzahlen, eigene
+  Zeilen + inline), rohe `<span>`-Anmerkungen (004), Quellen-Kopfzeilen
+  `巻の五`/`卷十一-1`/`**Band 12-2**`, chinesische Quellnamen
+  (`親征錄`→"Qinzheng lu", `[镇国]`→"Zhenguo", `太祖`→"Taizu"), zwei
+  Redaktions-Meta-Notizen (013), "Seite N [entspricht §M]"-Verweise.
+  Sexagenär-Jahreszeichen (`庚辰` usw.) behalten, Notation auf `(1220)`.
+- Benennung A umgesetzt: `structure.groups` entfernt, `label: Buch`; Kapitel
+  tragen Buchnamen (`Einleitung`, `Erstes Buch` … `Elftes Buch · Teil 1/2`,
+  `Zwölftes Buch · Teil 1/2`) via `display.chapters.titles`.
+- Grafiken (freigegeben): Überlieferungs-Stemma + mongolische/mandschurische
+  Lauttafel als HTML (`assets/einleitung/*.html`) → PNG
+  (`assets/einleitung/*.png`), in die Einleitung eingebunden (Playwright,
+  Einmal-Skript in %TEMP%, nicht im Repo).
+- Anhang "Quellen und Ausgaben" (`quellenverzeichnis.md`) angelegt.
+- Quellen-Exkurs 014 von allen CJK-Glossen befreit.
+- Gate buchweit **ERROR=0 / WARNING=3 / INFO=8**; EPUB `...-192959.epub`,
+  Paperback `...-193040-...pdf` (125 Seiten).
+
+Offen (2026-11-22 abends, NICHT behoben):
+- **Seitenzahl-Regression 244 → 125** bei identischem Satz (10,8/13,6 pt,
+  Ränder 12,7 mm, `chapter_start: next_page`, `blank_pages: []`) und fast
+  gleichem Wortstand (79.376 → 78.442). Der Haupttext rendert in der Hälfte
+  der Seiten. Ursache offen (Verdacht Gruppen-Entfernung + entfernte
+  Marker-Zeilen). Inhalt vollständig (alle 15 Kapitel).
+- **Doppelte/verwaiste Buchtitel**: Szenen tragen alte Kopfzeilen
+  (`**X Buch**`, `## X Buch`, 001 zusätzlich `# Die Geheime Geschichte der
+  Mongolen`), die jetzt zusätzlich zur neuen Kapitelüberschrift stehen.
+- Wrap für 125 Seiten neu bauen (aktuell noch `cover-wrap-...-244.pdf`).
+
 ### Genealogie und Grafik (2026-11-22)
 
 - Datenblaetter: `work/genealogie/stammtafel-001.md` (Hauptlinie, fuenf

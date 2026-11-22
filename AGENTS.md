@@ -799,8 +799,9 @@ Bundsteg).
   (011/03, 002/11, 003/05, 009/08, 010/01, 010/02), Buch-EPUB neu mit Gate
   0 Fehler; offen nur noch Kindle Previewer und eine menschliche Stichprobe
   der drei zuletzt neu uebersetzten Szenen; Mongolen: Weg A umgesetzt
-  (Kapitelmodus, Gate 0/3/7, EPUB + Paperback 244 Seiten, Cover-print + Wrap
-  fertig; optional Weg B); Chronik (2026-11-11): Uebernahme und alle Formate
+  (Kapitelmodus, Gate 0/3/8, EPUB + Paperback 125 Seiten; offen
+  Seitenzahl-Regression 244→125 + doppelte Buchtitel, siehe
+  docs/offene-punkte.md §5; optional Weg B); Chronik (2026-11-11): Uebernahme und alle Formate
   fertig, Gate 0/0/0 - offen nur der KDP-Upload;
   Pharao: 4k-Druckcover, Satz 609 Seiten und Wrap fertig, bei KDP hochgeladen
   (Testbuch, Nutzer prueft die Druckansicht); offen dort die Rueckmeldung;

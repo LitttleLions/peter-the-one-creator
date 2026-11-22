@@ -172,3 +172,10 @@ amazon:
     # Buchhandel-Kategorien ("Buecher > ..."), ebenfalls erst nach der Wahl
     # im Print-Formular eintragen.
     categories: []
+
+# Regal-Freigabe (top-level, gelesen von build_shelf_website.py).
+# ASIN B0HR1FMLTW, vom Nutzer 2026-11-22 bestaetigt (auch amazon.de erreichbar).
+website:
+  enabled: true
+  amazon_url: https://www.amazon.de/dp/B0HR1FMLTW
+  sort_order: 70

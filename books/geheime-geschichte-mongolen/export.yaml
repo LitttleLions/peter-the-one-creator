@@ -149,3 +149,10 @@ website:
   enabled: true
   amazon_url: ''
   sort_order: 70
+
+appendices:
+  - style: stil-01-original
+    title: Stammtafeln und Ordo
+    path: work/appendices/de/stil-01-original/stammtafeln.md
+    source_chapter: "001"
+    source_scene: 1

@@ -6,7 +6,7 @@
 - DE-Szenen: 1
 - Fehler: 0
 - Warnungen: 2
-- Hinweise: 1
+- Hinweise: 2
 
 ## Befunde
 
@@ -25,6 +25,14 @@ Stapelung (13x: dass 6x, sondern 3x, wie 2x) in 137 Woertern ohne Satzende.
 > In der Tat, wenn man nur bedenkt, dass die Mongolen aus einer entlegenen Ecke Asiens kamen und nicht einmal eine Landkarte des Landes oder ein festgelegtes Mittel, die Geographie zu lernen, besaßen, dass sie nicht nur für Europa, sondern auch für die Denkweise der Westler völlig Fremde (Unkundige) waren, dass sie sich nicht durch eine lange Reihe von Experimenten auf den Krieg vorbereitet hatten, sondern wie eine Lawine in die Länder der Menschen eingebrochen waren, dass ihre Art der Versorgung 
 
 Empfehlung: Schachtelsatz gliedern.
+
+### INFO: repetition_style (014, Szene 01)
+
+Leitmotiv-Tripel 'rashīds geschichte heißt' 4x in einem Absatz.
+
+> 'rashīds geschichte heißt' 4x
+
+Empfehlung: Formulierung streuen oder als Leitmotiv markieren.
 
 ### INFO: repetition_style (014, Szene 01)
 

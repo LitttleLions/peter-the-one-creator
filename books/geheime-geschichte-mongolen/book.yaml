@@ -31,9 +31,6 @@ structure:
   mode: chapter_as_scene
   label: Kapitel
   groups:
-  - id: joron
-    label: Einleitung
-    chapters: [0]
   - id: volume-1
     label: Erstes Buch
     chapters: [1]
@@ -76,6 +73,10 @@ display:
     suffix: " Kapitel"
     align: center
     include_source_title: false
+    titles:
+      "000": Einleitung
+      "013": Teil 1
+      "014": Teil 2
   scenes:
     show: false
     format: number

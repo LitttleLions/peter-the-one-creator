@@ -156,3 +156,8 @@ appendices:
     path: work/appendices/de/stil-01-original/stammtafeln.md
     source_chapter: "001"
     source_scene: 1
+  - style: stil-01-original
+    title: Quellen-Exkurse zu Kapitel 14
+    path: work/appendices/de/stil-01-original/quellen-exkurse-014.md
+    source_chapter: "014"
+    source_scene: 1

@@ -32,9 +32,10 @@ Bälgünütäi), Bögünüt (nach Bögünütäi), Qatagin (nach Bögün Qadaq), 
 
 ## §43 — Qabichi
 
-Qabichi (合必赤), ein Nachkomme Bodonchars, hatte einen Sohn Jüreidai
-(沼咧歹). — **unsicher** (die Vaterrelation ist im Interlineartext nur
-glossiert).
+Qabichi (哈必畜/合必赤), ein Nachkomme Bodonchars, hatte einen Sohn Jüreidai
+(沼咧歹), der auch Jügeli (主格黎) genannt wird. — **unsicher** (der
+Interlineartext glossiert die Vaterrelation nur; Qabichi, Bodonchar und
+Jüreidai stehen ohne klare Verbindung nebeneinander).
 
 ## §44 — Die Jüre'it
 
@@ -55,9 +56,11 @@ glossiert).
 
 ## §47 — Bai Schingqor
 
-Bai Schingqor (拜 姓忽兒), Sohn Qaidus, hatte mehrere Söhne, darunter
-Tscharaqai Lingqu und Tschaujin Ortegai; von Tumbinai Setschen führt die Linie
-weiter. — **unsicher** (Zahl und Reihenfolge der Söhne sind im Text glossiert).
+Bai Schingqor (拜 姓忽兒), Sohn Qaidus, hatte nach der genealogischen Tafel
+(世系表) drei Söhne, darunter Tscharaqai Lingqu (察喇孩 領忽) und Tschaujin
+Ortegai (抄眞 斡兒帖該); der Sohn Setschen (Tumbinai Setschen, 薛禪/屯必乃)
+führt die Linie weiter. — **teilweise sicher** (die Zahl drei belegt die
+genealogische Tafel; Reihenfolge und einzelne Namen nur glossiert).
 
 ## §48 — Qabul Khan und seine sieben Söhne
 
@@ -67,8 +70,10 @@ Otchigin. — **sicher** (Liste).
 
 ## §49 — Die Söhne Qutuqtus
 
-Qutuqtu Mönggür hatte zwei Söhne: Seche Beki und Taichu; von ihnen stammen die
-Tayichi'ut ab. — **unsicher** (Stammeszuordnung erschlossen).
+Qutuqtu Mönggür hatte zwei Söhne: Seche Beki (薛扯 別乞; «Beki» = Titel des
+Stammesoberhaupts) und Taichu (台出); die Quelle nennt in diesem Zusammenhang
+auch die Yürkin (月兒斤). — **unsicher** (die Zuordnung zur Tayichi'ut ist aus
+§48 erschlossen, in §49 selbst nicht genannt).
 
 ## §50 — Bartan Ba'atur und seine vier Söhne
 
@@ -77,23 +82,34 @@ Ba'atur und Daritai. Yesügei ist der Vater Temüdschins. — **sicher** (Liste)
 
 ## §51 — Die Söhne Qutulas
 
-Qutula Qaghan hatte Söhne, darunter Jochi Qaghan, Altan und Qulan Ba'atur;
-zwei von ihnen werden als „Beamte“ bezeichnet. — **unsicher** (Zuordnung).
+Qutula Qaghan hatte Söhne, darunter Jochi Qaghan (搠只 可汗), Altan (阿勒壇;
+親征錄/元史: 按彈) und Qulan Ba'atur (忽蘭 巴阿禿兒); zwei von ihnen werden
+als «Beamte» (官人) bezeichnet. — **teilweise sicher** (die Sohnesliste ist
+belegt; die Zuordnung der «Beamten» bleibt glossiert).
 
 ## §52 — Ambaghai
 
-Ambaghai (俺巴孩) herrschte über das gesamte Mongol-Volk. Die Quelle bemerkt,
-dass erst Qabul Khan den Titel Qaghan führte. Ambaghai wurde später von den
-Tataren gefangen genommen (§53). — **sicher** (Herrschaft); das
-Verwandtschaftsverhältnis zu Qabul ist im Text nicht eindeutig.
+Ambaghai (俺巴孩) herrschte über das gesamte Mongol-Volk (忙豁勒). Die Quelle
+bemerkt, dass erst Qabul Khan den Titel Qaghan (合罕) führte; nach der
+„Goldenen Spiegel-Dynastie" (大金國志) wird er im Jahr 1144 fassbar. Ambaghai
+wurde später von den Tataren gefangen genommen (§53). — **sicher**
+(Herrschaft); das Verwandtschaftsverhältnis zu Qabul ist im Text nicht
+eindeutig.
 
 ## Offene Punkte dieser Übersetzung
 
 - Die Interlinearglossen enthalten umfangreiche lautliche und
   quellenkritische Erläuterungen; sie sind hier nur sinngemäß berücksichtigt.
-  Eine wortgetreue Edition müsste gegen die gedruckte Ausgabe (Tōyō Bunko,
-  1943) geprüft werden.
-- Unklare Relationen: Qabichi/Jüreidai (§43), Bai Schingqors Söhne (§47),
-  Qutulas Söhne (§51), Ambaghais Verwandtschaft (§52).
+- Prüfung gegen die gedruckte Ausgabe (Tōyō Bunko, 1943), Fassung der
+  Quell-Sektionen `work/legacy/scenes-ja-sections-20261122/001/scene-40..52.md`
+  (2026-11-22):
+  - **§47 und §51 teilweise geklärt**: die Zahl der Söhne Bai Schingqors (drei
+    nach der genealogischen Tafel) und die Sohnesliste Qutulas (Jochi Qaghan,
+    Altan, Qulan Ba'atur) sind belegt.
+  - **Weiter unsicher**: die Vaterrelation Qabichi/Jüreidai (§43), die
+    Tayichi'ut-Zuordnung (§49; in §49 selbst stehen die Yürkin, die
+    Tayichi'ut stammen aus §48) und Ambaghais Verwandtschaft zu Qabul (§52).
+- Eine wortgetreue Edition müsste den gereinigten Drucktext heranziehen; die
+  OCR-Interlinearfassung lässt §43/§49 keine sichere Entscheidung zu.
 - Für die Stammtafel sind nur die **sicheren** Listen verwendet; unsichere
   Linien erscheinen als gestrichelte Kästen.

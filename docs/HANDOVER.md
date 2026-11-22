@@ -78,6 +78,13 @@ aber logisch falsch (Alan Qo'a als Generation nach Dobun, Borjigin als
 Seitenast) und liegt nur als Entwurf
 `work/genealogie/higgsfield-entwurf-stammtafel.jpg`; 4k/max hätte 12 Credits
 gekostet.
+Abschnitte 40–52 liegen als Arbeitsübersetzung
+(`work/genealogie/quelle-001-40-52-de.md`, sinngemäß, mit Statusmarken) und als
+zweite Tafel `assets/genealogie/nebenlinien-001.png` vor (Jadaran, Ba'arin,
+Qabul-Haus mit sieben Söhnen, Bartans vier Söhnen, Qutula; Ambaghai
+gestrichelt = unsichere Relation). Offen: wortgetreue Prüfung gegen die
+Druckausgabe, Namenskanon, Ordo-Tabelle als Grafik, Einbindung beider Tafeln in
+EPUB/Print.
 Offen: Druckcover + Wrap; optional Weg B (Edition in `stil-04-original-geheim`,
 284 Szenen; 006/09 ist eine reine Titelzeile und wuerde dort als
 `empty_or_short`/`degeneration` blockieren).

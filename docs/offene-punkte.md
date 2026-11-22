@@ -484,10 +484,14 @@ Nachtrag 2026-11-22 (Textbereinigung nach der Pruefung von 014):
   Dobun, Borjigin als Seitenast) -> nur Entwurf
   `work/genealogie/higgsfield-entwurf-stammtafel.jpg`. 4k/max haette
   12 Credits gekostet, das Konto hatte 4,17.
-- Offen: Abschnitte 40-52 uebersetzen (Qabichi/Juereidai, Menen Tuduns sieben
-  Soehne, Qaidu, Bai Schingqors Soehne, Qabul Khans Soehne, Ambaghai/Qutula);
-  Namenskanon (Text "Jaesuegai" vs. names.yaml "Yesuegei"); Ordo-Tabelle als
-  Grafik; Einbindung der Tafel in EPUB/Print (noch nicht referenziert).
+- Abschnitte 40-52 sind als Arbeitsuebersetzung vorhanden
+  (`work/genealogie/quelle-001-40-52-de.md`, sinngemaess, mit Statusmarken)
+  und in die zweite Tafel eingearbeitet: `assets/genealogie/nebenlinien-001.png`
+  (Jadaran, Ba'arin, Qabul-Haus mit sieben Soehnen, Bartans vier Soehnen,
+  Qutula; Ambaghai gestrichelt).
+- Offen: wortgetreue Pruefung gegen die gedruckte Ausgabe; Namenskanon (Text
+  "Jaesuegai" vs. names.yaml "Yesuegei"); Ordo-Tabelle als Grafik; Einbindung
+  beider Tafeln in EPUB/Print (noch nicht referenziert).
 
 Checkliste (nur falls Weg B spaeter kommt; `--style` immer explizit):
 

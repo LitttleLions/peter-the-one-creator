@@ -42,8 +42,10 @@ fehlte aber in peter; nach Rückfrage als **NEU** angelegt
   ("матриzen", Tippfehler im RomanForge-Text). Exporte daher mit
   `--allow-review-errors` (`review_gate_errors` im Manifest).
 - **Regal**: `website.enabled: true`, `sort_order: 100`, Katalog neu gebaut
-  (`webpage/public/data/catalog.json` enthält den Titel); `amazon:`-Block
-  (Keywords/Kategorien/Preise) angelegt, Amazon-URL noch leer.
+  (`webpage/public/data/catalog.json` enthält den Titel) und am 2026-11-22
+  auf https://stiftung.motivatier.de/classics/ deployt (12 Einträge, Index und
+  Cover HTTP 200; Sicherung `/root/classics-backup-20261122.tar.gz`);
+  `amazon:`-Block (Keywords/Kategorien/Preise) angelegt, Amazon-URL noch leer.
 - **Offen**: 001 in RomanForge korrigieren, dann `--accept 001`, neu
   assemblieren/reviewen und die Exporte **ohne** Bypass bauen; KDP-Upload;
   ggf. größere/randlose Bildseiten im Paperback.

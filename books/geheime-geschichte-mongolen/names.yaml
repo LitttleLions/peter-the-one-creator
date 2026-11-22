@@ -10,10 +10,10 @@ entries:
     status: draft
     note: "Deutsche Lautform; für die Zeit vor seiner Erhebung zum Dschingis Khan verwenden."
   - source: "Yisügei Ba'atur"
-    target: "Yesügei Baatar"
+    target: "Yesügei Ba'atur"
     type: person
     status: draft
-    note: "Vater Temüdschins; Baatar als Titel oder Namensbestandteil einheitlich behandeln."
+    note: "Vater Temüdschins; im Text einheitlich Yesügei (frueher Jaesuegai/Yisuegei)."
   - source: "Hö'elün"
     target: "Höelün"
     type: person
@@ -103,4 +103,218 @@ entries:
     target: "Kelüren"
     type: place
     status: draft
-    note: "Flussname, wichtig für Handlungsort."
+    note: "Flussname, wichtig fuer Handlungsort."
+  - source: "Börte Čino"
+    target: "Börte Tschino"
+    type: person
+    status: draft
+    note: "Ahnherr, der fahlgelbe Wolf (Erstes Buch)."
+  - source: "Qo'ai Maral"
+    target: "Qo'ai Maral"
+    type: person
+    status: draft
+    note: "Ahnfrau, die Hirschkuh."
+  - source: "Batachichan"
+    target: "Batachichan"
+    type: person
+    status: draft
+  - source: "Tamača"
+    target: "Tamatscha"
+    type: person
+    status: draft
+  - source: "Qoričar Mergen"
+    target: "Qoritschar Mergen"
+    type: person
+    status: draft
+  - source: "A'ujam Boroqul"
+    target: "A'ujam Boroqul"
+    type: person
+    status: draft
+  - source: "Sali Qača'u"
+    target: "Sali Qatschu"
+    type: person
+    status: draft
+  - source: "Yeke Nidün"
+    target: "Yeke Nidün"
+    type: person
+    status: draft
+  - source: "Sem Soči"
+    target: "Sem Sotschi"
+    type: person
+    status: draft
+  - source: "Qarču"
+    target: "Qartschu"
+    type: person
+    status: draft
+  - source: "Borjigidai Mergen"
+    target: "Borjigidai Mergen"
+    type: person
+    status: draft
+  - source: "Mongoljin Qo'a"
+    target: "Mongoljin Qo'a"
+    type: person
+    status: draft
+  - source: "Toroqoljin Bayan"
+    target: "Toroqoljin Bayan"
+    type: person
+    status: draft
+  - source: "Borogtschin Qo'a"
+    target: "Borogtschin Qo'a"
+    type: person
+    status: draft
+  - source: "Düwa Soqor"
+    target: "Düwa Soqor"
+    type: person
+    status: draft
+  - source: "Dobun Mergen"
+    target: "Dobun Mergen"
+    type: person
+    status: draft
+  - source: "Alan Qo'a"
+    target: "Alan Qo'a"
+    type: person
+    status: draft
+  - source: "Bälgünütäi"
+    target: "Bälgünütäi"
+    type: person
+    status: draft
+  - source: "Bögünütäi"
+    target: "Bögünütäi"
+    type: person
+    status: draft
+  - source: "Buqu Qatagi"
+    target: "Bögün Qadaq"
+    type: person
+    status: draft
+  - source: "Buqatu Salji"
+    target: "Bügetü Salschi"
+    type: person
+    status: draft
+  - source: "Bodončar"
+    target: "Bodonchar"
+    type: person
+    status: draft
+  - source: "Qorilqo'a"
+    target: "Qorilqo'a"
+    type: person
+    status: draft
+  - source: "Bari'utai"
+    target: "Bari'utai"
+    type: person
+    status: draft
+  - source: "Badarai"
+    target: "Badarai"
+    type: person
+    status: draft
+  - source: "Qubil Qara"
+    target: "Qubil Qara"
+    type: person
+    status: draft
+  - source: "Qachin Körchi"
+    target: "Qachin Körchi"
+    type: person
+    status: draft
+  - source: "Qachula Körchi"
+    target: "Qachula Körchi"
+    type: person
+    status: draft
+  - source: "Qaidu"
+    target: "Qaidu"
+    type: person
+    status: draft
+  - source: "Bai Schingqor"
+    target: "Bai Schingqor"
+    type: person
+    status: draft
+  - source: "Tumbinai Setschen"
+    target: "Tumbinai Setschen"
+    type: person
+    status: draft
+  - source: "Qabul Qa'an"
+    target: "Qabul Khan"
+    type: person
+    status: draft
+  - source: "Bartan Ba'atur"
+    target: "Bartan Ba'atur"
+    type: person
+    status: draft
+  - source: "Qatschiun"
+    target: "Qatschiun"
+    type: person
+    status: draft
+  - source: "Temüge"
+    target: "Temüge"
+    type: person
+    status: draft
+  - source: "Temülün"
+    target: "Tämülün"
+    type: person
+    status: draft
+  - source: "Bälgünüt"
+    target: "Bälgünüt"
+    type: clan
+    status: draft
+  - source: "Bögünüt"
+    target: "Bögünüt"
+    type: clan
+    status: draft
+  - source: "Qatagin"
+    target: "Qatagin"
+    type: clan
+    status: draft
+  - source: "Salji'ut"
+    target: "Salji'ut"
+    type: clan
+    status: draft
+  - source: "Borjigin"
+    target: "Borjigin"
+    type: clan
+    status: draft
+  - source: "Jajiradai"
+    target: "Jajiradai"
+    type: person
+    status: draft
+  - source: "Ba'ari'dai"
+    target: "Ba'ari'dai"
+    type: person
+    status: draft
+  - source: "Ambaghai"
+    target: "Ambaghai"
+    type: person
+    status: draft
+  - source: "Qutula"
+    target: "Qutula"
+    type: person
+    status: draft
+  - source: "Börte Ujin"
+    target: "Börte Ujin"
+    type: person
+    status: draft
+  - source: "Qulan"
+    target: "Qulan"
+    type: person
+    status: draft
+  - source: "Yesüi"
+    target: "Yesüi"
+    type: person
+    status: draft
+  - source: "Yesügen"
+    target: "Yesügen"
+    type: person
+    status: draft
+  - source: "Töregene"
+    target: "Töregene"
+    type: person
+    status: draft
+  - source: "Küchü"
+    target: "Küchü"
+    type: person
+    status: draft
+  - source: "Širemün"
+    target: "Shiremün"
+    type: person
+    status: draft
+  - source: "Güyük"
+    target: "Güyük"
+    type: person
+    status: draft

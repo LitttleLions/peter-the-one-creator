@@ -6,17 +6,9 @@
 - DE-Szenen: 1
 - Fehler: 0
 - Warnungen: 0
-- Hinweise: 2
+- Hinweise: 1
 
 ## Befunde
-
-### INFO: repetition_style (002, Szene 01)
-
-Wort-Echo 'bestieg' 7x in 30 Woertern (2x verteilt).
-
-> 'bestieg' 7x / 30 Woerter
-
-Empfehlung: Wort-Echo pruefen: variieren.
 
 ### INFO: repetition_style (002, Szene 01)
 

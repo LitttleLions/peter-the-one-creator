@@ -12,8 +12,8 @@ und zum Kurultai).
 |---|---|---|---|---|
 | 1. Großer Ordo | Börte Ujin (Großkhatun) | 6 | 1 | 8 |
 | 2. | Qulan | 4 | 4 | 9 |
-| 3. | Yesui | 7 | 3 | 11 |
-| 4. | Yesugen | 5 | 7 | 13 |
+| 3. | Yesüi | 7 | 3 | 11 |
+| 4. | Yesügen | 5 | 7 | 13 |
 | **gesamt** | **1 Großkhatun** | **22** | **15 (+1 unbekannt)** | **39** |
 
 Anmerkungen aus der Quelle:
@@ -32,7 +32,7 @@ Anmerkungen aus der Quelle:
 |---|---|---|
 | Ausgang | Ögedei Khan | gestorben 1241/42 |
 | designierter Erbe (zuerst) | Küchü | dritter Sohn Ögedeis, † 1236 in China |
-| designierter Erbe (dann) | Shiremun | Küchüs Sohn, noch minderjährig |
+| designierter Erbe (dann) | Shiremün | Küchüs Sohn, noch minderjährig |
 | Regentin | Töregene (Döregene) | Witwe Ögedeis, berief den Kurultai |
 | gewählter Khan | Güyük (Dingzong) | Ögedeis ältester Sohn |
 | abwesend | Batu | bedeutendster Fürst, blieb dem Kurultai fern |

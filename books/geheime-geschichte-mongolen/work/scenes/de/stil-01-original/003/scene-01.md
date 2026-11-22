@@ -34,7 +34,7 @@ Temüdschin aber rief nach Börte. Zu jener Zeit weilte Börte Üdschin unter ih
 
 [108]
 
-Bei der ersten Rettung der Merkiten – Togto’a Beki, Dair Usun, Qa’atai Darmala –, dieser Merkiten, die einst dem Togto’a Beki gehörten: Als man dem Großen Chiledu die Hö’elün, die Mutter, geraubt hatte, um dies zu rächen, da hatte man Temüdschin dreimal [verfolgt]. Börte Üdschin aber war damals bei Chiledus Bruder, Chilger Bökö, untergebracht. Chilger Bökö aber floh. Zu jener Zeit sprach er: „Der schwarze Rabe, der Krähenvogel, soll den Rest, die Haut, fressen! Der Kranich, der Schwan, der Kormoran – sie haben ihr Teil. Ich aber, der Übeltäter, der die Merkiten, alle, bedrängt hat – ich, Chilger, bin nun an dem Punkt angelangt, wo mir [das Schlimmste] widerfahren muss. Wenn ich entkomme, wenn ich hineingerate, wird mir geschehen, was geschehen muss. Der Vogel Quladu, der Vogel, der nach dem Schwan, dem Kormoran, verlangte – Chilger, der das Glück, den Segen, einzusammeln kam –, das Unheil ist auf mein Haupt gekommen. Ich bin wie ein Schafmistklumpen. In die finstere Enge bin ich gekrochen, wie ein Schafmistklumpen soll mein Leben werden.“ So sprach er und floh.
+Bei der ersten Rettung der Merkiten – Togto’a Beki, Dair Usun, Qa’atai Darmala –, dieser Merkiten, die einst dem Togto’a Beki gehörten: Als man dem Großen Chiledu die Höelün, die Mutter, geraubt hatte, um dies zu rächen, da hatte man Temüdschin dreimal [verfolgt]. Börte Üdschin aber war damals bei Chiledus Bruder, Chilger Bökö, untergebracht. Chilger Bökö aber floh. Zu jener Zeit sprach er: „Der schwarze Rabe, der Krähenvogel, soll den Rest, die Haut, fressen! Der Kranich, der Schwan, der Kormoran – sie haben ihr Teil. Ich aber, der Übeltäter, der die Merkiten, alle, bedrängt hat – ich, Chilger, bin nun an dem Punkt angelangt, wo mir [das Schlimmste] widerfahren muss. Wenn ich entkomme, wenn ich hineingerate, wird mir geschehen, was geschehen muss. Der Vogel Quladu, der Vogel, der nach dem Schwan, dem Kormoran, verlangte – Chilger, der das Glück, den Segen, einzusammeln kam –, das Unheil ist auf mein Haupt gekommen. Ich bin wie ein Schafmistklumpen. In die finstere Enge bin ich gekrochen, wie ein Schafmistklumpen soll mein Leben werden.“ So sprach er und floh.
 
 [109]
 
@@ -46,7 +46,7 @@ Tooril Khan und die beiden [anderen] sprachen voller Dank: „Unser Dschamucha, 
 
 [111]
 
-Den fliehenden Zobel, die Hirschkuh, die Stiefel, das Wasser, das zusammengefügte, das fünfjährige, das einen Namen hatte, das Feuer, das in unserem Lager zurückgeblieben war, das führte man der Hö’elün, der Mutter, zu und zog ab.
+Den fliehenden Zobel, die Hirschkuh, die Stiefel, das Wasser, das zusammengefügte, das fünfjährige, das einen Namen hatte, das Feuer, das in unserem Lager zurückgeblieben war, das führte man der Höelün, der Mutter, zu und zog ab.
 
 Tooril Khan, die drei, warfen die Merkiten nieder und plünderten sie. Vom Selenga, vom Talqun Aral, zogen sich Temüdschin und die beiden anderen zurück an den Qorqonaq-Flussgrund. Beim Rückzug zogen sie am Rücken vorbei. Die Quriyatu Subčit, die wilden Tiere, wiesen auf die Tula. Temüdschin und die beiden anderen trafen sich. Sie gedachten der früheren Freundschaft und sprachen: „Wir wollen uns als Anda verbinden!“ Als sie sich als Anda verbanden: Im Alter von elf Jahren hatte Dschamucha dem Temüdschin einen Knöchel [zum Spielen] geschenkt. Mit einem kupfernen [Ring] tauschten sie und wurden Anda. Sie sprachen [den Schwur] am oberen Onon. Dort sprachen sie. Später, als Dschamucha hölzerne Pfeile [machte] und zwei [davon] mit Leim bestrich, tauschte Temüdschin, der eine Stimme hatte, einen Kopf [eines Pfeils?] mit Dschamucha und sie wurden Anda. Bei der ersten Anda-Freundschaft sprachen sie: „Das Leben des Anda soll nicht eines sein, es soll nicht getrennt werden.“ So sprachen sie. Jetzt, um den Anda zu ehren, plünderten sie die Merkiten. Sie ließen Dschamucha, den Anda, auf einem goldenen Pferd reiten, das Togto’a nicht besprungen hatte. Die Beute der Uwas-Merkiten, das Goldene, ließen sie auch Temüdschin, dem Anda, [geben]. Wie ein gehörntes [Tier] war Temüdschin. Am Qorqonaq-Flussgrund, unter dem dichten Hang [dort, wo Qutula Qan eingesetzt worden war], ehrten sie einander, feierten ein Fest, freuten sich und verbrachten die Nacht beisammen.
 
@@ -56,11 +56,11 @@ Dschamucha und Temüdschin ehrten einander ein Jahr lang. Im Jahr der Ehrung, an
 
 [113]
 
-Ohne eine Antwort zu geben, sprach [Hö’elün]: „Er hat sich an dir satt geredet. Für uns ist die Zeit gekommen. Die Worte Dschamuchas, des Anda, sind Worte [der Trennung]. Rühre dich nicht! Ziehe klar und hell die ganze Nacht hindurch!“ So sprach sie.
+Ohne eine Antwort zu geben, sprach [Höelün]: „Er hat sich an dir satt geredet. Für uns ist die Zeit gekommen. Die Worte Dschamuchas, des Anda, sind Worte [der Trennung]. Rühre dich nicht! Ziehe klar und hell die ganze Nacht hindurch!“ So sprach sie.
 
 [114]
 
-Auf diese Worte hin saßen sie nicht ab. Sie brachen auf. Unterwegs aber zogen die Taici’ut, auch die Taici’ut, in dieser Nacht auf Dschamuchas Seite. Die Gefährten aber, die in den kleinen Lagern waren, nahm ich und führte sie der Hö’elün, der Mutter, zu. Als der Morgen anbrach, kamen von den Dschalair: Qaraqai Toqura’un, die drei Brüder, und Qada’an Daldurqan, die fünf. Von den Mönggetü Qiyan kamen Önggür und Čangši’ut zusammen. Von den Barlas kamen Qubilai und die Brüder. Von den Möngqut kamen Doqolqu Čerbi und Ögölen Čerbi, die zwei. Von den Arulat kam Bö’örčü, der Sohn des Naqu Bayan, und verließ Dschamucha. Er kam zu Bö’örčü. Von den Uriyangqai kamen Čelme und der jüngere Bruder Sübe’etei Ba’atur. Dägäi und die Brüder kamen. Von den Suldus kamen Taqi und die Brüder. Von den Dschalair kamen Arqai Qasar und die zwei. Söyikätü Čerbi, der Sohn der Süköken, kam. Čaqa’an Uwa von den Olqunu’ut kam. Von den Qorolas kamen Sečü’ür und Möči Bedü’ün. Von den Ikires kamen Bödtü und die Brüder. Von den Noyakin kamen Dschirqo’an und die Brüder. Von den Barlas kamen Qaračar und die Brüder.
+Auf diese Worte hin saßen sie nicht ab. Sie brachen auf. Unterwegs aber zogen die Taici’ut, auch die Taici’ut, in dieser Nacht auf Dschamuchas Seite. Die Gefährten aber, die in den kleinen Lagern waren, nahm ich und führte sie der Höelün, der Mutter, zu. Als der Morgen anbrach, kamen von den Dschalair: Qaraqai Toqura’un, die drei Brüder, und Qada’an Daldurqan, die fünf. Von den Mönggetü Qiyan kamen Önggür und Čangši’ut zusammen. Von den Barlas kamen Qubilai und die Brüder. Von den Möngqut kamen Doqolqu Čerbi und Ögölen Čerbi, die zwei. Von den Arulat kam Bö’örčü, der Sohn des Naqu Bayan, und verließ Dschamucha. Er kam zu Bö’örčü. Von den Uriyangqai kamen Čelme und der jüngere Bruder Sübe’etei Ba'atur. Dägäi und die Brüder kamen. Von den Suldus kamen Taqi und die Brüder. Von den Dschalair kamen Arqai Qasar und die zwei. Söyikätü Čerbi, der Sohn der Süköken, kam. Čaqa’an Uwa von den Olqunu’ut kam. Von den Qorolas kamen Sečü’ür und Möči Bedü’ün. Von den Ikires kamen Bödtü und die Brüder. Von den Noyakin kamen Dschirqo’an und die Brüder. Von den Barlas kamen Qaračar und die Brüder.
 
 [115]
 
@@ -84,7 +84,7 @@ Den Köcher [übergab er] Čädäi und den Brüdern. Den Köcher [übergab er] Q
 
 Qaraldai Toqura’un [machte er] zum Wallach-Rosshirten.
 
-Qutu Möriči und die drei [anderen] sprach er an: „Hütet die Pferde!“ Arqai Qasar, Sükögäi und die vier [anderen] sprach er an: „Seid die Nahen, die Pfeile!“ Sübe’etei Ba’atur sprach er an: „Sammle die Mäuse! Sie sollen sich versammeln! Was außen ist, soll zur Pferdedecke, zum Filz werden. Prüfe den Mut! Das Haus soll sich zur Wehr setzen!“ So sprach er.
+Qutu Möriči und die drei [anderen] sprach er an: „Hütet die Pferde!“ Arqai Qasar, Sükögäi und die vier [anderen] sprach er an: „Seid die Nahen, die Pfeile!“ Sübe’etei Ba'atur sprach er an: „Sammle die Mäuse! Sie sollen sich versammeln! Was außen ist, soll zur Pferdedecke, zum Filz werden. Prüfe den Mut! Das Haus soll sich zur Wehr setzen!“ So sprach er.
 
 [120]
 

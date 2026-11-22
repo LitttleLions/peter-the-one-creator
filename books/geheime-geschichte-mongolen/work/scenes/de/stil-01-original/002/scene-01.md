@@ -4,17 +4,17 @@
 
 [83]
 
-Yesügei Baatar wich nicht ab, ging hin und sprach: „Der ältere Bruder hat sein Herz heftig auf Temüdschin gerichtet“ – Wenn der Dei Sechen, der Schwager, dies denkt, so komme er und sehe mich“, und der Mönglik Echige – Mönglik, der Vater, ein Ehrenname, Temüdschin gegeben – kam mit Temüdschin.
+Yesügei Ba'atur wich nicht ab, ging hin und sprach: „Der ältere Bruder hat sein Herz heftig auf Temüdschin gerichtet“ – Wenn der Dei Sechen, der Schwager, dies denkt, so komme er und sehe mich“, und der Mönglik Echige – Mönglik, der Vater, ein Ehrenname, Temüdschin gegeben – kam mit Temüdschin.
 
 [84]
 
-Da jene beiden Frauen des Ambakai Qaghan, die Orbei und die Chutai, auf der Erde ihrer Vorfahren an der Speisenverteilung teilnahmen, blieb Hö'elün Ujin zurück und wurde übergangen. Da sprachen Orbei und Chutai zu Yesügei Baatar und ließen die Kinder [der Hö'elün] vom übrigen Opferfleisch vor der [fürstlichen] Anteilnahme ausschließen. Als sie dies sahen, ermahnten sie nicht und sprachen: „Ihr“. Daraufhin sagte eine Schokat'ai, eine Gattin: „Dir wurde nicht gerufen“; da war Grund. „Dir wurde nicht [der Anteil] gegeben“; da war Grund. Und sie sprachen von Ambakai Qaghan, als sie angelangt waren, und überlegten so: „Wenn dieses Lager verlassen wird, führt ihr [unsere Leute] fort“, und von jenem Tage an ließen die Tardschi'ut, die Togtai Qiriltug und Todön Chördschin, die Hö'elün Ujin zurück, gingen zu den Qonggodan und sprachen: „Trocken sind die Zweige geworden, der Glanz [ist erloschen]“, und standen auf. Die [Hö'elün] suchte sie zurückzuhalten, aber sie stachen mit Speeren.
+Da jene beiden Frauen des Ambakai Qaghan, die Orbei und die Chutai, auf der Erde ihrer Vorfahren an der Speisenverteilung teilnahmen, blieb Höelün Ujin zurück und wurde übergangen. Da sprachen Orbei und Chutai zu Yesügei Ba'atur und ließen die Kinder [der Höelün] vom übrigen Opferfleisch vor der [fürstlichen] Anteilnahme ausschließen. Als sie dies sahen, ermahnten sie nicht und sprachen: „Ihr“. Daraufhin sagte eine Schokat'ai, eine Gattin: „Dir wurde nicht gerufen“; da war Grund. „Dir wurde nicht [der Anteil] gegeben“; da war Grund. Und sie sprachen von Ambakai Qaghan, als sie angelangt waren, und überlegten so: „Wenn dieses Lager verlassen wird, führt ihr [unsere Leute] fort“, und von jenem Tage an ließen die Tardschi'ut, die Togtai Qiriltug und Todön Chördschin, die Höelün Ujin zurück, gingen zu den Qonggodan und sprachen: „Trocken sind die Zweige geworden, der Glanz [ist erloschen]“, und standen auf. Die [Höelün] suchte sie zurückzuhalten, aber sie stachen mit Speeren.
 
 [85]
 
 So ward [Temüdschin] verwundet, kam heim und lag darnieder. Temüdschin ging hin. Da [sprach der] alte Tscharacha: „Deines Vaters Stammesleute, als dieser Stamm sich erhob, tatest du [dies]“, weinte und ging fort.
 
-Als man sie verlassen hatte, ritt [Töde'ei] selbst auf dem [mit einem Roßschweif geschmückten Banner] und brachte die Leute zurück; doch es wurde nicht beständig. Hernach wurden Hö'elün Ujin, die Kinder, die Mutter mit den Kindern, im Innern aufgestört. Sie sandte die [Söhne] aus, die jungen Knaben [auszusenden], um [Nahrung] zu sammeln. Gürtel [trugen sie], stiegen auf und nieder, sammelten wilde Birnen und Kirschen, gruben mit der Hacke aus Kiefernholz starke Wurzeln aus und nährten [die Kinder]. Die Kaiserlichen [Söhne], die die Mutter, die Herrin, die starke, erzogen hatte, strebten nach Ordnung und wurden weise Männer.
+Als man sie verlassen hatte, ritt [Töde'ei] selbst auf dem [mit einem Roßschweif geschmückten Banner] und brachte die Leute zurück; doch es wurde nicht beständig. Hernach wurden Höelün Ujin, die Kinder, die Mutter mit den Kindern, im Innern aufgestört. Sie sandte die [Söhne] aus, die jungen Knaben [auszusenden], um [Nahrung] zu sammeln. Gürtel [trugen sie], stiegen auf und nieder, sammelten wilde Birnen und Kirschen, gruben mit der Hacke aus Kiefernholz starke Wurzeln aus und nährten [die Kinder]. Die Kaiserlichen [Söhne], die die Mutter, die Herrin, die starke, erzogen hatte, strebten nach Ordnung und wurden weise Männer.
 
 [86]
 
@@ -68,7 +68,7 @@ Als [Temüdschin] nach drei Tagen zum Fluss Sankur kam, waren Qasar und die Brü
 
 [97]
 
-Darauf schickte [Hö'elün?] den Belgütei zum Dei Sechen aus. [Börte Ujin] ... Als Temüdschin ... kam ... trennte er sich. [Belgütei] suchte am Fluss Kelüren ... und Tschiktscher ... Da war der Dei Sechen Onggira. Dieser freute sich sehr, als er [Belgütei] sah. „Weil die Brüder, die Tardschi'ut, [davon] wussten, war ich bekümmert, als ich es sah“, sprach er. Er verlobte [Börte] und sandte sie [Temüdschin zu]. Der Dei Sechen am Kelüren ... sprach: „Von der Ecke des Kelüren [her] ... die Tochter ... die Mutter ...“ Sie kamen zum Fluss Sankur ... an den Ort ... wo [Temüdschin und die Seinen] lagerten.
+Darauf schickte [Höelün?] den Belgütei zum Dei Sechen aus. [Börte Ujin] ... Als Temüdschin ... kam ... trennte er sich. [Belgütei] suchte am Fluss Kelüren ... und Tschiktscher ... Da war der Dei Sechen Onggira. Dieser freute sich sehr, als er [Belgütei] sah. „Weil die Brüder, die Tardschi'ut, [davon] wussten, war ich bekümmert, als ich es sah“, sprach er. Er verlobte [Börte] und sandte sie [Temüdschin zu]. Der Dei Sechen am Kelüren ... sprach: „Von der Ecke des Kelüren [her] ... die Tochter ... die Mutter ...“ Sie kamen zum Fluss Sankur ... an den Ort ... wo [Temüdschin und die Seinen] lagerten.
 
 [98]
 
@@ -80,7 +80,7 @@ Darauf, als sie am Burki Ergi lagerten, kam der alte Tscharichudai von den Urian
 
 [100]
 
-Von den Quellen [des Flusses] hinab, als die [Zeit] früh [kam], gelb [wurde die Erde?], stand die Mutter auf, die in ihrem Hause arbeitete. „Die Erde erbebte!“ „Die Tardschi'ut!“ [rief sie.] „Steh auf, Mutter!“ rief Hö'elün Eke ihre Kinder [zu sich] und sprach: „Schnell!“ Temüdschin und die Kinder standen auf, fassten [die Pferde] und bestiegen sie. Eines bestieg [der eine], eines bestieg [der andere]. Eines bestieg [Temüdschin], eines bestieg [Qasar], eines bestieg [Belgütei], eines bestieg [der andere] ... [Auch] Hö'elün Eke ritt [eines]. Für Börte Ujin aber ..., für sie fehlte ein Pferd, so dass sie ... als Handpferd [mitgeführt wurde?].
+Von den Quellen [des Flusses] hinab, als die [Zeit] früh [kam], gelb [wurde die Erde?], stand die Mutter auf, die in ihrem Hause arbeitete. „Die Erde erbebte!“ „Die Tardschi'ut!“ [rief sie.] „Steh auf, Mutter!“ rief Höelün Eke ihre Kinder [zu sich] und sprach: „Schnell!“ Temüdschin und die Kinder standen auf, fassten [die Pferde] und bestiegen sie. Eines bestieg [der eine], eines bestieg [der andere]. Eines bestieg [Temüdschin], eines bestieg [Qasar], eines bestieg [Belgütei], eines bestieg [der andere] ... [Auch] Höelün Eke ritt [eines]. Für Börte Ujin aber ..., für sie fehlte ein Pferd, so dass sie ... als Handpferd [mitgeführt wurde?].
 
 [101]
 

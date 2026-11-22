@@ -16,10 +16,10 @@
         {
           "severity": "INFO",
           "category": "repetition_style",
-          "message": "Kapitel-TTR 0.23 bei 7786 Woertern.",
+          "message": "Kapitel-TTR 0.23 bei 7787 Woertern.",
           "chapter": "011",
           "scene": 1,
-          "evidence": "TTR=0.23, Woerter=7786",
+          "evidence": "TTR=0.23, Woerter=7787",
           "recommendation": "Wortschatzarmut pruefen.",
           "source": "deterministic",
           "current_text": "",

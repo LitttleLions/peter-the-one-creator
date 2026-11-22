@@ -12,8 +12,8 @@
 
 ### INFO: repetition_style (011, Szene 01)
 
-Kapitel-TTR 0.23 bei 7786 Woertern.
+Kapitel-TTR 0.23 bei 7787 Woertern.
 
-> TTR=0.23, Woerter=7786
+> TTR=0.23, Woerter=7787
 
 Empfehlung: Wortschatzarmut pruefen.

@@ -13,16 +13,16 @@ eindeutig; **offen** = Quelle gesichtet, DE-Übersetzung/Prüfung ausstehend.
 
 | Gen. | Name | Vater | Gattin | Stamm | Quelle | Status |
 |---|---|---|---|---|---|---|
-| 1 | Börte Čino (fahlgelber Wolf) | — | Qo'ai Maral (Hirschkuh) | — | 001/01 | sicher |
-| 2 | Batachichan | Börte Čino | — | — | 001/01 | sicher |
+| 1 | Börte Tschino (fahlgelber Wolf) | — | Qo'ai Maral (Hirschkuh) | — | 001/01 | sicher |
+| 2 | Batachichan | Börte Tschino | — | — | 001/01 | sicher |
 | 3 | Tamatscha | Batachichan | — | — | 001/02 | sicher |
 | 4 | Qoritschar Mergen | Tamatscha | — | — | 001/02 | sicher |
 | 5 | A'ujam Boroqul | Qoritschar Mergen | — | — | 001/02 | sicher |
-| 6 | Sali Qača'u | A'ujam Boroqul | — | — | 001/02 | sicher |
-| 7 | Yeke Nidün | Sali Qača'u | — | — | 001/02 | sicher |
-| 8 | Sem Soči | Yeke Nidün | — | — | 001/02 | sicher |
-| 9 | Qarču | Sem Soči | — | — | 001/02 | sicher |
-| 10 | Borjigidai Mergen | Qarču | Mongoljin Qo'a | Borjigin | 001/03 | sicher |
+| 6 | Sali Qatschu | A'ujam Boroqul | — | — | 001/02 | sicher |
+| 7 | Yeke Nidün | Sali Qatschu | — | — | 001/02 | sicher |
+| 8 | Sem Sotschi | Yeke Nidün | — | — | 001/02 | sicher |
+| 9 | Qartschu | Sem Sotschi | — | — | 001/02 | sicher |
+| 10 | Borjigidai Mergen | Qartschu | Mongoljin Qo'a | Borjigin | 001/03 | sicher |
 | 11 | Toroqoljin Bayan | Borjigidai Mergen | Borogtschin Qo'a | Borjigin | 001/03 | sicher |
 | 12 | Düwa Soqor | Toroqoljin Bayan | — | Borjigin | 001/04 | sicher |
 | 12 | Dobun Mergen | Toroqoljin Bayan | Alan Qo'a | Borjigin | 001/04 | sicher |

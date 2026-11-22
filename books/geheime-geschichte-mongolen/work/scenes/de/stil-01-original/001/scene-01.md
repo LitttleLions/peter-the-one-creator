@@ -12,21 +12,21 @@ Am Onon-Flusse, am Burqan Qaldun, schlugen sie ihr Lager auf.
 Da ward geboren Batachichan.
 
 Batachichan's Sohn war Tamatscha.  
-Tamatscha's Sohn war Qoritscharmergen.  
-Qoritscharmergen's Sohn war A'ujamboroqul.  
-A'ujamboroqul's Sohn war Saliqatschu.  
-Saliqatschu's Sohn war Jäke-Nidün.  
-Jäke-Nidün's Sohn war Semsotschi.  
-Semsotschi's Sohn war Qartschu.  
-Qartschu's Sohn war Borjigidaimergen.  
+Tamatscha's Sohn war Qoritschar Mergen.  
+Qoritschar Mergen's Sohn war A'ujam Boroqul.  
+A'ujam Boroqul's Sohn war Sali Qatschu.  
+Sali Qatschu's Sohn war Yeke Nidün.  
+Yeke Nidün's Sohn war Sem Sotschi.  
+Sem Sotschi's Sohn war Qartschu.  
+Qartschu's Sohn war Borjigidai Mergen.  
 Sein Weib war Mongoljin Qo'a.  
-Borjigidaimergen's Sohn war Torogoljinbayan.  
+Borjigidai Mergen's Sohn war Toroqoljin Bayan.  
 Sein Weib war Borogtschin Qo'a.
 
-Torogoljinbayan hatte einen Diener, Boroldaisujalbhi,  
+Toroqoljin Bayan hatte einen Diener, Boroldaisujalbhi,  
 und zwei Schimmel.
 
-Torogoljinbayan hatte zwei Söhne:  
+Toroqoljin Bayan hatte zwei Söhne:  
 Du'a Soqor und Dobun Mergen.  
 Du'a Soqor hatte ein einziges Auge mitten auf der Stirn.
 
@@ -103,7 +103,7 @@ da gebar Alan Qo'a, die Witwe,
 drei Söhne:  
 Bögün Qadaq,  
 Bügetü Salschi,  
-und Bodontschar Munqaq.
+und Bodonchar Munqaq.
 
 Die beiden älteren Söhne aber,  
 die von Dobun Mergen geboren waren,  
@@ -176,11 +176,11 @@ Alsbald starb Alan Qo'a, die Mutter.
 Nach dem Tode der Mutter  
 aber teilten die vier Brüder  
 das Erbe unter sich.  
-Dem Bodontschar Munqaq aber,  
+Dem Bodonchar Munqaq aber,  
 der dumm und einfältig war,  
 gaben sie nichts.
 
-Bodontschar aber verließ sie und sprach:  
+Bodonchar aber verließ sie und sprach:  
 "Hier kann ich nicht bleiben!  
 Wohin soll ich gehen?  
 Wenn ich sterbe, genügt's;  
@@ -216,7 +216,7 @@ In jener Zeit kamen viele Leute
 den Tünggälik-Fluss hinauf  
 und lagerten daselbst.
 
-Da sprach Bodontschar zu seinem Habicht:  
+Da sprach Bodonchar zu seinem Habicht:  
 "Du sollst mir bringen  
 Enten, Gänse und wilde Schwäne,  
 so viel ich will!"
@@ -226,7 +226,7 @@ und sie lebten so
 den ganzen Sommer.
 
 Als der Herbst kam,  
-zog Bodontschar mit seinem Habicht  
+zog Bodonchar mit seinem Habicht  
 hin zu jenen Leuten,  
 und er blieb bei ihnen.
 
@@ -259,7 +259,7 @@ und blieben beisammen.
 
 Als aber der Sommer ins Land kam,  
 da zogen die Leute weiter.  
-Bodontschar aber blieb zurück.
+Bodonchar aber blieb zurück.
 
 Das Volk aber  
 hatte einen guten, hübschen, kleinen Häuptling,  
@@ -271,19 +271,19 @@ und fand ihn am Onon.
 Er erkannte ihn als seinen Bruder  
 und sprach:  
 "Komm mit mir heim!"  
-Aber Bodontschar wollte nicht.
+Aber Bodonchar wollte nicht.
 
 Da sprach Bükü Qataqi:  
 "Warum willst du nicht  
 mit mir heimkommen?"
 
-Bodontschar aber schwieg.
+Bodonchar aber schwieg.
 
 Da sprach Bükü Qataqi:  
 "Wohin willst du denn gehen?"
 
 "Hier an dem kleinen Fluss,"  
-sprach Bodontschar,  
+sprach Bodonchar,  
 "da ist ein hübsches, kleines Volk.  
 Alle sind gleich,  
 alle haben gleich viel.  
@@ -294,7 +294,7 @@ Also sprach er.
 Da wurde Bükü Qataqi zornig  
 und zog mit dem Volke von dannen.
 
-Er aber, Bodontschar, blieb  
+Er aber, Bodonchar, blieb  
 und sprach:  
 "Wohlan denn!"
 
@@ -311,7 +311,7 @@ Und er antwortete:
 Da fragte man weiter:  
 "Wohin willst du?"
 
-Da sprach Bodontschar:  
+Da sprach Bodonchar:  
 "Ich gehe zu dir,  
 um bei dir zu bleiben."
 
@@ -320,7 +320,7 @@ Da sprach der Alte:
 Was soll ich mit dir machen?  
 Ich kann dich nicht brauchen."
 
-Da ging Bodontschar wieder von dannen  
+Da ging Bodonchar wieder von dannen  
 und setzte sich an den Rand der Steppe  
 und weidete seine Pferde.
 
@@ -332,7 +332,7 @@ und sprach:
 "Komm nach Hause,  
 Bruder!"
 
-Bodontschar sprach:  
+Bodonchar sprach:  
 "Nein!"  
 Und er sprach zu ihm:  
 "Ich will hier nicht bleiben.  
@@ -351,15 +351,15 @@ ich will mich an sie machen."
 
 Und er ging hin  
 und nahm das Volk gefangen.  
-Da gab Bodontschar nach  
+Da gab Bodonchar nach  
 und ging mit ihm  
 und nahm auch teil  
 an der Beute.
 
-So ward Bodontschar  
+So ward Bodonchar  
 der Herr über jenes Volk.
 
-Und Bodontschar nahm  
+Und Bodonchar nahm  
 eine gefangene Frau,  
 die hieß Qorilqo'a.  
 Und sie gebar ihm  
@@ -384,9 +384,9 @@ Tumbinai Setschen's Sohn war Qabul Khan.
 
 Qabul Khan's Sohn war Bartan Ba'atur.
 
-Bartan Ba'atur's Sohn war Jäsügäi Ba'atur.
+Bartan Ba'atur's Sohn war Yesügei Ba'atur.
 
-Jäsügäi Ba'atur's Sohn war Temüdschin.
+Yesügei Ba'atur's Sohn war Temüdschin.
 
 Temüdschin ward geboren  
 im Jahre des Pferdes,  
@@ -408,11 +408,11 @@ den er gefangen hatte.
 Und Temüdschin hatte vier Brüder:  
 Qasar,  
 Qatschiun,  
-Tämügä,  
+Temüge,  
 und eine Schwester,  
 Tämülün.
 
-Jäsügäi Ba'atur  
+Yesügei Ba'atur  
 nahm für Temüdschin eine Frau,  
 die zehnjährige Börte,  
 aus dem Volke der Unggirat,  
@@ -425,7 +425,7 @@ Da sprach der Schwiegervater:
 Er soll hier bleiben  
 bei mir."
 
-Jäsügäi Ba'atur  
+Yesügei Ba'atur  
 aber kehrte heim.  
 Unterwegs aber  
 ging er ein bei den Tataren,  
@@ -451,7 +451,7 @@ Also sprach der Vater
 und starb.
 
 Die Mutter aber,  
-Hö'elün,  
+Höelün,  
 erzog ihre Söhne  
 in großer Armut.  
 Sie sammelte Wurzeln  
@@ -538,7 +538,7 @@ Und sie lebten
 in Frieden und Eintracht  
 miteinander.
 
-Auf dem Weg, in der Shila Ke'er (der gelben Wildnis), bei den dort ansässigen Leuten, stieg er durstig vom Pferd, um an einem Festmahl teilzunehmen. Die Tataren, als sie hörten, dass Yesügei Baatar [gekommen sei], dachten an die Gefangennahme und planten, ihm Gift zu geben. Er wurde krank, blieb drei Nächte, und zu Hause wurde es schlimm.
+Auf dem Weg, in der Shila Ke'er (der gelben Wildnis), bei den dort ansässigen Leuten, stieg er durstig vom Pferd, um an einem Festmahl teilzunehmen. Die Tataren, als sie hörten, dass Yesügei Ba'atur [gekommen sei], dachten an die Gefangennahme und planten, ihm Gift zu geben. Er wurde krank, blieb drei Nächte, und zu Hause wurde es schlimm.
 
 Er sprach: „Zur Seite der Brust sprechend: Tscharaqa Ebügen (Tscharaqa der Alte. In den Aufzeichnungen des Feldzugs und der Yuan-Geschichte: Kind, vor dem Angesicht gesprochen, kommen lassen), mein Mönglik. Klein ist er, mein Temüdschin, zurückgelassen auf dem Weg, von den Leuten wurde ich hintergangen, mir geht es schlecht. Die zurückgelassenen jüngeren Brüder und die Schwägerin – du, geh und hole meinen Temüdschin!“ Das Kind sprach und nahm [es].
 

@@ -2226,6 +2226,7 @@ def write_epub(
         str(path),
         "--split-level=1",
         "--epub-chapter-level=1",
+        f"--resource-path={markdown_path.parent.resolve()}",
         "--epub-title-page=false",
         f"--epub-cover-image={cover_path}",
         f"--css={css_path}",

@@ -101,6 +101,16 @@
       "sortOrder": 70
     },
     {
+      "id": "die-sprache-des-anderen",
+      "title": "Die Sprache des Anderen",
+      "subtitle": "Ein Straßburger Roman aus dem 9. Jahrhundert",
+      "author": "Timo Verita",
+      "summary": "Winter, als zwei Könige vor Straßburg standen: Der eine zieht aus dem Osten heran, der andere aus dem Westen, und zwischen ihnen liegt eine Stadt, die beiden nichts geben will. Alda führt den Fuhrbetrieb ihres verstorbenen Mannes Heinrich: fünf Kähne auf der Ill, zwanzig Karren, Getreide aus dem Kochersberg, Bauholz aus den Vogesenwäldern, Weizen für die Klöster. Dann verpfändet Raginbert, der Grundherr im Dienst des westfränkischen Königs, die Kähne, beschlagnahmt das Vieh und macht die Schulden des Toten zu einem Strick um ihren Hals.\nAlda hat Zeit, das Geschriebene zu umgehen, aber nicht die Kraft, es zu lesen. Um die dreißig Pfund Silber zu beschaffen und einen Salztransport über die Zaberner Steige nach Lothringen zu bringen, braucht sie genau das, was ihr fehlt – einen Schreiber, einen Weg durch das Heer der Könige, ein Bündnis der Fuhrleute und einen Handel, der größer ist als die Schulden. Der Schreiber Otwin kennt die Zölle, die Wege und die Schrift, in der Macht geschrieben wird; ihr Sohn Berto kennt nichts als die Kälte und die Frage, warum die Herren lesen dürfen und er nicht.\nAm Ende steht kein Sieg, sondern eine Wende: Das Reich zerfällt in drei, und eine Frau, die nicht lesen kann, erkennt, dass ihr Sohn lesen muss. Der Roman erzählt von einer Generation, die den Übergang von der mündlichen zur schriftlichen Ordnung erlebt – und von der Frage, wem die Sprache des Anderen gehört, wenn die eigene einem die Freiheit kostet.",
+      "coverUrl": "./covers/die-sprache-des-anderen.jpg",
+      "amazonUrl": "https://www.amazon.de/dp/B0HR1FMLTW",
+      "sortOrder": 70
+    },
+    {
       "id": "der-lotse-von-ruegen",
       "title": "Der Lotse von Rügen",
       "subtitle": "Ein Rügen-Roman aus dem September 1715",

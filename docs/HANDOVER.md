@@ -70,6 +70,14 @@ Anmerkung korrigiert (`Gürin-Ere'üd` sind Kamelnamen, keine Pferde/Kleidung).
 **Nicht** übersetzt: die beiden langen Quellen-Exkurse in 014/2
 (Westfeldzug/Rus, Jalairtai/Goryeo) – bewusst offen für Weg B. Es gibt kein `cover-print.*`, daher
 noch kein Komplett-/Wrap-Cover.
+Genealogie/Grafik (2026-11-22): Datenblätter unter `work/genealogie/`
+(`stammtafel-001.md`, `ordo-014.md`); Stammtafel deterministisch aus den Daten
+gerendert (`stammtafel-001.html` → `assets/genealogie/stammtafel-001.png`).
+Ein Higgsfield-Testbild (`gpt_image_2_5`, 4k/high, 3,25 Credits) ist lesbar,
+aber logisch falsch (Alan Qo'a als Generation nach Dobun, Borjigin als
+Seitenast) und liegt nur als Entwurf
+`work/genealogie/higgsfield-entwurf-stammtafel.jpg`; 4k/max hätte 12 Credits
+gekostet.
 Offen: Druckcover + Wrap; optional Weg B (Edition in `stil-04-original-geheim`,
 284 Szenen; 006/09 ist eine reine Titelzeile und wuerde dort als
 `empty_or_short`/`degeneration` blockieren).

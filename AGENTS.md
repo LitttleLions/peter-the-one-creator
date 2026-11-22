@@ -732,7 +732,11 @@ Bundsteg).
   Qualitätslauf möglich: 284 Szenen offen; 006/09 ist eine reine Titelzeile
   und würde als `empty_or_short`/`degeneration` blockieren. Vor jedem B-Lauf
   `--style stil-04-original-geheim` explizit mitgeben, sonst plant der Default
-  `stil-01-original` Kapitel 006 mit. Übergabeprompt:
+  `stil-01-original` Kapitel 006 mit. Genealogie: Datenblätter
+  `work/genealogie/`, deterministische Stammtafel
+  `assets/genealogie/stammtafel-001.png` (HTML-Quelle daneben); das
+  Higgsfield-Testbild ist nur Entwurf (Logikfehler), 4k/max wären 12 Credits.
+  Übergabeprompt:
   `docs/uebergabe-prompt.md` (Prompt E).
 - **Die dritte Chronik** (auf `main`): DE-Original, Timo Verita, Untertitel
   "Im Schatten Dschingis Khans". **RomanForge-Uebernahme 2026-11-11

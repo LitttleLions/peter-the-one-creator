@@ -470,6 +470,25 @@ Nachtrag 2026-11-22 (Textbereinigung nach der Pruefung von 014):
   "Dreizehntes/Vierzehntes Kapitel", obwohl sie im Quellenschnitt 12-1 und
   12-2 sind (Gruppe "Zwoelftes Buch"). Anzeige ggf. auf Teil 1/2 umstellen.
 
+### Genealogie und Grafik (2026-11-22)
+
+- Datenblaetter: `work/genealogie/stammtafel-001.md` (Hauptlinie, fuenf
+  Staemme, Jadaran/Ba'arin; Abschnitte 43-52 als offen markiert) und
+  `work/genealogie/ordo-014.md` (vier Ordo, Nachfolge 1244).
+- Stammtafel deterministisch aus den Daten: `work/genealogie/stammtafel-001.html`
+  (SVG/HTML, EB Garamond) -> `assets/genealogie/stammtafel-001.png`
+  (2800x5200). Logik korrekt: fuenf Soehne Alan Qo'as, Borjigin ist der
+  Bodonchar-Zweig, Duwa Soqor als Bruder Dobuns.
+- Higgsfield-Test (`gpt_image_2_5`, 4k, quality high, 3,25 Credits):
+  typografisch lesbar, aber logisch falsch (Alan Qo'a als Generation nach
+  Dobun, Borjigin als Seitenast) -> nur Entwurf
+  `work/genealogie/higgsfield-entwurf-stammtafel.jpg`. 4k/max haette
+  12 Credits gekostet, das Konto hatte 4,17.
+- Offen: Abschnitte 40-52 uebersetzen (Qabichi/Juereidai, Menen Tuduns sieben
+  Soehne, Qaidu, Bai Schingqors Soehne, Qabul Khans Soehne, Ambaghai/Qutula);
+  Namenskanon (Text "Jaesuegai" vs. names.yaml "Yesuegei"); Ordo-Tabelle als
+  Grafik; Einbindung der Tafel in EPUB/Print (noch nicht referenziert).
+
 Checkliste (nur falls Weg B spaeter kommt; `--style` immer explizit):
 
 ```bat

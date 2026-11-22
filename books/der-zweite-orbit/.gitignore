@@ -14,8 +14,8 @@
 /exports/**/*.pdf
 /exports/**/*.epub
 /exports/**/work/
-# Ganze Exporte bleiben aus Git (AGENTS: regenerierbare Ausgaben).
-/exports/
-# Optimierungs-Archive (Original steckt in assets/master/).
-/assets/chapter/*_alt.jpg
 # <<< motivatier:large-assets <<<
+
+# Eigene Ausschluesse (nicht vom Sync verwaltet).
+/exports/
+/assets/chapter/*_alt.jpg

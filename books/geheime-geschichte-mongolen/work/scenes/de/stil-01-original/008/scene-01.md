@@ -135,25 +135,4 @@ Zu den benachbarten Stämmen mache Lager, und die Stämme wisse, Qorchi!“ Zu Q
 
 Du bist zum Feind geworden, Jurčedai, durch List hast du sie mit der Hand gefangen und vollendet. So hast du den Stammesteil vernichtet, die Verdienste des Jurčedai waren so!“ [und] zur Tötung, zur Vereinigung des Lebens, zur Rettung, zur Vereinigung des Todes, zur Schlacht wegen, [sprach er:] „Ibaqa Beki (die älteste Tochter des Jaqa Gambu. In der Yuan Shi, Biographie des Zhuchitai, die Gemahlin Abqa Khatun) zur Belohnung gebend, zur Zeit sprach er: „Ich habe nicht gesagt, dass deine Gestalt schlecht ist. In den Busen bist du eingetreten, in der Reihe dich zu belohnen, ist die Vernunft. Du, Jurčedai, der Schild, der Feind, der Mensch, der geworden ist, der gesammelten, zerstreuten Stammesteil von jenem, bedenkend, hast du gegeben. Ich, wir, sitzend, solche Verdienste tuend, bedenkend, in Worten bis zu den Nachkommen, den Platz, brich ihn nicht ab!“ Und wieder, zu Ibaqa: „Ja, dein Vater, der Jaqa Gambu, zweihundert Menschen, die Yinjiesi (Dienerinnen, die der Braut bei der Heirat folgen; sowohl Männer als auch Frauen werden so genannt.), Ashiq Temür, Alčiq, wir zwei, jetzt, wenn du zu den Stämmen gehst, gib mir von jenen Ashiq Temür, hundert Menschen, die gehen!“ nimm sie. Dschingis Khan sprach: „Hast du nicht viertausend, du?“ und er erließ ein Dekret. (In der Yuan Shi, Biographie des Zhuchitai: „Zhuchitai begann, den Kereyiten zu folgen auf dem Feldzug, er brach vom Khanqa auf, durchquerte den See Banzhen, tausend Meilen durch schwieriges Gelände. Jedes Mal, wenn er auf eine Schlacht traf, war er bestimmt der Vorhut. Der Kaiser belehrte ihn einst: ‚Mein Blick auf dich ist wie der Schatten eines hohen Berges vor der Sonne.‘ Er schenkte ihm die Nebenfrau Mubaha Beki und hundert Yinjiesi und ließ ihn die viertausend Uru’ut befehligen, für immer ohne Änderung.“ Dies ist eine Zusammenfassung des Sinnes des Textes hier. „Schatten eines hohen Berges vor der Sonne“ ist ein Fehler für „Schutz eines hohen Berges“; „Yinjiesi“ ist die korrekte phonetische Übersetzung des mongolischen Wortes für Brautdienerinnen.)
 
-Ende von Band 8 der Chronik des Dschingis Khan.
-
-Vorwort. Inhaltsverzeichnis. Band 1. Band 2. Band 3. Band 4. Band 5.
-Band 6. Band 7. Band 8. Band 9. Band 10. Band 11-1. Band 11-2. Band 12-1. Band 12-2. Fortsetzung-Inhaltsverzeichnis. Fortsetzung-1. Fortsetzung-2. 3]
-
-↑ Veröffentlicht in der Osaka Asahi Shimbun, März/April 1908, „Kuwabara Jitsuzō Zenshū Band 2“, Iwanami Shoten, Erinnerung an Naka-sensei – Aozora Bunko
-↑ Nationale Parlamentsbibliothek, Digitale Sammlung: info:ndljp/pid/782220
-1 2 Die Vorlagen-Einbindungsgröße überschreitet den Grenzwert, daher wird in Teilbände aufgeteilt.
-
-Dieses Dokument ist eine Übersetzung und besitzt den Status eines eigenständigen Werkes, unabhängig vom Original. Die Lizenz für die Übersetzung gilt nur für diese Ausgabe.
-
-Original:
-
-Dieses Werk wurde vor dem 1. Januar 1931 veröffentlicht und ist, da der Autor (bei Gemeinschaftswerken nach Veröffentlichung oder Erstellung) mehr als 100 Jahre tot ist, in allen Ländern und Regionen gemeinfrei.
-
-Public domainPublic domainfalsefalse
-
-Übersetzung:
-
-Dieses Werk wurde vor dem 1. Januar 1931 veröffentlicht und ist, da der Autor (bei Gemeinschaftswerken nach Veröffentlichung oder Erstellung) mehr als 100 Jahre tot ist, in allen Ländern und Regionen gemeinfrei.
-
-Public domainPublic domainfalsefalse
+Ende des achten Buches der Geheimen Geschichte der Mongolen.

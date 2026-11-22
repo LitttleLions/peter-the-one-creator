@@ -9,7 +9,7 @@ Es ward ein fahlgelber Wolf, geboren vom Himmel oben.
 Sein Weib war eine weißliche Hirschkuh.  
 Sie kamen über das Tenggis-Meer.  
 Am Onon-Flusse, am Burqan Qaldun, schlugen sie ihr Lager auf.  
-Da ward geboren Batachichan.  
+Da ward geboren Batachichan.
 
 Batachichan's Sohn war Tamatscha.  
 Tamatscha's Sohn war Qoritscharmergen.  
@@ -21,14 +21,14 @@ Semsotschi's Sohn war Qartschu.
 Qartschu's Sohn war Borjigidaimergen.  
 Sein Weib war Mongoljin Qo'a.  
 Borjigidaimergen's Sohn war Torogoljinbayan.  
-Sein Weib war Borogtschin Qo'a.  
+Sein Weib war Borogtschin Qo'a.
 
 Torogoljinbayan hatte einen Diener, Boroldaisujalbhi,  
-und zwei Schimmel.  
+und zwei Schimmel.
 
 Torogoljinbayan hatte zwei Söhne:  
 Du'a Soqor und Dobun Mergen.  
-Du'a Soqor hatte ein einziges Auge mitten auf der Stirn.  
+Du'a Soqor hatte ein einziges Auge mitten auf der Stirn.
 
 Eines Tages stieg Du'a Soqor mit Dobun Mergen hinauf auf den Burqan Qaldun.  
 Da erblickten sie vom Burqan Qaldun aus  
@@ -39,11 +39,11 @@ an dem Tonggiliq-Flusse,
 in dem Vorderwagen eines guten Mädchens,  
 wenn sie noch nicht vergeben ist,  
 die will ich dir, mein jüngerer Bruder, zur Frau erbitten."  
-Und er sandte seinen jüngeren Bruder hin.  
+Und er sandte seinen jüngeren Bruder hin.
 
 Dort aber war in Wahrheit  
 ein gar schönes Mädchen, Alan Qo'a,  
-das noch niemandem vermählt worden war.  
+das noch niemandem vermählt worden war.
 
 Jen umherziehende Volk aber  
 waren die Leute des Qorilartaimergen,  
@@ -53,7 +53,7 @@ Alan Qo'a aber war die Tochter
 des Qorilartaimergen von Qori-Tümet,  
 geboren von seiner Frau Baraqtschin Qo'a,  
 der Tochter des Barqudaumergen,  
-des Herrn von Qol Barqutsin Tögüm.  
+des Herrn von Qol Barqutsin Tögüm.
 
 In jener Zeit war im Qori-Tümet-Lande  
 das Jagen der Zobel und Eichhörnchen  
@@ -65,19 +65,19 @@ stritt er sich, und es ward Händel.
 Da zog Qorilartaimergen fort  
 und sonderte sich ab.  
 Er zog hin zum Burqan Qaldun,  
-ein Qorilar-Stamm zu werden.  
+ein Qorilar-Stamm zu werden.
 
 Eines Tages aber, als Dobun Mergen stieg  
 den Burqan Qaldun hinan zur Jagd,  
 begegnete er im Walde einem Uryangqaten-Manne,  
 der ein dreijähriges Reh erlegt hatte,  
-und der den Braten bereitete.  
+und der den Braten bereitete.
 
 Da sprach Dobun Mergen:  
 "Freund, gib mir von dem Braten!"  
 "Das will ich tun!" sprach jener,  
 und nachdem er ihm den Braten gegeben,  
-behielt er den Kopf und das Fell und die Eingeweide.  
+behielt er den Kopf und das Fell und die Eingeweide.
 
 Darauf schritt Dobun Mergen seines Weges.  
 Da begegnete ihm ein Mann,  
@@ -85,25 +85,25 @@ der führte seinen Sohn an der Hand.
 "Wer bist du?" fragte Dobun Mergen.  
 "Ich bin Ma'alich Bogi," antwortete jener.  
 "Arm und elend bin ich,  
-ein Baya'uter von Geburt."  
+ein Baya'uter von Geburt."
 
 Da lud Dobun Mergen den Mann ein,  
 von dem Fleische zu essen;  
-und sie aßen zusammen.  
+und sie aßen zusammen.
 
 Da sprach jener Mann zu Dobun Mergen:  
 "Ich will dir diesen meinen Sohn  
-zum Diener geben!"  
+zum Diener geben!"
 
 Und Dobun Mergen nahm den Knaben  
-und führte ihn heim.  
+und führte ihn heim.
 
 Nachdem Dobun Mergen gestorben war,  
 da gebar Alan Qo'a, die Witwe,  
 drei Söhne:  
 Bögün Qadaq,  
 Bügetü Salschi,  
-und Bodontschar Munqaq.  
+und Bodontschar Munqaq.
 
 Die beiden älteren Söhne aber,  
 die von Dobun Mergen geboren waren,  
@@ -114,29 +114,29 @@ keine Vettern und keinen Schwager,
 und doch hat sie diese drei Söhne geboren.  
 Von wem sind sie?"  
 Und so sprachen sie über sie,  
-insgeheim und unter vier Augen.  
+insgeheim und unter vier Augen.
 
-Alan Qo'a aber merkte es wohl.  
+Alan Qo'a aber merkte es wohl.
 
 Eines Tages saß sie und kochte ein fünfjähriges Schaf  
 zum Mahl für ihre fünf Söhne.  
 Und sie gab ihnen jeder einen Pfeil  
 und sprach: "Zerbrecht ihn!"  
 Sie zerbrachen ihn jeder einzeln,  
-mühelos.  
+mühelos.
 
 Da sprach sie: "So vereinigt sie!"  
 Und sie gab ihnen fünf Pfeile  
 zusammengebunden.  
 Sie versuchten sie alle,  
-aber nicht konnten sie sie zerbrechen.  
+aber nicht konnten sie sie zerbrechen.
 
 Da sprach Alan Qo'a zu ihren fünf Söhnen:  
 "Ihr habt getuschelt und gefragt:  
 "Von wem sind diese drei Söhne?"  
-Eure Rede hörte ich wohl.  
+Eure Rede hörte ich wohl.
 
-Nun aber will ich euch die Wahrheit sagen.  
+Nun aber will ich euch die Wahrheit sagen.
 
 Jede Nacht, zur Zeit der Lampen,  
 pflegte ein gelblicher Mann  
@@ -157,7 +157,7 @@ Wenn jene drei Söhne
 einstmals die Söhne des Himmels geworden sind,  
 und sie die großen Herrscher des Alls,  
 dann werden die niederen Menschen  
-unter ihnen sein!"  
+unter ihnen sein!"
 
 Und weiter sprach Alan Qo'a  
 zu ihren fünf Söhnen:  
@@ -169,16 +169,16 @@ den jeder für sich allein
 leicht zerbrechen kann.  
 Wenn ihr aber so eins werdet  
 wie die fünf Pfeile vereint,  
-so kann euch niemand schädigen."  
+so kann euch niemand schädigen."
 
-Alsbald starb Alan Qo'a, die Mutter.  
+Alsbald starb Alan Qo'a, die Mutter.
 
 Nach dem Tode der Mutter  
 aber teilten die vier Brüder  
 das Erbe unter sich.  
 Dem Bodontschar Munqaq aber,  
 der dumm und einfältig war,  
-gaben sie nichts.  
+gaben sie nichts.
 
 Bodontschar aber verließ sie und sprach:  
 "Hier kann ich nicht bleiben!  
@@ -189,7 +189,7 @@ Also sprach er und ging
 den Onon hinab  
 nach Osten.  
 Da machte er eine Hütte  
-aus Gras und Reisig.  
+aus Gras und Reisig.
 
 Auf der anderen Seite  
 aber war ein Habicht,  
@@ -197,7 +197,7 @@ der jagte und tötete
 Vögel und Wild.  
 Diesen Habicht fing er  
 mit einem Netz  
-und machte ihn zahm.  
+und machte ihn zahm.
 
 Auf einem Berghange  
 schoss er Vögel und Wild  
@@ -206,81 +206,81 @@ und wenn er sie nicht alle aß,
 so nährte er sich von den Resten,  
 die der Wolf übrig ließ.  
 So brachte er  
-den Winter und den Frühling hin.  
+den Winter und den Frühling hin.
 
 Als der Sommer kam,  
 zog er den Onon hinab  
-und ließ seinen Habicht fliegen.  
+und ließ seinen Habicht fliegen.
 
 In jener Zeit kamen viele Leute  
 den Tünggälik-Fluss hinauf  
-und lagerten daselbst.  
+und lagerten daselbst.
 
 Da sprach Bodontschar zu seinem Habicht:  
 "Du sollst mir bringen  
 Enten, Gänse und wilde Schwäne,  
-so viel ich will!"  
+so viel ich will!"
 
 Und der Habicht brachte sie ihm,  
 und sie lebten so  
-den ganzen Sommer.  
+den ganzen Sommer.
 
 Als der Herbst kam,  
 zog Bodontschar mit seinem Habicht  
 hin zu jenen Leuten,  
-und er blieb bei ihnen.  
+und er blieb bei ihnen.
 
 Da sprachen die Leute zueinander:  
 "Dieser Mensch hat nur  
 einen mageren Gaul,  
 aber er hält so viel von sich."  
 Und sie fragten ihn,  
-ob er den Winter bei ihnen bleiben wolle.  
+ob er den Winter bei ihnen bleiben wolle.
 
 Er aber sprach:  
 "Ja, ich will euch  
 den Winter hindurch  
-treu zur Seite stehen."  
+treu zur Seite stehen."
 
 Und sie sprachen:  
 "Du hast ja keinen Pfeil,  
 keinen Bogen  
-und keinen Bratspieß!"  
+und keinen Bratspieß!"
 
 Er antwortete:  
 "Mein Habicht  
 nährt mich doch.  
 Wenn ihr auf die Jagd geht,  
 will ich euch die wilden Tiere  
-scheu machen und zutreiben."  
+scheu machen und zutreiben."
 
 Und sie vertrugen sich  
-und blieben beisammen.  
+und blieben beisammen.
 
 Als aber der Sommer ins Land kam,  
 da zogen die Leute weiter.  
-Bodontschar aber blieb zurück.  
+Bodontschar aber blieb zurück.
 
 Das Volk aber  
 hatte einen guten, hübschen, kleinen Häuptling,  
 und alle waren gleich.  
 Da kam von Osten her  
 Bükü Qataqi  
-und fand ihn am Onon.  
+und fand ihn am Onon.
 
 Er erkannte ihn als seinen Bruder  
 und sprach:  
 "Komm mit mir heim!"  
-Aber Bodontschar wollte nicht.  
+Aber Bodontschar wollte nicht.
 
 Da sprach Bükü Qataqi:  
 "Warum willst du nicht  
-mit mir heimkommen?"  
+mit mir heimkommen?"
 
-Bodontschar aber schwieg.  
+Bodontschar aber schwieg.
 
 Da sprach Bükü Qataqi:  
-"Wohin willst du denn gehen?"  
+"Wohin willst du denn gehen?"
 
 "Hier an dem kleinen Fluss,"  
 sprach Bodontschar,  
@@ -289,40 +289,40 @@ Alle sind gleich,
 alle haben gleich viel.  
 Wenn du es nimmst,  
 so ist es dir untertan."  
-Also sprach er.  
+Also sprach er.
 
 Da wurde Bükü Qataqi zornig  
-und zog mit dem Volke von dannen.  
+und zog mit dem Volke von dannen.
 
 Er aber, Bodontschar, blieb  
 und sprach:  
-"Wohlan denn!"  
+"Wohlan denn!"
 
 Und er zog hin  
 zu einem andern Volke  
-und ließ sich bei ihnen nieder.  
+und ließ sich bei ihnen nieder.
 
 Da aber fragte man ihn:  
-"Woher bist du?"  
+"Woher bist du?"
 
 Und er antwortete:  
-"Von Osten her."  
+"Von Osten her."
 
 Da fragte man weiter:  
-"Wohin willst du?"  
+"Wohin willst du?"
 
 Da sprach Bodontschar:  
 "Ich gehe zu dir,  
-um bei dir zu bleiben."  
+um bei dir zu bleiben."
 
 Da sprach der Alte:  
 "Ich bin alt und schwach.  
 Was soll ich mit dir machen?  
-Ich kann dich nicht brauchen."  
+Ich kann dich nicht brauchen."
 
 Da ging Bodontschar wieder von dannen  
 und setzte sich an den Rand der Steppe  
-und weidete seine Pferde.  
+und weidete seine Pferde.
 
 Da kam eines Tages  
 sein älterer Bruder,  
@@ -330,7 +330,7 @@ der ihn suchte.
 Er erkannte ihn  
 und sprach:  
 "Komm nach Hause,  
-Bruder!"  
+Bruder!"
 
 Bodontschar sprach:  
 "Nein!"  
@@ -342,51 +342,51 @@ das dort drüben am Flusse wohnt,
 nimmst,  
 dann gehorchen sie dir.  
 Sie sind alle gleich,  
-und es gibt keinen Herrn unter ihnen."  
+und es gibt keinen Herrn unter ihnen."
 
 Da sprach der ältere Bruder:  
 "Gut!  
 So bleibe du hier,  
-ich will mich an sie machen."  
+ich will mich an sie machen."
 
 Und er ging hin  
 und nahm das Volk gefangen.  
 Da gab Bodontschar nach  
 und ging mit ihm  
 und nahm auch teil  
-an der Beute.  
+an der Beute.
 
 So ward Bodontschar  
-der Herr über jenes Volk.  
+der Herr über jenes Volk.
 
 Und Bodontschar nahm  
 eine gefangene Frau,  
 die hieß Qorilqo'a.  
 Und sie gebar ihm  
 einen Sohn,  
-den nannte er Bari'utai.  
+den nannte er Bari'utai.
 
-Dessen Sohn war Badarai.  
+Dessen Sohn war Badarai.
 
-Badarai's Sohn war Qubil Qara.  
+Badarai's Sohn war Qubil Qara.
 
-Qubil Qara's Sohn war Qachin Körchi.  
+Qubil Qara's Sohn war Qachin Körchi.
 
-Qachin Körchi's Sohn war Qachula Körchi.  
+Qachin Körchi's Sohn war Qachula Körchi.
 
-Qachula Körchi's Sohn war Qaidu.  
+Qachula Körchi's Sohn war Qaidu.
 
-Qaidu's Sohn war Bai Schingqor.  
+Qaidu's Sohn war Bai Schingqor.
 
-Bai Schingqor's Sohn war Tumbinai Setschen.  
+Bai Schingqor's Sohn war Tumbinai Setschen.
 
-Tumbinai Setschen's Sohn war Qabul Khan.  
+Tumbinai Setschen's Sohn war Qabul Khan.
 
-Qabul Khan's Sohn war Bartan Ba'atur.  
+Qabul Khan's Sohn war Bartan Ba'atur.
 
-Bartan Ba'atur's Sohn war Jäsügäi Ba'atur.  
+Bartan Ba'atur's Sohn war Jäsügäi Ba'atur.
 
-Jäsügäi Ba'atur's Sohn war Temüdschin.  
+Jäsügäi Ba'atur's Sohn war Temüdschin.
 
 Temüdschin ward geboren  
 im Jahre des Pferdes,  
@@ -396,21 +396,21 @@ als die Sonne aufging,
 am Onon-Flusse,  
 an der Uferböschung  
 von Däl'iün Boldaq,  
-im Lande des Burqan Qaldun.  
+im Lande des Burqan Qaldun.
 
 Da sprach der Vater:  
-"Ein Sohn ist mir geboren!"  
+"Ein Sohn ist mir geboren!"
 
 Und er gab ihm den Namen Temüdschin,  
 nach dem Tapferen,  
-den er gefangen hatte.  
+den er gefangen hatte.
 
 Und Temüdschin hatte vier Brüder:  
 Qasar,  
 Qatschiun,  
 Tämügä,  
 und eine Schwester,  
-Tämülün.  
+Tämülün.
 
 Jäsügäi Ba'atur  
 nahm für Temüdschin eine Frau,  
@@ -418,12 +418,12 @@ die zehnjährige Börte,
 aus dem Volke der Unggirat,  
 und ließ ihn dort  
 bei seinem Schwiegervater  
-und seiner Schwiegermutter.  
+und seiner Schwiegermutter.
 
 Da sprach der Schwiegervater:  
 "Dein Sohn ist ein guter Sohn.  
 Er soll hier bleiben  
-bei mir."  
+bei mir."
 
 Jäsügäi Ba'atur  
 aber kehrte heim.  
@@ -431,7 +431,7 @@ Unterwegs aber
 ging er ein bei den Tataren,  
 denen er zuvor  
 die Rüben zertreten hatte.  
-Sie töteten ihn.  
+Sie töteten ihn.
 
 Da sprach er,  
 ehe er starb:  
@@ -445,10 +445,10 @@ mit meinem Sohne
 vor den Feinden bestehen  
 und ihn aufziehen  
 zu einem Manne,  
-der meinen Tod rächt!"  
+der meinen Tod rächt!"
 
 Also sprach der Vater  
-und starb.  
+und starb.
 
 Die Mutter aber,  
 Hö'elün,  
@@ -460,9 +460,9 @@ und nährte sie damit.
 An den Bergabhängen  
 schoss sie mit dem Pfrieme  
 die Fische  
-und bereitete sie zu.  
+und bereitete sie zu.
 
-So wuchsen die Söhne auf.  
+So wuchsen die Söhne auf.
 
 Eines Tages aber  
 ritten die Brüder  
@@ -470,45 +470,45 @@ auf die Jagd.
 Da schoss Qasar  
 einen Hasen.  
 Temüdschin aber  
-nahm ihn ihm weg.  
+nahm ihn ihm weg.
 
 Da ward Qasar böse  
 und sprach:  
 "Du nimmst mir  
-meinen Hasen!"  
+meinen Hasen!"
 
 Und er zog den Bogen  
-gegen Temüdschin.  
+gegen Temüdschin.
 
 Da schrie die Mutter:  
 "Ihr sollt euch  
 nicht gegenseitig töten!  
 Ihr seid ja Brüder  
 vom selben Vater  
-und derselben Mutter!"  
+und derselben Mutter!"
 
 Und sie nahm ihnen  
-die Bogen weg.  
+die Bogen weg.
 
 Als aber die Mutter  
 eines Tages  
 auf die Jagd ging,  
 da kam Qasar  
 und schlug Temüdschin,  
-dass er zu Boden fiel.  
+dass er zu Boden fiel.
 
 Da aber kamen  
 die drei übrigen Brüder  
-und rissen sie auseinander.  
+und rissen sie auseinander.
 
 Da sprach Qasar:  
 "Ich will nicht mehr  
 bei euch wohnen!"  
 Und er ging hinweg  
-zu den Merkiten.  
+zu den Merkiten.
 
 Die Merkiten aber  
-nahmen ihn auf.  
+nahmen ihn auf.
 
 Temüdschin aber  
 zürnte dem Bruder  
@@ -516,19 +516,19 @@ und sprach:
 "Er ist ein böser Mensch!  
 Er wird uns  
 noch einmal  
-ins Verderben stürzen!"  
+ins Verderben stürzen!"
 
 Da ward die Mutter  
 sehr betrübt  
 und sprach:  
 "Wie soll das enden?  
-Ihr seid doch Brüder!"  
+Ihr seid doch Brüder!"
 
-Und sie weinte.  
+Und sie weinte.
 
 Damals aber  
 war Temüdschin  
-etwa dreizehn Jahre alt.  
+etwa dreizehn Jahre alt.
 
 Die Brüder aber  
 zogen nun gemeinsam  
@@ -542,6 +542,4 @@ Auf dem Weg, in der Shila Ke'er (der gelben Wildnis), bei den dort ansässigen L
 
 Er sprach: „Zur Seite der Brust sprechend: Tscharaqa Ebügen (Tscharaqa der Alte. In den Aufzeichnungen des Feldzugs und der Yuan-Geschichte: Kind, vor dem Angesicht gesprochen, kommen lassen), mein Mönglik. Klein ist er, mein Temüdschin, zurückgelassen auf dem Weg, von den Leuten wurde ich hintergangen, mir geht es schlecht. Die zurückgelassenen jüngeren Brüder und die Schwägerin – du, geh und hole meinen Temüdschin!“ Das Kind sprach und nahm [es].
 
-Ende des ersten Bandes der Aufzeichnungen des Dschingis Khan.
-
-Einleitung. Inhaltsverzeichnis. Band 1. Band 2. Band 3. Band 4. Band 5. Band 6. Band 7. Band 8. Band 9. Band 10. Band 11-1. Band 11-2. Band 12-1. Band 12-2. Fortsetzung – Inhaltsverzeichnis. Fortsetzung-1. Fortsetzung-2. 3]
+Ende des ersten Buches der Geheimen Geschichte der Mongolen.

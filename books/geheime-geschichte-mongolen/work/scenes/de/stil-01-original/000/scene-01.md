@@ -136,6 +136,4 @@ Diese Mandschu-Schrift basiert auf Möllendorffs Qingwenjian. Die Mandschu-Schri
 
 Im Schweine-Jahr, nach dem Pferde-Jahr, im Herbst, zu Anfang des Monats, am Naranu Khujaur genannten Ort, Akagi, der hohe Edo, ghorokhan, zwei jaura, das kleine Zelt, geboren in Mori-oka balaghasun. Ende.
 
-Ende der Einleitung des Wahrhaftigen Berichts von Dschingis Khan.
-
-Einleitung. Inhaltsverzeichnis. Band 1. Band 2. Band 3. Band 4. Band 5. Band 6. Band 7. Band 8. Band 9. Band 10. Band 11-1. Band 11-2. Band 12-1. Band 12-2. Fortsetzung-Inhaltsverzeichnis. Fortsetzung-1. Fortsetzung-2.
+Ende der Einleitung der Geheimen Geschichte der Mongolen.

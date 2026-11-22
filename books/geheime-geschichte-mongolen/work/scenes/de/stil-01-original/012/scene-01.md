@@ -96,7 +96,4 @@ Im Jahr des Tigers zog Dschingis Khan nach Süden in den Winter. Khan Melik und 
 
 Also kehrte er im Herbst des Pferdes zurück. In jenem Semisgen überwinterte er zwei Jahre lang mit den Schafen. Dann brach er auf, wartete auf Sube'etei, zog zum Lande der Sarta'ul, und im Jahr des Hirsches, am Flusse Tula, stieg er ab in der Ordu.
 
-Ende des elften Buches der Aufzeichnungen des Dschingis Khan.
-
-Einleitung. Inhaltsverzeichnis. Buch eins. Buch zwei. Buch drei. Buch vier. Buch fünf.
-Buch sechs. Buch sieben. Buch acht. Buch neun. Buch zehn. Buch elf-1. Buch elf-2. Buch zwölf-1. Buch zwölf-2. Fortsetzung-Inhaltsverzeichnis. Fortsetzung-1. Fortsetzung-2. 3]
+Ende des elften Buches der Geheimen Geschichte der Mongolen.

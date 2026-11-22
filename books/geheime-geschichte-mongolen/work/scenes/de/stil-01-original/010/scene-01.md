@@ -399,25 +399,4 @@ Verschwinden
 war es.
 (Hier endet das zehnte Buch der Hauptsammlung der Geheimen Geschichte. Die folgenden zwei Bücher sind die Fortsetzung. Im achten Buch, nachdem die Thronbesteigung im Jahr des Tigers (Bingyin) verzeichnet ist, werden bis zum Beginn dieses Buches die Belohnungen der Würdenträger, die Erlasse zur Bestimmung der Leibwache aufgereiht, dann die Unterwerfung der Qarlu'ud, die Vernichtung der Merkit und Güčülüg, die Anhänglichkeit der Uiguren verzeichnet; dann wird das Jahr des Hasen (Dingmao) genannt, Dschötschi's Nordfeldzug, die Unterwerfung der Tumat, die Verteilung der Völker an die kaiserlichen Prinzen, die Sache der Übertragung verzeichnet, und mit dem Untergang der Qoŋqotan endet es. Demnach scheint diese Sammlung mit dem zweiten Jahr des Taizu, Dingmao, zu enden, aber die Vernichtung Güčülügs fand nicht im ersten Jahr des Taizu statt, sondern tatsächlich sehr sicher im dreizehnten Jahr Wuyin; daher muss auch die Vernichtung der Merkit dem zwölften Jahr Dingchou folgen, das der »Feldzugsbericht« und die »Gesammelte Geschichte« angeben. Die Fortsetzung beginnt mit dem Feldzug gegen Jin im sechsten Jahr Xinwei des Taizu; dass diese Sammlung bereits die Ereignisse des zwölften Jahres Dingchou und des dreizehnten Jahres Wuyin enthält, ist nicht verwunderlich. Denn obwohl diese Sammlung nach dem Beginn des Jin-Feldzugs entstand, war der Jin-Feldzug noch nicht vollendet; daher überließ man ihn der späteren Aufzeichnung und nahm ihn nicht in diese Sammlung auf. Die Vernichtung der Merkit und Güčülüg war, ausgehend von der Merkit-Expedition im dritten Buch, von der Naiman-Expedition im fünften und siebten Buch, eine fortgesetzte große Befriedungstat; um diesen Abschluss zu erzielen, wurden, im Anschluss an die Thronbesteigung des Taizu, ohne Angabe der Jahreszahl, die mehr als zehn Jahre späteren Ereignisse beigefügt.)
 
-Ende des zehnten Buches der Aufzeichnungen Dschingis Khans.
-
-Einleitung. Inhaltsverzeichnis. Buch 1. Buch 2. Buch 3. Buch 4. Buch 5.
-Buch 6. Buch 7. Buch 8. Buch 9. Buch 10. Buch 11-1. Buch 11-2. Buch 12-1. Buch 12-2. Fortsetzung - Inhaltsverzeichnis. Fortsetzung -1. Fortsetzung -2. 3]
-
-↑ Aus der Zeitung »Osaka Asahi Shimbun«, März/April 1908, in »Gesammelte Werke von Kuwabara Jitsuzō, Band 2«, Iwanami Shoten, Erinnerung an Herrn Naka - Aozora Bunko
-↑ Nationale Parlamentsbibliothek Digitale Sammlung: info:ndljp/pid/782220
-1 2 Die Vorlagen-Einlesegröße überschreitet den Grenzwert, daher in Teilbände aufgeteilt.
-
-Dieses Dokument ist eine Übersetzung und hat als unabhängiges Werk vom Original den Status eines eigenen Werkes. Die Lizenz für die Übersetzung gilt nur für diese Version.
-
-Original:
-
-Dieses Werk wurde vor dem 1. Januar 1931 veröffentlicht und der Urheber ist (bei Gemeinschaftswerken nach Veröffentlichung oder Schöpfung) seit mehr als 100 Jahren verstorben, daher ist es in allen Ländern und Regionen gemeinfrei.
-
-Public domainPublic domainfalsefalse
-
-Übersetzung:
-
-Dieses Werk wurde vor dem 1. Januar 1931 veröffentlicht und der Urheber ist (bei Gemeinschaftswerken nach Veröffentlichung oder Schöpfung) seit mehr als 100 Jahren verstorben, daher ist es in allen Ländern und Regionen gemeinfrei.
-
-Public domainPublic domainfalsefalse
+Ende des zehnten Buches der Geheimen Geschichte der Mongolen.

@@ -1,7 +1,5 @@
 ## Szene 1
 
-**Zweites Buch**
-
 Yesügei Ba'atur wich nicht ab, ging hin und sprach: „Der ältere Bruder hat sein Herz heftig auf Temüdschin gerichtet“ – Wenn der Dei Sechen, der Schwager, dies denkt, so komme er und sehe mich“, und der Mönglik Echige – Mönglik, der Vater, ein Ehrenname, Temüdschin gegeben – kam mit Temüdschin.
 
 Da jene beiden Frauen des Ambakai Qaghan, die Orbei und die Chutai, auf der Erde ihrer Vorfahren an der Speisenverteilung teilnahmen, blieb Höelün Ujin zurück und wurde übergangen. Da sprachen Orbei und Chutai zu Yesügei Ba'atur und ließen die Kinder [der Höelün] vom übrigen Opferfleisch vor der [fürstlichen] Anteilnahme ausschließen. Als sie dies sahen, ermahnten sie nicht und sprachen: „Ihr“. Daraufhin sagte eine Schokat'ai, eine Gattin: „Dir wurde nicht gerufen“; da war Grund. „Dir wurde nicht [der Anteil] gegeben“; da war Grund. Und sie sprachen von Ambakai Qaghan, als sie angelangt waren, und überlegten so: „Wenn dieses Lager verlassen wird, führt ihr [unsere Leute] fort“, und von jenem Tage an ließen die Tardschi'ut, die Togtai Qiriltug und Todön Chördschin, die Höelün Ujin zurück, gingen zu den Qonggodan und sprachen: „Trocken sind die Zweige geworden, der Glanz [ist erloschen]“, und standen auf. Die [Höelün] suchte sie zurückzuhalten, aber sie stachen mit Speeren.

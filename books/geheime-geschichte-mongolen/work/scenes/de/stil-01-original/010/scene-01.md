@@ -1,7 +1,5 @@
 ## Szene 1
 
-**Buch Zehn**
-
 Dschingis Khan sprach: „In der Nacht, wenn die Wolken den Himmelslukenraum bedecken, in der Stille, wenn der Schlaf die Alten umfängt, in der Nacht, wenn mein Stern steht – die Wächter, die in meiner Fürstenhütte die Filzdecken nicht im Inneren ausgebreitet hatten, die vor Unruhe zitterten, die vor Zittern bebten, die um mich herum standen – die treuen Wächter, die um mich herum standen, die ließ ich zu mir kommen. Die Feinde, die um mich herum standen, die sich nicht auf meine Birkenrinden-Köcher verließen, mein Glück, mein Alter – so sprach er.
 
 Die eingetretenen Leibwächter – zu den Leibwächtern sprach der Alte Arqai.

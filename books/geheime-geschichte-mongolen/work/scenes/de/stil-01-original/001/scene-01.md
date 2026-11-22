@@ -1,9 +1,5 @@
 ## Szene 1
 
-# Die Geheime Geschichte der Mongolen
-
-## Erstes Buch
-
 Der Ursprung des Dschingis Khan. Er ward geboren vom Himmel oben.  
 Es ward ein fahlgelber Wolf, geboren vom Himmel oben.  
 Sein Weib war eine weißliche Hirschkuh.  

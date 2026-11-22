@@ -1,7 +1,5 @@
 ## Szene 1
 
-**Einleitung**
-
 **Einleitung zur Dschorion-Übersetzung.**
 
 Die erste Handschrift, die ich übersetzte, war eine lagernische Handschrift. Darin bedeutet "oder" "alle". Dieses Buch hieß ursprünglich in der übersetzten mongolischen Schrift *Mongholun Niucha Tobchaan*, auf Deutsch also "Geheime Geschichte". Es ist *Monghol un* – *Monghol* ist "Mongole", *un* ist die Genitivendung – *Niucha* bedeutet "geheim" oder im Mongolischen "verborgen", und *Tobchaan* (richtig *Tobchyan*, auch *Tobchiyan* geschrieben, *Tobchiyan* bedeutet "Kurze Zusammenfassung" oder "Chronik") ist die "Chronik der Mongolen", also die "Geheime Geschichte der Mongolen". Sie wurde am Ende der Regierungszeit des Kaisers Taizong verfasst, als sich der Hof am Fluss Keluren, auf der Insel zwischen den Flüssen, befand. Das Jahr war das zwölfte Jahr der Yuan-Ära, das Jahr der Ratte, das erste Jahr des Kaisers Shijō Tennō, das vierte Jahr des Kaisers Lizong, das Jahr 1240, das Jahr des Feuerpferdes (Bingwu) oder früher. Die Insel im Fluss, Kodege Insel, ist eine Flussinsel. Der Khan-Palast (Ord) war die Residenz des Kaisers Taizu. Die auf dem Großen Reichstag abgehaltene Versammlung war der Reichstag jener Zeit, und die kaiserlichen Erlasse, die dabei erlassen wurden, dürften von hohem Wert sein.

@@ -1,7 +1,5 @@
 ## Szene 1
 
-**Drittes Buch**
-
 Qasar, [Belgütei] und die drei [Brüder] gingen zu Tooril Ong Khan, der an der Tula [Tougla] weilte, und sprachen: „Die drei [Männer] haben unversehens unsere Frauen und Kinder geraubt. Der Khan, unser Vater, möge uns retten und kommen lassen!“
 
 Darauf antwortete er: „Habe ich nicht im vorigen Jahr gesagt? Als ich den Zobelpelzrock brachte und mich mit dir, dem Vater, dem Anda, verband – wie es sich gehört –, da sprach ich: ‚Ich, der ich den Zobelfellrock, den ungespaltenen, mit dir, dem Vater, dem Anda, verband, und du, der du den schwarzen Zobelfellrock als Gegengabe mit mir verbandest, bewahrtet uns die Kehle und die Brust.‘ Habe ich nicht gesagt: ‚Jetzt, durch das Wort des Zobelfellrocks, will ich die Merkiten, alle, bis zur Börte Üdschin hin, vertilgen und sie zurückbringen?‘ Du aber sende eine Botschaft zu Dschamucha, dem jüngeren Bruder: ‚Er ist dort. Von hier aus werden wir zur Rechten ausrücken. Wir werden zu zwanzigtausend Mann werden, zur Hand werden.‘ So sprach ich zu unserem Dschamucha.“

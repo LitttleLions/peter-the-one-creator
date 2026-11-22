@@ -1,7 +1,5 @@
 ## Szene 1
 
-Siebentes Buch
-
 Nachdem er die Kereyit unterworfen hatte, gab er dem Sulduz für seine Verdienste hundert [Gefangene]. Dschingis Khan hatte eine Tochter des Wang Khan, des J̌aqa Gambu.
 
 Diese Ibaga Beki (erscheint am Ende des achten Buches erneut) gab er selbst Tolui zur Frau, mit der Schwester, die Sorqaqtani hieß. (In der Kaiserinnen-Tafel: „Die Gemahlin des Ruizong, Sorqaqtani, aus dem Stamm der Kereyit, postum verliehener Titel Zhuangsheng Kaiserin, auch Xianyi Zhuangsheng Kaiserin.“ Tolui, in der Biographie: „Ruizong, Jingxiang Kaiser, mit Namen Tolui, der vierte Sohn des Taizu, jüngerer Bruder der Mutter des Taizong.“) Deshalb nannte man ihn den vertrauten, vollkommenen Schwiegersohn und ließ ihn nicht gefangen nehmen.

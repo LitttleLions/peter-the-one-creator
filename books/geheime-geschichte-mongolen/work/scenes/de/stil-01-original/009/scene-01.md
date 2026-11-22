@@ -1,7 +1,5 @@
 ## Szene 1
 
-Neuntes Buch
-
 Wiederum: Qubilai, mit Kraft den Nacken des Riesen Bökeschir niederpressend, tat es. Diese vier: J̌elme, Sübegetei (das heißt Sübe'ütai), sie dachten nach vorn gerichtet, sprachen: "Fels, zerschellt, Abgrund, zerborsten, Licht, Stein übersteigend, zerschnitten – ihr!" Diese vier: J̌elme, Sübe'ütai, sie sandte er aus mit dem Finger.
 
 Muqali, Čila'un Ba'atur, diese Renner (mongolisch: Seite, kämpfend, J̌ürčedei), 

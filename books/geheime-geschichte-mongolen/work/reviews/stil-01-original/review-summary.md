@@ -2,7 +2,7 @@
 
 - Buch-ID: geheime-geschichte-mongolen
 - Stil: stil-01-original
-- Erstellt: 2026-11-22T19:29:34
+- Erstellt: 2026-11-22T20:18:40
 - LLM: none
 - Kapitel: 15
 - Kapitel mit Befunden: 6

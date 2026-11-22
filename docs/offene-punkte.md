@@ -495,16 +495,35 @@ Nachtrag 2026-11-22 abends (Leseausgabe-Bereinigung, Bloecke 1-5, Commits
 - Gate buchweit **ERROR=0 / WARNING=3 / INFO=8**; EPUB `...-192959.epub`,
   Paperback `...-193040-...pdf` (125 Seiten).
 
-Offen (2026-11-22 abends, NICHT behoben):
-- **Seitenzahl-Regression 244 → 125** bei identischem Satz (10,8/13,6 pt,
-  Ränder 12,7 mm, `chapter_start: next_page`, `blank_pages: []`) und fast
-  gleichem Wortstand (79.376 → 78.442). Der Haupttext rendert in der Hälfte
-  der Seiten. Ursache offen (Verdacht Gruppen-Entfernung + entfernte
-  Marker-Zeilen). Inhalt vollständig (alle 15 Kapitel).
-- **Doppelte/verwaiste Buchtitel**: Szenen tragen alte Kopfzeilen
-  (`**X Buch**`, `## X Buch`, 001 zusätzlich `# Die Geheime Geschichte der
-  Mongolen`), die jetzt zusätzlich zur neuen Kapitelüberschrift stehen.
-- Wrap für 125 Seiten neu bauen (aktuell noch `cover-wrap-...-244.pdf`).
+Behoben (2026-11-22, später Abend):
+- **Seitenzahl-Regression 244 → 125**: Ursache waren **weder** die
+  entfernten `structure.groups` **noch** die entfernten `[N]`-Marker,
+  sondern die drei neuen Einleitungs-Grafiken (`assets/einleitung/*.png`,
+  1800–3000 px breit). Sie standen ohne Breitenbegrenzung im Kapiteltext;
+  das Dokument war damit breiter als die Seite, und Chromium skalierte beim
+  PDF-Druck das **ganze Buch** auf zwei Drittel (Fließtext 7,2 statt
+  10,8 pt, rund doppelt so viele Wörter je Seite, 125 statt 244 Seiten).
+  Belegt durch Nachdruck desselben HTML mit und ohne die drei Bilder
+  (125 vs. 233 Seiten). Fix: `tools/lib/print_css.py` deckelt Bilder im
+  Kapiteltext auf den Satzspiegel (`.scene-text img` / `.textpage img`:
+  `max-width: 100%`, `max-height` = Satzspiegelhöhe). Zusätzlich warnt der
+  Satzreport jetzt, wenn die Seitenzahl stark von `assumed_pages` abweicht
+  (unter 0,7x oder über 1,6x) – so ein Ausreißer geht nicht mehr als
+  normaler Satz durch. Regressionstests in `tests/test_print_export.py`.
+- **Doppelte/verwaiste Buchtitel** aus den Szenen entfernt (24 Zeilen):
+  000 `**Einleitung**`, 001 `# Die Geheime Geschichte der Mongolen` +
+  `## Erstes Buch`, 002/003/004 (`**Zweites/Drittes/Viertes Buch**`), 006
+  `**Band 6**`, 007 `Siebentes Buch`, 008 `**Kapitel Acht**`, 009
+  `Neuntes Buch`, 010 `**Buch Zehn**`, 013 `**Band 12-1**`. Jetzt steht nur
+  die Kapitelüberschrift aus `display.chapters.titles`; Gate unverändert
+  **ERROR=0 / WARNING=3 / INFO=8**.
+- Neu erzeugt: Paperback-Innenleben **233 Seiten** (5,5x8,5, classic,
+  full_page, 10,8/13,6 pt, `...-201844-...pdf`), EPUB
+  `...-20261122-202012.epub` (18,3 MB, 20 Bilder) und Wrap
+  `cover-wrap-20261122-202026-233.pdf` (300,5 x 222,2 mm, Rücken 14,8 mm;
+  Hinweis: Klappentext eine Stufe auf 9,4 pt, Bio 8,4 pt verkleinert).
+  Die Einleitungs-Grafiken stehen jetzt in Satzspiegelbreite (Stemma S. 19,
+  Lauttafeln S. 25/27).
 
 ### Genealogie und Grafik (2026-11-22)
 

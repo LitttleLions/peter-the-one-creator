@@ -22,36 +22,32 @@ Lies AGENTS.md, README.md (Mongolen-Absatz) und docs/offene-punkte.md
 (Punkt 5). Arbeite in C:\code\peter-the-one auf main: erst `git fetch` und
 Abgleich, bei Abweichung oder uncommitteten Aenderungen anhalten und fragen.
 
-Stand (2026-11-22): 15 Kapitel, structure.mode chapter_as_scene; die 317
-§-Abschnitte der japanischen Edition liegen archiviert unter
+Stand (2026-11-22 abends): 15 Kapitel, structure.mode chapter_as_scene; die
+317 §-Abschnitte der japanischen Edition liegen archiviert unter
 work/legacy/scenes-ja-sections-20261122/. Gate buchweit
-ERROR=0/WARNING=3/INFO=6. EPUB ...-20261122-170919.epub (17,7 MB, drei
-Stammtafeln eingebettet), Paperback-Innenleben
-...-20261122-170923-paperback-interior.pdf (233 Seiten, 5,5x8,5, classic,
-full_page, 4 Anhangseiten). Erledigt: Wikisource-Apparat entfernt, Kolophone
+ERROR=0/WARNING=3/INFO=8. EPUB ...-20261122-202012.epub (18,3 MB, drei
+Stammtafeln und drei Einleitungs-Grafiken eingebettet), Paperback-Innenleben
+...-20261122-201844-paperback-interior.pdf (233 Seiten, 5,5x8,5, classic,
+full_page, 10,8 pt), Wrap cover-wrap-20261122-202026-233.pdf (Ruecken 14,8 mm).
+Erledigt: Wikisource-Apparat entfernt, Kolophone
 vereinheitlicht, 014-Haupttext ergaenzt, Kamel-Anmerkung korrigiert,
 Namensdurchgang (Yesuegei/Oegedei/Dschamucha/Bodonchar/Ba'atur/Hoeluen,
 "tsch"-Konvention, names.yaml +~50 Eintraege), drei Drucktafeln als
 Bildanhang (appendices: in export.yaml; Pandoc braucht --resource-path, die
-Print-CSS-Regel .appendix-text img deckelt die Tafeln). Kein cover-print.*
--> kein Wrap.
+Print-CSS-Regel .appendix-text img deckelt die Tafeln), Quellen-Exkurse
+014/2 uebersetzt und als Anhang ausgelagert, Anhang "Quellen und Ausgaben",
+TOC auf Einleitung/Teil 1/2, doppelte Buchtitel aus den Szenen entfernt,
+Seitenzahl-Regression 125 behoben (Bilddeckel fuer Einleitungs-Grafiken in
+lib/print_css.py; Ursache war Chromiums Ganzbuch-Skalierung, nicht die
+Gruppen/Marker - Details docs/offene-punkte.md §5).
 
 Naechste Schritte (in dieser Reihenfolge):
-1. Quellen-Exkurse 014/2 uebersetzen: Quelle
-   work/legacy/scenes-ja-sections-20261122/014/scene-02.md, Zeilen 5-23
-   (Westfeldzug/Rus) und 25-31 (Jalairtai/Goryeo). In Kapitel 014 integrieren
-   oder als Anhang auslagern; danach Gate + Kurzbericht (nur
-   ERROR/WARNING/INFO). Uebersetzung nur nach ausdruecklicher Freigabe des
-   Nutzers.
+1. Optional Weg B (Edition in stil-04-original-geheim): vorher 006/09
+   (reine Titelzeile) klaeren, sonst blockiert empty_or_short.
 2. Arbeitsuebersetzung §40-52 (work/genealogie/quelle-001-40-52-de.md)
    gegen die gedruckte Ausgabe pruefen; die als "unsicher" markierten
    Relationen klaeren.
-3. TOC-Anzeige: Kapitel 013/014 sind im Quellenschnitt 12-1/12-2 (Gruppe
-   "Zwoelftes Buch") -> Anzeige auf Teil 1/2 umstellen; "0stes Kapitel" bei
-   000 auf "Einleitung" korrigieren.
-4. Print-Feinschliff: cover-print.* besorgen, Wrap bauen
-   (tools/build_cover.py), Paperback neu setzen.
-5. Final: Gate + EPUB + Paperback sauber neu erzeugen, committen und pushen.
+3. KDP-Upload (Interior, Trim 5,5x8,5, Creme, 233 Seiten) und Kindle-Preview.
 
 Regeln: immer .\.venv\Scripts\python.exe; bei Batch-Laeufen --style
 stil-04-original-geheim explizit mitgeben (sonst plant der Default stil-01

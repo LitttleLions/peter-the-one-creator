@@ -58,19 +58,30 @@ Edition liegen archiviert unter `work/legacy/scenes-ja-sections-20261122/`
 (alle Dateien ausserdem in der Git-Historie), die Quell-Szenen wurden je
 Kapitel als `scene-01.md` neu aus `work/chapters/` gezogen. Das bisher falsch
 benannte `stil-01-original/006/stil-01-scene-01.md` heisst jetzt `scene-01.md`.
-Gate buchweit **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur
+Gate buchweit **ERROR=0 / WARNING=3 / INFO=8** (Warnungen nur
 `repetition_style` in 000 und 014). EPUB
-`book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-170919.epub`
-(17,7 MB, 7 Kapitelbilder, drei Anhang-Tafeln) und Paperback-Innenleben
-**233 Seiten** (5,5x8,5, classic, full_page, inkl. 4 Anhangseiten, Gate ohne
-Bypass). Nachgezogen: Wikisource-Apparat
+`book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-202012.epub`
+(18,3 MB, 20 Bilder, 7 Kapitelbilder, drei Anhang-Tafeln) und
+Paperback-Innenleben **233 Seiten** (5,5×8,5, classic, full_page,
+10,8/13,6 pt, inkl. Anhänge, Gate ohne Bypass). Nachgezogen: Wikisource-Apparat
 (Inhalts-TOC, ↑-Zeilen, Lizenztext) aus 000/001/008/010/012/014 entfernt,
 Kolophone vereinheitlicht, fehlende Haupttextsätze in 014 ergänzt
 (Qachidut/Laosasut, Tammachin-Rückkehr, Dschürtschet/Jalairtai), Kamel-
 Anmerkung korrigiert (`Gürin-Ere'üd` sind Kamelnamen, keine Pferde/Kleidung).
-**Nicht** übersetzt: die beiden langen Quellen-Exkurse in 014/2
-(Westfeldzug/Rus, Jalairtai/Goryeo) – bewusst offen für Weg B. Es gibt kein `cover-print.*`, daher
-noch kein Komplett-/Wrap-Cover.
+Die beiden langen Quellen-Exkurse in 014/2 (Westfeldzug/Rus,
+Jalairtai/Goryeo) stehen jetzt **übersetzt als Anhang**
+(`work/appendices/de/stil-01-original/quellen-exkurse-014.md`), dazu der
+Anhang "Quellen und Ausgaben"; TOC auf Einleitung/Teil 1/2, drei
+Einleitungs-Grafiken (Stemma, zwei Lauttafeln), Druckcover
+`assets/covers/cover-print.jpg` und Wrap `cover-wrap-20261122-202026-233.pdf`
+(300,5 × 222,2 mm, Rücken 14,8 mm).
+Bereinigung 2026-11-22 abends: doppelte Buchtitel aus den Szenen entfernt
+(nur noch die Kapitelüberschrift aus `display.chapters.titles`); die
+**Seitenzahl-Regression 125** war ein Skalierungsfehler – die zu breiten
+Einleitungs-Grafiken ließen Chromium das ganze Buch auf 2/3 verkleinern
+(7,2 statt 10,8 pt). Behoben durch Bilddeckel in `lib/print_css.py` und eine
+Plausibilitätswarnung in `lib/print_pdf.py`; Details in
+`docs/offene-punkte.md` §5.
 Genealogie/Grafik (2026-11-22): Datenblätter unter `work/genealogie/`
 (`stammtafel-001.md`, `ordo-014.md`); Stammtafel deterministisch aus den Daten
 gerendert (`stammtafel-001.html` → `assets/genealogie/stammtafel-001.png`).

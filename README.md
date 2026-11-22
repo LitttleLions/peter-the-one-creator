@@ -110,17 +110,21 @@ Anonym, `ja→de`): **Weg A am 2026-11-22 umgesetzt** – `structure.mode:
 chapter_as_scene`, 15 Kapitel als Arbeitseinheit; die 317 §-Abschnitte der
 japanischen Edition liegen archiviert unter
 `work/legacy/scenes-ja-sections-20261122/` (und in der Git-Historie). Gate
-**ERROR=0/WARNING=3/INFO=7**; EPUB `...-20261122-175500.epub` und
-Paperback-Innenleben **244 Seiten** (5,5×8,5, classic, full_page, inkl.
-Anhänge mit drei Stammtafeln und den zwei Quellen-Exkursen). Bereinigt:
-Wikisource-Apparat entfernt, Kolophone vereinheitlicht, 014-Lücken im
-Haupttext ergänzt und die Kamel-Anmerkung korrigiert; Namensdurchgang
-gemacht (Yesügei/Ögedei/Dschamucha/Bodonchar/Ba'atur/Höelün, „tsch“-
+**ERROR=0/WARNING=3/INFO=8**; EPUB `...-20261122-202012.epub` und
+Paperback-Innenleben **233 Seiten** (5,5×8,5, classic, full_page, 10,8 pt,
+inkl. Anhänge mit drei Stammtafeln und den zwei Quellen-Exkursen).
+Bereinigt: Wikisource-Apparat entfernt, Kolophone vereinheitlicht,
+014-Lücken im Haupttext ergänzt, Kamel-Anmerkung korrigiert, doppelte
+Buchtitel aus den Szenen entfernt; Namensdurchgang gemacht
+(Yesügei/Ögedei/Dschamucha/Bodonchar/Ba'atur/Höelün, „tsch“-
 Konvention, `names.yaml` +~50 Einträge). Die Drucktafeln stehen als
 Bildanhang im Buch (`appendices:` in `export.yaml`). Erledigt: die
 beiden Quellen-Exkurse in 014 (Westfeldzug/Rus, Jalairtai/Goryeo) als
 Anhang, TOC auf Einleitung/Teil 1/2, `cover-print.jpg` + Wrap
-(`cover-wrap-20261122-175344-244.pdf`); optional Weg B
+(`cover-wrap-20261122-202026-233.pdf`, Rücken 14,8 mm); die
+Seitenzahl-Regression 125 → 233 ist behoben (zu breite Einleitungs-Grafiken
+ließen Chromium das ganze Buch auf 2/3 skalieren; Bilddeckel in
+`tools/lib/print_css.py`, siehe `docs/offene-punkte.md` §5). Optional Weg B
 (Edition in `stil-04-original-geheim`, 284 Szenen). Details:
 `docs/offene-punkte.md` §5,
 Übergabeprompt E in `docs/uebergabe-prompt.md`.

@@ -60,7 +60,7 @@ Kapitel als `scene-01.md` neu aus `work/chapters/` gezogen. Das bisher falsch
 benannte `stil-01-original/006/stil-01-scene-01.md` heisst jetzt `scene-01.md`.
 Gate buchweit **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur
 `repetition_style` in 000 und 014). EPUB
-`book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-164445.epub`
+`book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-170919.epub`
 (17,7 MB, 7 Kapitelbilder, drei Anhang-Tafeln) und Paperback-Innenleben
 **233 Seiten** (5,5x8,5, classic, full_page, inkl. 4 Anhangseiten, Gate ohne
 Bypass). Nachgezogen: Wikisource-Apparat

@@ -441,10 +441,10 @@ Loader sucht `scene-*.md` und fand 006 vorher nicht).
 Stand:
 - Gate buchweit **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur
   `repetition_style` in 000 und 014; 006 ist 0/0/0).
-- EPUB `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-164445.epub`
+- EPUB `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-170919.epub`
   (17,7 MB, 7 Kapitelbilder 000-005 + 014, drei Anhang-Tafeln, Gate ohne Bypass).
 - Paperback-Innenleben
-  `...-55x85-classic-full-20261122-164306-paperback-interior.pdf`
+  `...-55x85-classic-full-20261122-170923-paperback-interior.pdf`
   (233 Seiten inkl. 4 Anhangseiten, 5,5x8,5, classic, full_page; Hinweis:
   Kapitelbild 000 mit 289 dpi). Kein `cover-print.*` -> kein Komplett-PDF/Wrap.
 - `stil-04-original-geheim` unveraendert: 006 (20/20 Dateien, aber Szene 09
@@ -504,8 +504,13 @@ Nachtrag 2026-11-22 (Textbereinigung nach der Pruefung von 014):
   `--resource-path=<work-Ordner>`, sonst loest es relative Anhang-Bilder vom
   Repo-Root (Fix in `tools/export_manuscript.py`); die Print-CSS-Regel
   `.appendix-text img` deckelt die Tafeln auf die Satzspiegelbreite.
-- Offen: wortgetreue Pruefung gegen die gedruckte Ausgabe; Namenskanon (Text
-  "Jaesuegai" vs. names.yaml "Yesuegei").
+- Namensdurchgang (2026-11-22): Schreibweisen vereinheitlicht (Yesuegei,
+  Oegedei, Dschamucha, Bodonchar, Ba'atur, Hoeluen; Lesekonvention „tsch“
+  statt č), `names.yaml` um ~50 Personen/Staemme/Ordo-Gemahlinnen ergaenzt;
+  Datenblaetter und Tafeln auf den Kanon umgestellt (Boerte Tschino, Sali
+  Qatschu, Sem Sotschi, Qartschu, Yesuei/Yesuegen/Shiremuen).
+- Offen: wortgetreue Pruefung gegen die gedruckte Ausgabe; Uebersetzung der
+  beiden Quellen-Exkurse 014/2 (Westfeldzug/Rus, Jalairtai/Goryeo) – im Plan.
 
 Checkliste (nur falls Weg B spaeter kommt; `--style` immer explizit):
 

@@ -110,7 +110,7 @@ Anonym, `ja→de`): **Weg A am 2026-11-22 umgesetzt** – `structure.mode:
 chapter_as_scene`, 15 Kapitel als Arbeitseinheit; die 317 §-Abschnitte der
 japanischen Edition liegen archiviert unter
 `work/legacy/scenes-ja-sections-20261122/` (und in der Git-Historie). Gate
-**ERROR=0/WARNING=3/INFO=7**; EPUB `...-20261122-164445.epub` und
+**ERROR=0/WARNING=3/INFO=7**; EPUB `...-20261122-170919.epub` und
 Paperback-Innenleben **233 Seiten** (5,5×8,5, classic, full_page, inkl.
 4 Anhangseiten mit drei Stammtafeln). Bereinigt:
 Wikisource-Apparat entfernt, Kolophone vereinheitlicht, 014-Lücken im

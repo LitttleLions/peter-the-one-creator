@@ -719,7 +719,7 @@ Bundsteg).
   `stil-01-original/006/stil-01-scene-01.md` heißt jetzt `scene-01.md` (der
   Loader sucht `scene-*.md` und fand 006 vorher nicht). Gate buchweit
   **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur `repetition_style` in 000
-  und 014). Exporte: EPUB `...-20261122-164445.epub` (17,7 MB, 7
+  und 014). Exporte: EPUB `...-20261122-170919.epub` (17,7 MB, 7
   Kapitelbilder, drei Anhang-Tafeln) und Paperback-Innenleben **233 Seiten**
   (5,5×8,5, classic, full_page, inkl. 4 Anhangseiten). Am 2026-11-22 nachgezogen: Wikisource-Apparat (Inhalts-TOC,
   ↑-Zeilen, Lizenztext) aus 000/001/008/010/012/014 entfernt,

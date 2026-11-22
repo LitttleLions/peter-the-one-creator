@@ -719,16 +719,17 @@ Bundsteg).
   `stil-01-original/006/stil-01-scene-01.md` heißt jetzt `scene-01.md` (der
   Loader sucht `scene-*.md` und fand 006 vorher nicht). Gate buchweit
   **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur `repetition_style` in 000
-  und 014). Exporte: EPUB `...-20261122-170919.epub` (17,7 MB, 7
-  Kapitelbilder, drei Anhang-Tafeln) und Paperback-Innenleben **233 Seiten**
-  (5,5×8,5, classic, full_page, inkl. 4 Anhangseiten). Am 2026-11-22 nachgezogen: Wikisource-Apparat (Inhalts-TOC,
+  und 014). Exporte: EPUB `...-20261122-175500.epub` (7
+  Kapitelbilder, drei Anhang-Tafeln + Quellen-Exkurse) und Paperback-Innenleben **244 Seiten**
+  (5,5×8,5, classic, full_page, inkl. Anhänge). Am 2026-11-22 nachgezogen: Wikisource-Apparat (Inhalts-TOC,
   ↑-Zeilen, Lizenztext) aus 000/001/008/010/012/014 entfernt,
   Kolophone vereinheitlicht, die fehlenden Haupttextsätze in 014
   (Qachidut/Laosasut, Tammachin-Rückkehr, Dschürtschet/Jalairtai) ergänzt
-  und die Kamel-Anmerkung korrigiert. **Nicht** übersetzt: die beiden
-  langen Quellen-Exkurse in 014/2 (Westfeldzug/Rus, Jalairtai/Goryeo) –
-  bewusst offen für Weg B. Es gibt kein `cover-print.*`, daher noch kein Komplett-/Wrap-
-  Cover. Weg B (Edition in `stil-04-original-geheim`) bleibt als späterer
+  und die Kamel-Anmerkung korrigiert. **Übersetzt als Anhang** (2026-11-22):
+  die beiden langen Quellen-Exkurse in 014/2 (Westfeldzug/Rus, Jalairtai/Goryeo)
+  stehen in `work/appendices/de/stil-01-original/quellen-exkurse-014.md`.
+  Druckcover `cover-print.jpg` und Wrap `cover-wrap-20261122-175344-244.pdf`
+  liegen vor. Weg B (Edition in `stil-04-original-geheim`) bleibt als späterer
   Qualitätslauf möglich: 284 Szenen offen; 006/09 ist eine reine Titelzeile
   und würde als `empty_or_short`/`degeneration` blockieren. Vor jedem B-Lauf
   `--style stil-04-original-geheim` explizit mitgeben, sonst plant der Default
@@ -798,8 +799,8 @@ Bundsteg).
   (011/03, 002/11, 003/05, 009/08, 010/01, 010/02), Buch-EPUB neu mit Gate
   0 Fehler; offen nur noch Kindle Previewer und eine menschliche Stichprobe
   der drei zuletzt neu uebersetzten Szenen; Mongolen: Weg A umgesetzt
-  (Kapitelmodus, Gate 0/3/7, EPUB + Paperback 233 Seiten; offen nur
-  Cover-print/Wrap, optional Weg B); Chronik (2026-11-11): Uebernahme und alle Formate
+  (Kapitelmodus, Gate 0/3/7, EPUB + Paperback 244 Seiten, Cover-print + Wrap
+  fertig; optional Weg B); Chronik (2026-11-11): Uebernahme und alle Formate
   fertig, Gate 0/0/0 - offen nur der KDP-Upload;
   Pharao: 4k-Druckcover, Satz 609 Seiten und Wrap fertig, bei KDP hochgeladen
   (Testbuch, Nutzer prueft die Druckansicht); offen dort die Rueckmeldung;

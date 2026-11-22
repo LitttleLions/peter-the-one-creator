@@ -441,12 +441,15 @@ Loader sucht `scene-*.md` und fand 006 vorher nicht).
 Stand:
 - Gate buchweit **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur
   `repetition_style` in 000 und 014; 006 ist 0/0/0).
-- EPUB `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-170919.epub`
-  (17,7 MB, 7 Kapitelbilder 000-005 + 014, drei Anhang-Tafeln, Gate ohne Bypass).
+- EPUB `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-175500.epub`
+  (7 Kapitelbilder 000-005 + 014, drei Anhang-Tafeln + Quellen-Exkurse, Gate ohne Bypass).
 - Paperback-Innenleben
-  `...-55x85-classic-full-20261122-170923-paperback-interior.pdf`
-  (233 Seiten inkl. 4 Anhangseiten, 5,5x8,5, classic, full_page; Hinweis:
-  Kapitelbild 000 mit 289 dpi). Kein `cover-print.*` -> kein Komplett-PDF/Wrap.
+  `...-55x85-classic-full-20261122-175432-paperback-interior.pdf`
+  (244 Seiten inkl. Anhaenge, 5,5x8,5, classic, full_page; Hinweis:
+  Kapitelbild 000 mit 289 dpi).
+- Druckcover `assets/covers/cover-print.jpg` (2336x3504, gpt_image_2_5 4k)
+  + Wrap `cover-wrap-20261122-175344-244.pdf` (301,2 x 222,2 mm, Ruecken
+  15,49 mm).
 - `stil-04-original-geheim` unveraendert: 006 (20/20 Dateien, aber Szene 09
   ist eine reine Titelzeile -> `empty_or_short`/`degeneration`) und 014
   (12/13). Weg B bleibt optional: 284 Szenen; vorher 006/09 klaeren.
@@ -462,13 +465,15 @@ Nachtrag 2026-11-22 (Textbereinigung nach der Pruefung von 014):
   (Maultiernamen), Tammachin-Rueckkehr, Dschuertschet/Jalairtai-Tamma.
   Kamel-Anmerkung korrigiert: `Gürin-Ere’üd` sind Kamelnamen, nicht
   "Pferde oder Kleidung". Kolophon 014 auf "Ende des zwoelften Buches".
-- **Nicht** uebersetzt: die beiden langen Quellen-Exkurse in 014/2
-  (Westfeldzug/Rus, Zeilen 5-23; Jalairtai/Goryeo, Zeilen 25-31 der Quelle
-  `work/legacy/scenes-ja-sections-20261122/014/scene-02.md`). Die Leseausgabe
-  bleibt bewusst ohne diese Forschungsdiskurse; fuer Weg B nachziehen.
-- Offen ausserdem: Kapitel 013/014 tragen im TOC die Ordinaltitel
-  "Dreizehntes/Vierzehntes Kapitel", obwohl sie im Quellenschnitt 12-1 und
-  12-2 sind (Gruppe "Zwoelftes Buch"). Anzeige ggf. auf Teil 1/2 umstellen.
+- **Uebersetzt als Anhang** (2026-11-22): die beiden langen Quellen-Exkurse
+  in 014/2 (Westfeldzug/Rus, Zeilen 5-23; Jalairtai/Goryeo, Zeilen 25-31 der
+  Quelle `work/legacy/scenes-ja-sections-20261122/014/scene-02.md`) stehen
+  jetzt als `work/appendices/de/stil-01-original/quellen-exkurse-014.md` im
+  Buch (`appendices:` in `export.yaml`); die Leseausgabe bleibt im Haupttext
+  frei von den Forschungsdiskursen.
+- Erledigt (2026-11-22): TOC-Anzeige - Kapitel 013/014 erscheinen als
+  "Teil 1"/"Teil 2" (Gruppe "Zwoelftes Buch"), Kapitel 000 als "Einleitung"
+  (statt "0stes Kapitel"); die redundante Gruppe `joron` ist entfernt.
 
 ### Genealogie und Grafik (2026-11-22)
 
@@ -509,8 +514,9 @@ Nachtrag 2026-11-22 (Textbereinigung nach der Pruefung von 014):
   statt č), `names.yaml` um ~50 Personen/Staemme/Ordo-Gemahlinnen ergaenzt;
   Datenblaetter und Tafeln auf den Kanon umgestellt (Boerte Tschino, Sali
   Qatschu, Sem Sotschi, Qartschu, Yesuei/Yesuegen/Shiremuen).
-- Offen: wortgetreue Pruefung gegen die gedruckte Ausgabe; Uebersetzung der
-  beiden Quellen-Exkurse 014/2 (Westfeldzug/Rus, Jalairtai/Goryeo) – im Plan.
+- Offen: wortgetreue Pruefung der genealogischen Arbeitsuebersetzung gegen die
+  gedruckte Ausgabe (2026-11-22 teilweise erfolgt: §47/§51 belegt,
+  §43/§49/§52 bleiben unsicher).
 
 Checkliste (nur falls Weg B spaeter kommt; `--style` immer explizit):
 

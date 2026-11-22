@@ -1,5 +1,3 @@
-# Quellen und Ausgaben
-
 Die Geheime Geschichte ist nur in chinesischer Lautumschrift überliefert. Ihre Erschließung stützt sich auf chinesische, persische und europäische Quellen sowie auf die neuere Forschung. Die im Text genannten Werke, nach Gruppen geordnet:
 
 ## Chinesische Quellen

@@ -15,7 +15,7 @@ Mongolen weiterfuehren, Stand 2026-11-22).
 
 ---
 
-## Prompt E: Geheime Geschichte der Mongolen weiterfuehren (Stand 2026-11-22)
+## Prompt E: Geheime Geschichte der Mongolen weiterfuehren (Stand 2026-11-22, Weg A umgesetzt)
 
 ```text
 Lies AGENTS.md, README.md und den Mongolen-Abschnitt in
@@ -23,19 +23,22 @@ docs/offene-punkte.md (Punkt 5). Arbeite in C:\code\peter-the-one auf
 main: erst `git fetch` und Abgleich, bei Abweichung oder uncommitteten
 Aenderungen anhalten und fragen.
 
-Stand (gemessen 2026-11-22): 15 Kapitel, Quelle ja->de mit 317 Szenen.
-Die DE-Fassung liegt als Monolith vor (je 1 Szene in stil-01-original),
-deshalb meldet der Gate ERROR=303 (`missing_de_scene`). Im Szenenformat
-fertig sind 006 (20/20) in stil-04-original-geheim und 014 (12/13,
-Szene 07 fehlt); 000 ist 1:1. Offen: 284 Szenen in 13 Kapiteln
-(001-005, 007-013 komplett + 014/07).
+Stand (2026-11-22, Weg A umgesetzt): 15 Kapitel, structure.mode
+chapter_as_scene. Die 317 §-Abschnitte der japanischen Edition liegen
+archiviert unter work/legacy/scenes-ja-sections-20261122/, die Quell-Szenen
+wurden je Kapitel als scene-01.md neu gezogen. Gate buchweit
+ERROR=0/WARNING=3/INFO=7; EPUB ...-20261122-153720.epub und
+Paperback-Innenleben 230 Seiten (5,5x8,5, classic, full_page). Kein
+cover-print.* -> kein Wrap. stil-04-original-geheim: 006 (20/20 Dateien,
+Szene 09 ist eine Titelzeile) und 014 (12/13).
 
 Aufgabe heute: [hier eintragen]
-- Weg A (schnell): structure.mode auf chapter_as_scene, Gate laufen
-  lassen, danach EPUB/Print bauen.
-- Weg B (geplant): abschnittsweise in stil-04-original-geheim, hoechstens
+- Weg B (optional): abschnittsweise in stil-04-original-geheim, hoechstens
   5 Kapitel pro Paket, je Kapitel assemble_chapter + review_manuscript
-  --chapter NNN --llm none, danach Kurzbericht (nur ERROR/WARNING/INFO).
+  --chapter NNN --llm none, danach Kurzbericht (nur ERROR/WARNING/INFO);
+  vorher 006/09 klaeren.
+- Print-Feinschliff: cover-print.* besorgen, danach Wrap bauen
+  (tools/build_cover.py) und Paperback neu setzen.
 
 Regeln: `--style stil-04-original-geheim` immer explizit mitgeben (sonst
 plant der Default stil-01 Kapitel 006 mit); keine Uebersetzung, keine

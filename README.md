@@ -106,14 +106,15 @@ Regal `website.enabled: true` (sort_order 100). Gate **ERROR=1** – dafür
 muss 001 ("матриzen") in RomanForge korrigiert werden; 012/015 sind als
 echte Zitate freigegeben. Details: `docs/HANDOVER.md`.
 Geheime Geschichte der Mongolen (`books/geheime-geschichte-mongolen/`,
-Anonym, `ja→de`): alle 15 Kapitel sind übersetzt, liegen aber als Monolithe
-vor (je 1 Szene in `stil-01-original`); der Gate meldet deshalb **ERROR=303**
-(`missing_de_scene`). Im Szenenformat fertig sind 006 (20/20) und 014 (12/13)
-in `stil-04-original-geheim`; 000 ist 1:1. **Offen: 284 Szenen in 13 Kapiteln**
-(001–005, 007–013 komplett plus 014/07). Nächster Schritt: Entscheidung Weg A
-(Kapitel-Export aus den Monolithen) oder Weg B (Szenen abschnittsweise) –
-Übergabeprompt E in `docs/uebergabe-prompt.md`, Checkliste in
-`docs/offene-punkte.md` §5.
+Anonym, `ja→de`): **Weg A am 2026-11-22 umgesetzt** – `structure.mode:
+chapter_as_scene`, 15 Kapitel als Arbeitseinheit; die 317 §-Abschnitte der
+japanischen Edition liegen archiviert unter
+`work/legacy/scenes-ja-sections-20261122/` (und in der Git-Historie). Gate
+**ERROR=0/WARNING=3/INFO=7**; EPUB `...-20261122-153720.epub` und
+Paperback-Innenleben **230 Seiten** (5,5×8,5, classic, full_page). Offen:
+`cover-print.*` fehlt (kein Wrap), optional später Weg B (Edition in
+`stil-04-original-geheim`, 284 Szenen). Details: `docs/offene-punkte.md` §5,
+Übergabeprompt E in `docs/uebergabe-prompt.md`.
 Der Lotse von Ruegen (`books/der-lotse-von-ruegen/`, Timo Verita,
 DE-Original): 33/33 Kapitel, Gate ERROR=0/WARNING=0/INFO=20, Cover +
 Kapitelbilder 001-010; Regal-Freigabe `website.enabled: true`

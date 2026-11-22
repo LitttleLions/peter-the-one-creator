@@ -425,43 +425,40 @@ Echt nur mit Freigabe mit `--provider openrouter --auto-status --assemble-after`
 
 Status: OFFEN.
 
-## 5. Geheime Geschichte der Mongolen: 284 Szenen offen
+## 5. Geheime Geschichte der Mongolen: Weg A umgesetzt (2026-11-22)
 
-Was: Quelle `ja->de`, `structure.mode: scenes`, 15 Kapitel mit **317
-Quell-Szenen**. `stil-04-original-geheim` = Interlinear/Edition (kein Lesestil).
+Was: Quelle `ja->de`, 15 Kapitel; die japanische Edition hat **317
+§-Abschnitte**. `stil-04-original-geheim` = Interlinear/Edition (kein Lesestil).
 
-Stand 2026-11-22 (gemessen):
-- Alle 15 Kapitel sind uebersetzt, aber als **Monolith** (je 1 Szene in
-  `stil-01-original`). Der Gate meldet deshalb buchweit **ERROR=303**
-  (`missing_de_scene`), WARNING=3, INFO=7 - die Struktur passt nicht, nicht der Text.
-- Im Szenenformat fertig: **006** (20/20 in `stil-04-original-geheim`) und
-  **014** (12/13, **Szene 07 fehlt**); 000 ist 1:1.
-- **Offen: 284 Szenen in 13 Kapiteln** - 001 (69), 002 (35), 003 (25), 004 (25),
-  005 (25), 007 (15), 008 (12), 009 (23), 010 (17), 011 (12), 012 (16), 013 (9)
-  plus 014/07.
-- Alter EPUB-Stand vom 2026-07-21 ist veraltet.
+Entscheidung 2026-11-22: **Weg A** (Kapitel-Export). `structure.mode:
+chapter_as_scene`; die 317 Quell-Abschnitte liegen archiviert unter
+`work/legacy/scenes-ja-sections-20261122/` (alle Dateien ausserdem in der
+Git-Historie), die Quell-Szenen wurden je Kapitel als `scene-01.md` neu aus
+`work/chapters/` gezogen. Das bisher falsch benannte
+`stil-01-original/006/stil-01-scene-01.md` heisst jetzt `scene-01.md` (der
+Loader sucht `scene-*.md` und fand 006 vorher nicht).
 
-Zwei Wege:
-- **A (schnell)**: `structure.mode: chapter_as_scene` setzen, Gate neu laufen,
-  dann EPUB/Paperback aus den Monolithen. Kapitel 006 muesste aus `stil-04`
-  nach `stil-01` ueberfuehrt werden.
-- **B (geplant)**: abschnittsweise in `stil-04-original-geheim` uebersetzen,
-  max. 5 Kapitel pro Paket, je Kapitel `assemble_chapter` +
-  `review_manuscript --chapter NNN --llm none`.
+Stand:
+- Gate buchweit **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur
+  `repetition_style` in 000 und 014; 006 ist 0/0/0).
+- EPUB `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-153720.epub`
+  (16,9 MB, 7 Kapitelbilder 000-005 + 014, Gate ohne Bypass).
+- Paperback-Innenleben
+  `...-55x85-classic-full-20261122-153728-paperback-interior.pdf`
+  (230 Seiten, 5,5x8,5, classic, full_page; Hinweis: Kapitelbild 000 mit
+  289 dpi). Kein `cover-print.*` -> kein Komplett-PDF/Wrap.
+- `stil-04-original-geheim` unveraendert: 006 (20/20 Dateien, aber Szene 09
+  ist eine reine Titelzeile -> `empty_or_short`/`degeneration`) und 014
+  (12/13). Weg B bleibt optional: 284 Szenen; vorher 006/09 klaeren.
 
-Kritisch: immer `--style stil-04-original-geheim` explizit mitgeben.
-Uebergabeprompt: `docs/uebergabe-prompt.md` (Prompt E).
-
-Checkliste:
+Checkliste (nur falls Weg B spaeter kommt; `--style` immer explizit):
 
 ```bat
 .\.venv\Scripts\python.exe tools/status.py --book geheime-geschichte-mongolen summary
 .\.venv\Scripts\python.exe tools/translate_batch.py --book geheime-geschichte-mongolen --missing --style stil-04-original-geheim --provider prompt_file --dry-run
 ```
 
-Echt nur abschnittsweise + Freigabe.
-
-Status: OFFEN - Weg noch nicht entschieden.
+Status: ERLEDIGT fuer Weg A - Weg B optional offen.
 
 ## 6. Dritte Chronik: Gate 0/13/36 + Redaktionstabelle (Stand 2026-09-19 abends)
 

@@ -69,18 +69,29 @@ eine Schwester.
 | Jadaran | Jajiradai („Adasi“, Sohn der gefangenen Frau) → Buri Bulchiru → Qara Qada'an → Dschamucha (Jamuqa) | 001/40 | Quelle gelesen, DE-Übersetzung ausstehend |
 | Ba'arin | Ba'ari'dai (Sohn der gefangenen Frau) → Chiduqul Bökö → zahlreiche Nachkommen | 001/41 | Quelle gelesen, DE-Übersetzung ausstehend |
 
-## 4. Noch nicht übersetzt / zu prüfen (Quelle 001/43–52)
+## 4. Nebenlinien (Abschnitte 40–52; übersetzt 2026-11-22)
 
-- Qabichi → Jüreidai → Jüre'it (001/43–44)
-- Menen Tudun und seine sieben Söhne: Qachi Külüg, Qachin, Qachiu, Qachula,
-  Qachiun, Qaraldai, Nachin Ba'atur (001/45–46)
-- Qaidu als Sohn des Qachi Külüg (001/46)
-- Bai Schingqor und seine Söhne (001/47)
-- Tumbinai Setschen und seine Söhne (001/48)
-- Qabul Khans Söhne sowie die Seitenlinie Ambaghai/Qutula (001/49–52)
+Arbeitsübersetzung: `work/genealogie/quelle-001-40-52-de.md` (sinngemäß,
+Glossen zusammengefasst; Statusmarken dort).
 
-Diese Abschnitte müssen für eine vollständige Stammtafel erst übersetzt und
-geprüft werden (Schritt 2).
+| Linie | Abfolge | Status |
+|---|---|---|
+| Jadaran | Jajiradai („Adasi“) → Buri Bulchiru → Qara Qada'an → Dschamucha | sicher |
+| Ba'arin | Ba'ari'dai → Chiduqul Bökö → Nachkommen | sicher |
+| Qabichi/Jüre'it | Qabichi → Jüreidai → Jüre'it | unsicher |
+| Menen Tudun | sieben Söhne: Qachi Külüg, Qachin, Qachiu, Qachula, Qachiun, Qaraldai, Nachin Ba'atur | sicher |
+| Qaidu | Sohn Qachi Külügs | unsicher |
+| Bai Schingqor | Söhne u. a. Tscharaqai Lingqu, Tschaujin Ortegai | unsicher |
+| Qabul Khan | sieben Söhne: Okin Barqaq, Baridan (Bartan), Qutuqtu Mönggür, Qutulan (Qutula), Qulan, Qada'an, Tödö'en Otchigin | sicher |
+| Qutuqtu | Söhne: Seche Beki, Taichu (Tayichi'ut) | unsicher |
+| Bartan Ba'atur | vier Söhne: Mönggetü Chigen, Negün Taisi, Yesügei, Daritai | sicher |
+| Qutula | Söhne: Jochi Qaghan, Altan, Qulan Ba'atur | unsicher |
+| Ambaghai | Qaghan der Mongolen; Verwandtschaft zu Qabul unklar | Herrschaft sicher |
+
+Die Gleichsetzung **Baridan = Bartan Ba'atur** (siebter Sohn Qabuls) ist eine
+redaktionelle Zuschreibung; die Liste selbst ist sicher. Die zweite Tafel
+(`assets/genealogie/nebenlinien-001.png`) zeigt diese Linien; gestrichelte
+Kästen markieren unsichere Relationen.
 
 ## 5. Namensabweichungen (für die Grafik zu klären)
 

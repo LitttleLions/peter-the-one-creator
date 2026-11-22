@@ -606,11 +606,12 @@ Status: ERLEDIGT 2026-10-21 – 10 Baende live (vorher 8; es fehlten
 `grin-wellenlaeuferin` und `pissemski-tausend-seelen`), Index und alle Cover
 antworten mit HTTP 200.
 
-Nachtrag 2026-11-22: Regal mit **12 Eintraegen** deployt (neu u. a.
-`der-zweite-orbit`), Index und Cover HTTP 200; Sicherung vorher
-`/root/classics-backup-20261122.tar.gz`. Route unveraendert:
-`tools/build_shelf_website.py` -> `tools/build_webpage_dist.py` -> `scp` nach
-`/tmp/classics-staging-*` -> `rsync -a --delete` in den Docroot.
+Nachtrag 2026-11-22: Regal mit **13 Eintraegen** deployt (neu u. a.
+`der-zweite-orbit`; `die-sprache-des-anderen` mit Amazon-Link
+`https://www.amazon.de/dp/B0HR1FMLTW`), Index und Cover HTTP 200; Sicherungen
+`/root/classics-backup-20261122.tar.gz` und `...-20261122b.tar.gz`. Route
+unveraendert: `tools/build_shelf_website.py` -> `tools/build_webpage_dist.py`
+-> `scp` nach `/tmp/classics-staging-*` -> `rsync -a --delete` in den Docroot.
 
 ## 8. Optional: Feature-Branch aufraeumen
 

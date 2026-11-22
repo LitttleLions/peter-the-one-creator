@@ -14,7 +14,7 @@
 
 Stapelung (13x: als 6x, oder 5x, wie 2x) in 94 Woertern ohne Satzende.
 
-> Auch in der Lautübersetzung gibt es Fälle, wo zwei Personen als eine Person (Neudai) eines Stammes (Neudai) oder als Tatar (Alchi Tatar) und Jalinbukha (Tatar) des Tatar-Stammes, oder als Onghirat (Dergek-emel) und Dergek, oder als Naiman (Guchunt Naiman) und Buirukh Khan (Naiman) des Naiman-Stammes, oder als König Merik (Kaiser Merik) der Westlichen Regionen, der in der Lautübersetzung als Merik Khan bezeichnet wird, [10] wobei viele Fehler wie bei der Verwechslung von General Toshihito und Fuj
+> Auch in der Lautübersetzung gibt es Fälle, wo zwei Personen als eine Person (Neudai) eines Stammes (Neudai) oder als Tatar (Alchi Tatar) und Jalinbukha (Tatar) des Tatar-Stammes, oder als Onghirat (Dergek-emel) und Dergek, oder als Naiman (Guchunt Naiman) und Buirukh Khan (Naiman) des Naiman-Stammes, oder als König Merik (Kaiser Merik) der Westlichen Regionen, der in der Lautübersetzung als Merik Khan bezeichnet wird, wobei viele Fehler wie bei der Verwechslung von General Toshihito und Fujiwara
 
 Empfehlung: Schachtelsatz gliedern.
 

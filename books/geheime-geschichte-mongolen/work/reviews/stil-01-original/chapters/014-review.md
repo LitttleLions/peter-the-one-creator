@@ -6,7 +6,7 @@
 - DE-Szenen: 1
 - Fehler: 0
 - Warnungen: 2
-- Hinweise: 2
+- Hinweise: 3
 
 ## Befunde
 
@@ -41,3 +41,11 @@ Stapelung (10x: wie 10x) in 53 Woertern ohne Satzende.
 > „Wild wie ein Löwe, ausdauernd und geduldig wie ein Hund, aufmerksam wie ein Kranich, listig wie ein Fuchs, weitsichtig wie ein Vogel, gierig wie ein Wolf, scharf im Kampf wie ein Hahn, das Kind bemitleidend wie eine Henne, sich heimlich anschleichend wie eine Katze, heftig beim Ergreifen der Beute wie ein Eber“ (Wolf 126)
 
 Empfehlung: Schachtelsatz gliedern.
+
+### INFO: repetition_style (014, Szene 01)
+
+Kapitel-TTR 0.25 bei 13096 Woertern.
+
+> TTR=0.25, Woerter=13096
+
+Empfehlung: Wortschatzarmut pruefen.

@@ -11,15 +11,15 @@
       "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\011\\scene-01.md",
       "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-01-original\\011\\scene-01.md",
       "ru_words": 1477,
-      "de_words": 7558,
+      "de_words": 7556,
       "findings": [
         {
           "severity": "INFO",
           "category": "repetition_style",
-          "message": "Kapitel-TTR 0.23 bei 7787 Woertern.",
+          "message": "Kapitel-TTR 0.23 bei 7786 Woertern.",
           "chapter": "011",
           "scene": 1,
-          "evidence": "TTR=0.23, Woerter=7787",
+          "evidence": "TTR=0.23, Woerter=7786",
           "recommendation": "Wortschatzarmut pruefen.",
           "source": "deterministic",
           "current_text": "",

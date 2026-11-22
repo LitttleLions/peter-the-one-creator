@@ -11,7 +11,7 @@
       "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-01.md",
       "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-01-original\\014\\scene-01.md",
       "ru_words": 1427,
-      "de_words": 13317,
+      "de_words": 13161,
       "findings": [
         {
           "severity": "WARNING",
@@ -66,6 +66,21 @@
           "scene": 1,
           "evidence": "„Wild wie ein Löwe, ausdauernd und geduldig wie ein Hund, aufmerksam wie ein Kranich, listig wie ein Fuchs, weitsichtig wie ein Vogel, gierig wie ein Wolf, scharf im Kampf wie ein Hahn, das Kind bemitleidend wie eine Henne, sich heimlich anschleichend wie eine Katze, heftig beim Ergreifen der Beute wie ein Eber“ (Wolf 126)",
           "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.25 bei 13096 Woertern.",
+          "chapter": "014",
+          "scene": 1,
+          "evidence": "TTR=0.25, Woerter=13096",
+          "recommendation": "Wortschatzarmut pruefen.",
           "source": "deterministic",
           "current_text": "",
           "suggested_text": "",

@@ -29,44 +29,7 @@ structure:
   # Die 317 §-Abschnitte der japanischen Edition liegen archiviert unter
   # work/legacy/scenes-ja-sections-20261122/ (und in der Git-Historie).
   mode: chapter_as_scene
-  label: Kapitel
-  groups:
-  - id: volume-1
-    label: Erstes Buch
-    chapters: [1]
-  - id: volume-2
-    label: Zweites Buch
-    chapters: [2]
-  - id: volume-3
-    label: Drittes Buch
-    chapters: [3]
-  - id: volume-4
-    label: Viertes Buch
-    chapters: [4]
-  - id: volume-5
-    label: Fuenftes Buch
-    chapters: [5]
-  - id: volume-6
-    label: Sechstes Buch
-    chapters: [6]
-  - id: volume-7
-    label: Siebtes Buch
-    chapters: [7]
-  - id: volume-8
-    label: Achtes Buch
-    chapters: [8]
-  - id: volume-9
-    label: Neuntes Buch
-    chapters: [9]
-  - id: volume-10
-    label: Zehntes Buch
-    chapters: [10]
-  - id: volume-11
-    label: Elftes Buch
-    chapters: [11, 12]
-  - id: volume-12
-    label: Zwoelftes Buch
-    chapters: [13, 14]
+  label: Buch
 display:
   chapters:
     format: words_de
@@ -75,8 +38,20 @@ display:
     include_source_title: false
     titles:
       "000": Einleitung
-      "013": Teil 1
-      "014": Teil 2
+      "001": Erstes Buch
+      "002": Zweites Buch
+      "003": Drittes Buch
+      "004": Viertes Buch
+      "005": Fünftes Buch
+      "006": Sechstes Buch
+      "007": Siebtes Buch
+      "008": Achtes Buch
+      "009": Neuntes Buch
+      "010": Zehntes Buch
+      "011": Elftes Buch · Teil 1
+      "012": Elftes Buch · Teil 2
+      "013": Zwölftes Buch · Teil 1
+      "014": Zwölftes Buch · Teil 2
   scenes:
     show: false
     format: number

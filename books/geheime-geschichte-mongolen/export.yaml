@@ -149,3 +149,8 @@ appendices:
     path: work/appendices/de/stil-01-original/quellen-exkurse-014.md
     source_chapter: "014"
     source_scene: 1
+  - style: stil-01-original
+    title: Quellen und Ausgaben
+    path: work/appendices/de/stil-01-original/quellenverzeichnis.md
+    source_chapter: "014"
+    source_scene: 1

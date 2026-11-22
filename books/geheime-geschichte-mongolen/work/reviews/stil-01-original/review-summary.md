@@ -2,13 +2,13 @@
 
 - Buch-ID: geheime-geschichte-mongolen
 - Stil: stil-01-original
-- Erstellt: 2026-11-22T17:55:12
+- Erstellt: 2026-11-22T19:29:34
 - LLM: none
 - Kapitel: 15
 - Kapitel mit Befunden: 6
 - Fehler: 0
 - Warnungen: 3
-- Hinweise: 7
+- Hinweise: 8
 
 ## Kapitel
 
@@ -26,4 +26,4 @@
 - 011: Befund (ERROR=0, WARNING=0, INFO=1)
 - 012: OK (ERROR=0, WARNING=0, INFO=0)
 - 013: Befund (ERROR=0, WARNING=0, INFO=1)
-- 014: Befund (ERROR=0, WARNING=2, INFO=2)
+- 014: Befund (ERROR=0, WARNING=2, INFO=3)

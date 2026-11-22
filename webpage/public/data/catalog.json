@@ -83,7 +83,7 @@
     {
       "id": "die-dritte-chronik",
       "title": "Die dritte Chronik",
-      "subtitle": "Die Chronik derer, die nicht schreiben duerfen",
+      "subtitle": "Im Schatten Dschingis Khans",
       "author": "Timo Verita",
       "summary": "1241 stirbt Großkhan Ögedei – und seine Witwe Töregene ergreift noch in der Todesnacht die Macht. An ihrer Seite steht Fatima, Kriegsgefangene aus Chorasan und Schattenkanzlerin des Reiches: Sie schreibt die Briefe der Regentin, entscheidet über Zugang und Gnade – und führt heimlich eine zweite Chronik, Briefe an ihre tote Schwester.\nGegen sie steht Shigi Qutuqu, Oberrichter und Hüter der Geheimen Geschichte. Neben ihr Ata-Malik Juvaini, junger persischer Schreiber, der Karriere macht und sich in die Frau verliebt, die sein Land verloren hat. Als Töregenes Sohn Güyük den Thron besteigt, wird Geschichte zur Beute – und Fatima soll den einen Namen liefern, der einen Krieg entfesseln könnte. Sie verweigert. Ihre Hinrichtung ist historisch belegt; ihre Chronik galt als verschollen.\nDieser Roman behauptet ihren Fund. Rahmung und vier Akte, drei Stimmen, ein durchgehendes Geheimnis: Texte überleben ihre Schreiber. Genau davon handelt das Buch.",
       "coverUrl": "./covers/die-dritte-chronik.jpg",
@@ -99,6 +99,26 @@
       "coverUrl": "./covers/geheime-geschichte-mongolen.png",
       "amazonUrl": "",
       "sortOrder": 70
+    },
+    {
+      "id": "der-lotse-von-ruegen",
+      "title": "Der Lotse von Rügen",
+      "subtitle": "Ein Rügen-Roman aus dem September 1715",
+      "author": "Timo Verita",
+      "summary": "September 1715, südöstliches Rügen. Im Greifswalder Bodden halten die Schweden eine Sperre aus versenkten Schiffen, Ballaststeinen und wechselnden Wassertiefen. Wer durch das Neue Tief will, braucht einen Mann wie Joren Voss.\nJoren ist zweiundfünfzig, Lotse aus Thiessow, Ehemann und Vater. Als der schwedische Leutnant Nils Rask örtliche Boote und Hände für Arbeiten an der Sperre verlangt, empfiehlt Joren einen kurzen, begrenzten Einsatz – und nennt den Fischer Dierk Arndt, weil der ein Fahrzeug führen kann. Rask stellt wenige Tage in Aussicht. Vier Fischer gehen an Bord. Sie kommen nicht zurück.\nMaren, sechsundzwanzig, liest, kopiert und rechnet im Haushalt des Küsters von Middelhagen. Sie kennt die Haushalte, Verwandtschaften, Besitzanteile und Ansprüche, die hinter den Namen auf den Listen stehen. Während ihr Vater zwischen schwedischen und dänischen Offizieren zu vermitteln versucht, bringt sie Boote in Sicherheit, um weiteren Zugriffen zuvorzukommen – und löst damit Folgen aus, die auch die bereits festgehaltenen Männer treffen.\nVater und Tochter handeln auf getrennten Wegen für dasselbe Ziel. Erst unmittelbar vor der Durchfahrt sagen sie einander, was sie versprochen haben und was nicht. Was folgt, ist keine triumphale Befreiung: eine Fahrt zwischen Wracks und Beschuss, der Verlust eines Bootes, die Frage nach Schuld, verletzte Männer und ein wiedergefundenes Maß an Zutrauen. Ein kurzer Epilog zehn Jahre später hält fest, was daraus geworden ist.",
+      "coverUrl": "./covers/der-lotse-von-ruegen.jpg",
+      "amazonUrl": "",
+      "sortOrder": 90
+    },
+    {
+      "id": "der-zweite-orbit",
+      "title": "Der zweite Orbit",
+      "subtitle": "Ein Nova-Terra-Roman",
+      "author": "Timo Verita",
+      "summary": "November 2057. Durch eine Gravitations-Anomalie am Rand des Sonnensystems\nerreicht das private Bergbau-Konsortium Aethelgard Ventures den Exoplaneten\nNova Terra. Das Bodenteam um Expeditionsleiterin Victoria Sterling hat 28\nTage, um Helium-3 und Seltene Erden zu fördern und den Treibstoff für den\nRückflug zu synthetisieren; danach schließt sich das Transferfenster für\ndrei Jahre.\n\nDoch die Bohrtürme werden sabotiert: chirurgisch präzise, ohne Tote.\nHinter den humanoiden Robotern, die nachts durch den Ascheregen gehen,\nsteckt etwas, das die Menschen nicht einordnen können. Während das Camp um\nVictoria Sterling mit Waffengewalt antwortet, suchen der Systemarchitekt\nHenrik Vance und die Kynologin Elena Koroljowa nach einer anderen Antwort –\nund stoßen auf Spuren, die tiefer reichen als der erste Kontakt.\n\nEin Science-Fiction-Thriller über Vertrauen, Schuld und die Frage, ob der\nMensch einer anderen Intelligenz auf Augenhöhe begegnen kann.",
+      "coverUrl": "./covers/der-zweite-orbit.jpg",
+      "amazonUrl": "",
+      "sortOrder": 100
     }
   ]
 }

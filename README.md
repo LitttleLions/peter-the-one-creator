@@ -95,6 +95,16 @@ Wrap 306,6 x 222,2 mm mit 20,96 mm Ruecken und Druckcover
 `assets/covers/cover-print.jpg`. Offen: KDP-Upload und Kindle-Preview;
 Details in `docs/higgsfield-integration.md` und `docs/offene-punkte.md`
 Punkt 14.
+Der zweite Orbit (`books/der-zweite-orbit/`, Timo Verita, DE-Original,
+Science Fiction): am 2026-11-21/22 als **NEU** aus RomanForge (Projekt 12,
+Übergabe `90ca9b7c`) angelegt – 30 Kapitel, 89.532 Wörter, Untertitel
+"Ein Nova-Terra-Roman", Reihe Die Nova-Terra-Chroniken Band 1. Titelei
+spoilerfrei (Laika-Twist bleibt verborgen), Cover + Kapitelbilder 001-030
+(`gpt_image_2_5`, 2k), EPUB/A5-PDF/Paperback 272 Seiten und Wrap
+`cover-wrap-20261122-135104-272.pdf` (328,4 x 234,9 mm, Rücken 17,27 mm),
+Regal `website.enabled: true` (sort_order 100). Gate **ERROR=1** – dafür
+muss 001 ("матриzen") in RomanForge korrigiert werden; 012/015 sind als
+echte Zitate freigegeben. Details: `docs/HANDOVER.md`.
 Der Lotse von Ruegen (`books/der-lotse-von-ruegen/`, Timo Verita,
 DE-Original): 33/33 Kapitel, Gate ERROR=0/WARNING=0/INFO=20, Cover +
 Kapitelbilder 001-010; Regal-Freigabe `website.enabled: true`

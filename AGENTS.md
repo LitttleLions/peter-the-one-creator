@@ -103,7 +103,7 @@ KIs bearbeitet wird und eine lokale Memory Bank dadurch schnell veraltet
 bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md,
 `docs/HANDOVER.md` sowie die buchlokalen `book.yaml`- und `export.yaml`-Dateien.
 
-Aktuelle Buchpakete (17):
+Aktuelle Buchpakete (18):
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina (PARKIERT 09/2026)
@@ -122,6 +122,7 @@ Aktuelle Buchpakete (17):
 - `books/der-lotse-von-ruegen/` - Timo Verita, Der Lotse von Ruegen (DE-Original; RomanForge-Uebernahme 2026-10-21: 33/33 Kapitel, Gate 0/0/20, Cover + Kapitelbilder 001-010; Regal `website.enabled: true`, sort_order 90, noch nicht live)
 - `books/der-lotse/` - Timo Verita, Der Lotse von Rügen (zweites Paket desselben Romans, aus `origin/main` übernommen 2026-10-28: 32 Kapitel, 32 Kapitelbilder, Gate 0/1/42, `website.enabled: false`; **Doppelablage** - vor jeder Aktion an einem der beiden Lotse-Pakete Rueckfrage)
 - `books/perfect.sight/` - William Horatio Bates, Perfect Sight Without Glasses (Sachbuch, `en->de`, Stil `stil-05-sachbuch`; Kapitelbilder aus Originalscans, `inline_figures` bewusst aus)
+- `books/der-zweite-orbit/` - Timo Verita, Der zweite Orbit (DE-Original, Science Fiction; NEU aus RomanForge 2026-11-21/22, Projekt 12, Übergabe `90ca9b7c`: 30 Kapitel, 89.532 Wörter, Untertitel "Ein Nova-Terra-Roman", Reihe Die Nova-Terra-Chroniken Band 1. Titelei spoilerfrei (Laika-Twist), Cover + Kapitelbilder 001-030 (`gpt_image_2_5`, 2k), EPUB/A5-PDF/Paperback 272 Seiten/Wrap `cover-wrap-20261122-135104-272.pdf` (328,4 x 234,9 mm, Rücken 17,27 mm), Regal `website.enabled: true` sort_order 100; Gate ERROR=1 - 001 "матриzen" in RomanForge korrigieren, 012/015 per `work/review-allowlist.yaml` als Zitate freigegeben)
 
 ## Buchpaket-Struktur
 

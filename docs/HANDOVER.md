@@ -7,6 +7,47 @@
 > **Diese Datei erst lesen, wenn die konkrete Aufgabe sie braucht.**
 > Einstiegskosten und Hebel (gemessen): [kontextanalyse.md](./kontextanalyse.md).
 
+## Session 2026-11-21/22 (`der-zweite-orbit`: NEU aus RomanForge, Cover, 30 Kapitelbilder, alle Formate)
+
+Branch **`main`**. Neues DE-Original aus RomanForge (Projekt 12, Übergabe
+`90ca9b7c`, 21.11.2026). Der Prompt meldete Modus AKTUALISIEREN, das Buch
+fehlte aber in peter; nach Rückfrage als **NEU** angelegt
+(`import_markdown_original.py --new --handoff`, `--title "Der zweite Orbit"`).
+30 Kapitel, 89.532 Wörter, Autor Timo Verita, Reihe "Die Nova-Terra-Chroniken".
+
+- **Titelei** aus der Vorlage `die-sprache-des-anderen`: Zusammenfassung,
+  Klappentext, Autorenleben, Rechte, Impressum. Verlag/Herausgeber korrigiert
+  (`publisher: Motivatier Stiftung`, `editor: Motivatier Classics`).
+  Untertitel **"Ein Nova-Terra-Roman"**, `series_volume: 1`
+  (`dc:subtitle` + `group-position` im EPUB).
+- **Spoiler-Regel:** Der Laika-Hintergrund ist im Buch ein Twist und steht
+  **nicht** in Zusammenfassung, Klappentext oder Autorenleben (Fassung
+  2026-11-22). Genre überall nur "Science Fiction", kein "Hard SF".
+- **Cover** `assets/covers/cover-print.jpg` (2336x3504, `gpt_image_2_5`,
+  Typografie im Bild, Prompt `work/prompts/higgsfield/cover-print-4k-20261121.md`).
+- **Kapitelbilder 001-030**: `gpt_image_2_5`, 2k/high (2,25 Credits/Bild),
+  Vignetten unter `work/prompts/higgsfield/vignettes/` (001-007 Handarbeit,
+  008-030 per `--vignette-provider openrouter`), Stilanker
+  `illustration_setting`/`illustration_world` in `book.yaml` (Cover-Optik,
+  bewusst ohne Textverbot). Reader-Fassungen über
+  `optimize_asset_images.py --source master` auf 764x1024 (EPUB 6,8 MB statt
+  47 MB); alte Fassungen als `*_alt.jpg` (gitignored).
+- **Formate** (Textstand 89.532 Wörter): EPUB
+  `...-20261122-134952.epub` (6,8 MB, 30 Bilder), A5-PDF
+  `...-20261122-134958.pdf` (439 Seiten), Paperback 6x9 classic/full_page
+  **272 Seiten** (keine Leerseiten), Wrap `cover-wrap-20261122-135104-272.pdf`
+  (328,4 x 234,9 mm, Rücken **17,27 mm**).
+- **Gate**: 012 "ОСТ 4784-49" und 015 "СССР – СПУТНИК-2" sind echte Zitate und
+  stehen in `work/review-allowlist.yaml`; **ERROR=1** bleibt für 001
+  ("матриzen", Tippfehler im RomanForge-Text). Exporte daher mit
+  `--allow-review-errors` (`review_gate_errors` im Manifest).
+- **Regal**: `website.enabled: true`, `sort_order: 100`, Katalog neu gebaut
+  (`webpage/public/data/catalog.json` enthält den Titel); `amazon:`-Block
+  (Keywords/Kategorien/Preise) angelegt, Amazon-URL noch leer.
+- **Offen**: 001 in RomanForge korrigieren, dann `--accept 001`, neu
+  assemblieren/reviewen und die Exporte **ohne** Bypass bauen; KDP-Upload;
+  ggf. größere/randlose Bildseiten im Paperback.
+
 ## Letzte Session (2026-11-11 abends, `die-dritte-chronik`: RomanForge-Uebernahme + neue Saetze)
 
 Branch **`main`**. Die Chronik wurde komplett auf die RomanForge-Uebergabe

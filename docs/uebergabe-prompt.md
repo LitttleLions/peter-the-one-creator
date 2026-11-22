@@ -15,37 +15,49 @@ Mongolen weiterfuehren, Stand 2026-11-22).
 
 ---
 
-## Prompt E: Geheime Geschichte der Mongolen weiterfuehren (Stand 2026-11-22, Weg A umgesetzt)
+## Prompt E: Geheime Geschichte der Mongolen weiterfuehren (Stand 2026-11-22, nach Namensdurchgang)
 
 ```text
-Lies AGENTS.md, README.md und den Mongolen-Abschnitt in
-docs/offene-punkte.md (Punkt 5). Arbeite in C:\code\peter-the-one auf
-main: erst `git fetch` und Abgleich, bei Abweichung oder uncommitteten
-Aenderungen anhalten und fragen.
+Lies AGENTS.md, README.md (Mongolen-Absatz) und docs/offene-punkte.md
+(Punkt 5). Arbeite in C:\code\peter-the-one auf main: erst `git fetch` und
+Abgleich, bei Abweichung oder uncommitteten Aenderungen anhalten und fragen.
 
-Stand (2026-11-22, Weg A umgesetzt): 15 Kapitel, structure.mode
-chapter_as_scene. Die 317 §-Abschnitte der japanischen Edition liegen
-archiviert unter work/legacy/scenes-ja-sections-20261122/, die Quell-Szenen
-wurden je Kapitel als scene-01.md neu gezogen. Gate buchweit
-ERROR=0/WARNING=3/INFO=7; EPUB ...-20261122-155635.epub und
-Paperback-Innenleben 229 Seiten (5,5x8,5, classic, full_page). Kein
-cover-print.* -> kein Wrap. Apparat bereinigt, 014-Haupttext ergaenzt;
-die zwei langen Quellen-Exkurse in 014/2 (Westfeldzug/Rus,
-Jalairtai/Goryeo) sind bewusst nicht uebersetzt. stil-04-original-geheim:
-006 (20/20 Dateien, Szene 09 ist eine Titelzeile) und 014 (12/13).
+Stand (2026-11-22): 15 Kapitel, structure.mode chapter_as_scene; die 317
+§-Abschnitte der japanischen Edition liegen archiviert unter
+work/legacy/scenes-ja-sections-20261122/. Gate buchweit
+ERROR=0/WARNING=3/INFO=6. EPUB ...-20261122-170919.epub (17,7 MB, drei
+Stammtafeln eingebettet), Paperback-Innenleben
+...-20261122-170923-paperback-interior.pdf (233 Seiten, 5,5x8,5, classic,
+full_page, 4 Anhangseiten). Erledigt: Wikisource-Apparat entfernt, Kolophone
+vereinheitlicht, 014-Haupttext ergaenzt, Kamel-Anmerkung korrigiert,
+Namensdurchgang (Yesuegei/Oegedei/Dschamucha/Bodonchar/Ba'atur/Hoeluen,
+"tsch"-Konvention, names.yaml +~50 Eintraege), drei Drucktafeln als
+Bildanhang (appendices: in export.yaml; Pandoc braucht --resource-path, die
+Print-CSS-Regel .appendix-text img deckelt die Tafeln). Kein cover-print.*
+-> kein Wrap.
 
-Aufgabe heute: [hier eintragen]
-- Weg B (optional): abschnittsweise in stil-04-original-geheim, hoechstens
-  5 Kapitel pro Paket, je Kapitel assemble_chapter + review_manuscript
-  --chapter NNN --llm none, danach Kurzbericht (nur ERROR/WARNING/INFO);
-  vorher 006/09 klaeren.
-- Print-Feinschliff: cover-print.* besorgen, danach Wrap bauen
-  (tools/build_cover.py) und Paperback neu setzen.
+Naechste Schritte (in dieser Reihenfolge):
+1. Quellen-Exkurse 014/2 uebersetzen: Quelle
+   work/legacy/scenes-ja-sections-20261122/014/scene-02.md, Zeilen 5-23
+   (Westfeldzug/Rus) und 25-31 (Jalairtai/Goryeo). In Kapitel 014 integrieren
+   oder als Anhang auslagern; danach Gate + Kurzbericht (nur
+   ERROR/WARNING/INFO). Uebersetzung nur nach ausdruecklicher Freigabe des
+   Nutzers.
+2. Arbeitsuebersetzung §40-52 (work/genealogie/quelle-001-40-52-de.md)
+   gegen die gedruckte Ausgabe pruefen; die als "unsicher" markierten
+   Relationen klaeren.
+3. TOC-Anzeige: Kapitel 013/014 sind im Quellenschnitt 12-1/12-2 (Gruppe
+   "Zwoelftes Buch") -> Anzeige auf Teil 1/2 umstellen; "0stes Kapitel" bei
+   000 auf "Einleitung" korrigieren.
+4. Print-Feinschliff: cover-print.* besorgen, Wrap bauen
+   (tools/build_cover.py), Paperback neu setzen.
+5. Final: Gate + EPUB + Paperback sauber neu erzeugen, committen und pushen.
 
-Regeln: `--style stil-04-original-geheim` immer explizit mitgeben (sonst
-plant der Default stil-01 Kapitel 006 mit); keine Uebersetzung, keine
-Bilder und kein OpenRouter ohne ausdrueckliche Freigabe; source/ bleibt
-tabu; Aenderungen am Ende committen und pushen.
+Regeln: immer .\.venv\Scripts\python.exe; bei Batch-Laeufen --style
+stil-04-original-geheim explizit mitgeben (sonst plant der Default stil-01
+Kapitel 006 mit); keine Uebersetzung, keine Bilder und kein OpenRouter ohne
+ausdrueckliche Freigabe; source/ bleibt tabu; Aenderungen am Ende committen
+und pushen (Buchinhalt und Doku getrennt).
 ```
 
 ---

@@ -1,0 +1,267 @@
+{
+  "chapter": "006",
+  "style": "stil-04-original-geheim",
+  "ru_scenes": 20,
+  "de_scenes": 20,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "006",
+      "scene": 1,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-01.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-01.md",
+      "ru_words": 70,
+      "de_words": 327,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 2,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-02.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-02.md",
+      "ru_words": 18,
+      "de_words": 160,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 3,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-03.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-03.md",
+      "ru_words": 13,
+      "de_words": 132,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 4,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-04.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-04.md",
+      "ru_words": 14,
+      "de_words": 122,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 5,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-05.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-05.md",
+      "ru_words": 15,
+      "de_words": 143,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 6,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-06.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-06.md",
+      "ru_words": 27,
+      "de_words": 66,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 7,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-07.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-07.md",
+      "ru_words": 16,
+      "de_words": 56,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 8,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-08.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-08.md",
+      "ru_words": 49,
+      "de_words": 191,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 9,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-09.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-09.md",
+      "ru_words": 3,
+      "de_words": 7,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "empty_or_short",
+          "message": "DE-Szene ist leer oder auffaellig kurz.",
+          "chapter": "006",
+          "scene": 9,
+          "evidence": "## Szene 9\n\n## 9\nZwei Namuchi.",
+          "recommendation": "Szene neu erzeugen oder manuell pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "duplicate_heading",
+          "message": "DE-Szene enthaelt doppelte Szenenueberschriften.",
+          "chapter": "006",
+          "scene": 9,
+          "evidence": "",
+          "recommendation": "Vor Export bereinigen oder Export-Cleaner pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "ERROR",
+          "category": "degeneration",
+          "message": "Text ist leer oder zu kurz (< 50 Zeichen).",
+          "chapter": "006",
+          "scene": 9,
+          "evidence": "",
+          "recommendation": "Szene neu erzeugen oder manuell ueberarbeiten.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    },
+    {
+      "chapter": "006",
+      "scene": 10,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-10.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-10.md",
+      "ru_words": 34,
+      "de_words": 150,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 11,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-11.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-11.md",
+      "ru_words": 82,
+      "de_words": 386,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 12,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-12.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-12.md",
+      "ru_words": 7,
+      "de_words": 13,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "duplicate_heading",
+          "message": "DE-Szene enthaelt doppelte Szenenueberschriften.",
+          "chapter": "006",
+          "scene": 12,
+          "evidence": "",
+          "recommendation": "Vor Export bereinigen oder Export-Cleaner pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    },
+    {
+      "chapter": "006",
+      "scene": 13,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-13.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-13.md",
+      "ru_words": 15,
+      "de_words": 63,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 14,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-14.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-14.md",
+      "ru_words": 45,
+      "de_words": 200,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 15,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-15.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-15.md",
+      "ru_words": 25,
+      "de_words": 129,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 16,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-16.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-16.md",
+      "ru_words": 47,
+      "de_words": 177,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 17,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-17.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-17.md",
+      "ru_words": 123,
+      "de_words": 487,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Anapher 'in der' 7x hintereinander (Absaetze 2-8).",
+          "chapter": "006",
+          "scene": 17,
+          "evidence": "In der Biographie des Shudongtai heißt es: Er folgte dem Khan, legte zehntausend Li durch unwegsame Pässe zurück und sta / In der Biographie des Subutai steht: Als Dschingis Khan am Banjuni-Fluss weilte, hatte er einmal eine Herde Schafe. Er w / In der Biographie des Hasanah heißt es: Damals diente er Wang Khan und erwarb Verdienste. Er wurde beauftragt, vom Wasse / In der Biographie des Shao'gou'er steht: Er folgte Dschingis Khan. Mairijitai gehörte dem Clan der Merkit an. / In der Biographie d",
+          "recommendation": "Anapher stark gehaeuft: kuerzen oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    },
+    {
+      "chapter": "006",
+      "scene": 18,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-18.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-18.md",
+      "ru_words": 31,
+      "de_words": 148,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 19,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-19.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-19.md",
+      "ru_words": 11,
+      "de_words": 107,
+      "findings": []
+    },
+    {
+      "chapter": "006",
+      "scene": 20,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-20.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\006\\scene-20.md",
+      "ru_words": 89,
+      "de_words": 175,
+      "findings": []
+    }
+  ]
+}

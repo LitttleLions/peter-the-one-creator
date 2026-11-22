@@ -25,10 +25,11 @@ illustration_setting: >-
   indigo. Clear central figure or decisive moment; historically resonant,
   emotionally intelligent.
 structure:
-  # §-Abschnitte der japanischen Edition als echte Arbeitseinheiten
-  # (scene-NN.md), nicht als ein Kapitel-Monolith mit Zeichen-Chunking.
-  mode: scenes
-  label: Abschnitte
+  # Leseausgabe (Weg A, 2026-11-22): ein Kapitel ist die Arbeitseinheit.
+  # Die 317 §-Abschnitte der japanischen Edition liegen archiviert unter
+  # work/legacy/scenes-ja-sections-20261122/ (und in der Git-Historie).
+  mode: chapter_as_scene
+  label: Kapitel
   groups:
   - id: joron
     label: Einleitung

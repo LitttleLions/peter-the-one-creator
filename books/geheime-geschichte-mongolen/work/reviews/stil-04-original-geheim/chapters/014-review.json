@@ -1,0 +1,133 @@
+{
+  "chapter": "014",
+  "style": "stil-04-original-geheim",
+  "ru_scenes": 13,
+  "de_scenes": 12,
+  "findings": [
+    {
+      "severity": "ERROR",
+      "category": "missing_de_scene",
+      "message": "DE-Szene 07 fehlt.",
+      "chapter": "014",
+      "scene": 7,
+      "evidence": "C:\\code\\peter-the-one\\books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-07.md",
+      "recommendation": "Szene uebersetzen oder Zielstil pruefen.",
+      "source": "deterministic",
+      "current_text": "",
+      "suggested_text": "",
+      "confidence": null,
+      "fixable": null,
+      "position": null
+    }
+  ],
+  "scenes": [
+    {
+      "chapter": "014",
+      "scene": 1,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-01.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-01.md",
+      "ru_words": 76,
+      "de_words": 35,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 2,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-02.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-02.md",
+      "ru_words": 585,
+      "de_words": 2513,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 3,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-03.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-03.md",
+      "ru_words": 19,
+      "de_words": 135,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 4,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-04.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-04.md",
+      "ru_words": 19,
+      "de_words": 105,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 5,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-05.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-05.md",
+      "ru_words": 13,
+      "de_words": 119,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 6,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-06.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-06.md",
+      "ru_words": 4,
+      "de_words": 18,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 8,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-08.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-08.md",
+      "ru_words": 71,
+      "de_words": 37,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 9,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-09.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-09.md",
+      "ru_words": 127,
+      "de_words": 575,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 10,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-10.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-10.md",
+      "ru_words": 91,
+      "de_words": 258,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 11,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-11.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-11.md",
+      "ru_words": 31,
+      "de_words": 194,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 12,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-12.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-12.md",
+      "ru_words": 162,
+      "de_words": 208,
+      "findings": []
+    },
+    {
+      "chapter": "014",
+      "scene": 13,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\014\\scene-13.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-13.md",
+      "ru_words": 225,
+      "de_words": 26,
+      "findings": []
+    }
+  ]
+}

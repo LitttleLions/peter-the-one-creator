@@ -536,6 +536,25 @@ class ExportManuscriptTests(unittest.TestCase):
         self.assertIn("break-before: page", css)
         self.assertIn("page-break-after: always", css)
 
+    def test_write_pdf_css_caps_text_images_to_type_area(self) -> None:
+        """Regression 2026-11-22 (Mongolen): Bilder im Anhang-/Kapiteltext
+        (Stammtafeln, Einleitungs-Grafiken) liefen im A5-Vorschau-PDF in
+        Originalgroesse ueber viele Seiten und erzeugten Leerseiten. Sie
+        muessen wie die Kapitelbilder auf den Satzspiegel gedeckelt sein.
+        """
+        with tempfile.TemporaryDirectory() as tmp:
+            path = export.write_pdf_css(Path(tmp) / "book-print.css")
+            css = path.read_text(encoding="utf-8")
+
+        _, type_h = export.pdf_preview_type_mm()
+        self.assertIn(".scene-text img", css)
+        self.assertIn(".appendix-text img", css)
+        tail = css[css.index(".scene-text img"):]
+        rule = tail[: tail.index("}")]
+        self.assertIn("max-width: 100%", rule)
+        self.assertIn(f"max-height: {type_h:g}mm", rule)
+        self.assertIn("height: auto", rule)
+
     def test_write_pdf_css_fills_type_area_not_full_page(self) -> None:
         """Regression 2026-09-27 (der-lotse): min-height 210mm auf A5 ist
         hoeher als der Satzspiegel (172mm) und erzeugt eine Leerseite plus

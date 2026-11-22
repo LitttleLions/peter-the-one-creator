@@ -1625,6 +1625,21 @@ def write_pdf_css(path: Path) -> Path:
         "  height: auto;\n"
         "}\n"
         "\n"
+        # Bilder im Kapitel- und Anhangtext (Markdown-Bilder, z. B. die
+        # Einleitungs-Grafiken oder die Stammtafeln) brauchen denselben
+        # Deckel. Ohne ihn laufen sie in Originalgroesse ueber viele Seiten
+        # und erzeugen Leerseiten (Befund 2026-11-22, Mongolen: A5-PDF
+        # 26 Bildseiten und 2 Leerseiten statt 13 Bildseiten).
+        ".scene-text img,\n"
+        ".appendix-text img,\n"
+        ".textpage img {\n"
+        "  display: block;\n"
+        "  max-width: 100%;\n"
+        f"  max-height: {type_h:g}mm;\n"
+        "  height: auto;\n"
+        "  margin: 0 auto;\n"
+        "}\n"
+        "\n"
         ".page-break-after {\n"
         "  break-after: page;\n"
         "  page-break-after: always;\n"

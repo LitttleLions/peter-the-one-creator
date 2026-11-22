@@ -548,6 +548,17 @@ def export_paperback_interior(
     warnings: list[str] = []
     if rerendered:
         warnings.append("Bundsteg nach erstem Satzlauf neu berechnet.")
+    if actual_pages < assumed_pages * 0.7 or actual_pages > assumed_pages * 1.6:
+        # Faengt den Fall "Dokument wurde beim Druck global verkleinert":
+        # ein Element, das breiter ist als die Seite (z. B. ein Bild ohne
+        # max-width), laesst Chromium das ganze Buch skalieren. Der Satz ist
+        # dann dichter, nicht kuerzer (Befund 2026-11-22, Mongolen: 125
+        # statt 244 Seiten, 7,2 statt 10,8 pt).
+        warnings.append(
+            f"Seitenzahl {actual_pages} weicht stark von der Schaetzung "
+            f"({assumed_pages}) ab - Satz pruefen, z. B. ein zu breites Bild "
+            "oder eine Tabelle, die das Dokument herunterskaliert."
+        )
     if not within_limit:
         warnings.append(
             f"Seitenzahl {actual_pages} ueber KDP-Maximum {spec.paper} "

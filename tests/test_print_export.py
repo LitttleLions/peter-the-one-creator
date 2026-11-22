@@ -26,7 +26,7 @@ from lib.gitignore_assets import (  # noqa: E402
     load_config,
     render_gitignore,
 )
-from lib.print_css import build_paperback_css, write_paperback_css  # noqa: E402
+from lib.print_css import build_paperback_css, mm, write_paperback_css  # noqa: E402
 from lib.print_pdf import (  # noqa: E402
     _helvetica_overlay_pdf,
     count_export_words,
@@ -204,6 +204,24 @@ class PrintCssTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             css = build_paperback_css(spec, Path(tmp) / "book-paperback.css", 80)
         self.assertIn("break-before: right", css)
+
+    def test_text_images_are_capped_to_type_area(self) -> None:
+        """Regression 2026-11-22 (Mongolen): ein Bild ohne Breitenbegrenzung
+        im Kapiteltext macht das Dokument breiter als die Seite; Chromium
+        skaliert beim PDF-Druck das ganze Buch auf zwei Drittel (7,2 statt
+        10,8 pt, 125 statt 244 Seiten). Kapitelbilder im Fliesstext muessen
+        deshalb auf den Satzspiegel gedeckelt sein.
+        """
+        spec = PrintSpec.from_dict({}, REPO_ROOT)
+        with tempfile.TemporaryDirectory() as tmp:
+            css = build_paperback_css(spec, Path(tmp) / "book-paperback.css", 244)
+        self.assertIn(".scene-text img", css)
+        self.assertIn(".textpage img", css)
+        self.assertIn(f"max-height: {mm(spec.type_height_mm())}", css)
+        # Der Deckel steht im Kapiteltext-Block, nicht nur im Anhang.
+        scene_block = css.split(".scene-text img")[1].split("}")[0]
+        self.assertIn("max-width: 100%", scene_block)
+        self.assertIn("height: auto", scene_block)
 
     def test_titlepage_min_height_uses_type_area_not_trim(self) -> None:
         """Regression 2026-09-27: min-height auf voller Trim-Hoehe erzeugt
@@ -817,6 +835,51 @@ class PrintPdfPipelineTests(unittest.TestCase):
         self.assertEqual(report["status"], "warning")
         self.assertTrue(any("776" in item for item in report["warnings"]))
         self.assertEqual(spec.font_size_pt, 10.8)
+
+    def test_report_warns_when_page_count_far_below_estimate(self) -> None:
+        """Regression 2026-11-22: ein zu breites Bild liess Chromium das
+        Dokument global verkleinern; der Satz wurde dichter statt laenger.
+        Der Report muss so einen Ausreisser gegenueber der Schaetzung
+        melden, statt ihn als normalen Satz zu verbuchen.
+        """
+        from pypdf import PdfWriter
+
+        spec = load_print_spec(REPO_ROOT, {})
+
+        def fake_render(_html_path: Path, pdf_path: Path) -> None:
+            writer = PdfWriter()
+            for _ in range(125):
+                writer.add_blank_page(width=5.5 * 72, height=8.5 * 72)
+            pdf_path.parent.mkdir(parents=True, exist_ok=True)
+            with pdf_path.open("wb") as handle:
+                writer.write(handle)
+
+        text = "wort " * 78400
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            report = export_paperback_interior(
+                spec=spec,
+                chapters=[
+                    export.ChapterExport(
+                        "001", "K", [export.SceneExport(1, text)], [], 1, 1
+                    )
+                ],
+                html_text='<section class="chapter"></section>',
+                html_path=root / "book.paperback.html",
+                css_path=root / "book-paperback.css",
+                pdf_path=root / "interior.pdf",
+                report_path=root / "print-report.json",
+                author="Autor",
+                title="Titel",
+                render_pdf=fake_render,
+                stamp=False,
+            )
+
+        self.assertGreater(report["assumed_pages"], 200)
+        self.assertTrue(
+            any("Schaetzung" in item for item in report["warnings"]),
+            report["warnings"],
+        )
 
     def test_output_basename_includes_print_slug(self) -> None:
         spec = load_print_spec(

@@ -309,6 +309,20 @@ def build_paperback_css(spec: PrintSpec, css_path: Path, page_count: int) -> str
         f"  margin: 6mm auto;\n"
         f"}}\n"
         f"\n"
+        # Bilder im Kapiteltext (z. B. Markdown-Bilder in der Einleitung)
+        # muessen auf den Satzspiegel begrenzt sein. Sonst ist das Dokument
+        # breiter als die Seite und Chromium skaliert beim PDF-Druck das
+        # GANZE Buch herunter (Befund 2026-11-22: drei Grafiken mit 1800-3000
+        # px Breite ergaben 7,2 statt 10,8 pt und 125 statt 244 Seiten).
+        f".scene-text img,\n"
+        f".textpage img {{\n"
+        f"  display: block;\n"
+        f"  max-width: 100%;\n"
+        f"  max-height: {mm(spec.type_height_mm())};\n"
+        f"  height: auto;\n"
+        f"  margin: 5mm auto;\n"
+        f"}}\n"
+        f"\n"
         f".scene-text > p:first-child,\n"
         f".scene-text > blockquote + p,\n"
         f".scene-text > .scene-marker + p,\n"

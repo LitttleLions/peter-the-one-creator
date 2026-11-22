@@ -441,15 +441,34 @@ Loader sucht `scene-*.md` und fand 006 vorher nicht).
 Stand:
 - Gate buchweit **ERROR=0 / WARNING=3 / INFO=7** (Warnungen nur
   `repetition_style` in 000 und 014; 006 ist 0/0/0).
-- EPUB `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-153720.epub`
+- EPUB `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-155635.epub`
   (16,9 MB, 7 Kapitelbilder 000-005 + 014, Gate ohne Bypass).
 - Paperback-Innenleben
-  `...-55x85-classic-full-20261122-153728-paperback-interior.pdf`
-  (230 Seiten, 5,5x8,5, classic, full_page; Hinweis: Kapitelbild 000 mit
+  `...-55x85-classic-full-20261122-155639-paperback-interior.pdf`
+  (229 Seiten, 5,5x8,5, classic, full_page; Hinweis: Kapitelbild 000 mit
   289 dpi). Kein `cover-print.*` -> kein Komplett-PDF/Wrap.
 - `stil-04-original-geheim` unveraendert: 006 (20/20 Dateien, aber Szene 09
   ist eine reine Titelzeile -> `empty_or_short`/`degeneration`) und 014
   (12/13). Weg B bleibt optional: 284 Szenen; vorher 006/09 klaeren.
+
+Nachtrag 2026-11-22 (Textbereinigung nach der Pruefung von 014):
+- Wikisource-Apparat (Inhalts-TOC, ↑-Zeilen, Lizenztext) aus
+  000/001/008/010/012/014 entfernt. Er stand bis dahin im Buch: 008 und 010
+  endeten mit dem uebersetzten Lizenztext ("Public domain"), 000/001/012/014
+  mit der Navigationsliste der Quelle. Der Regelcheck erkennt so etwas nicht.
+- Kolophone von 000/001/004/005/007/008/009/010/012/014 auf "Ende des
+  N. Buches der Geheimen Geschichte der Mongolen" vereinheitlicht.
+- In 014 fehlende Haupttextsaetze ergaenzt: Qachidut/Laosasut
+  (Maultiernamen), Tammachin-Rueckkehr, Dschuertschet/Jalairtai-Tamma.
+  Kamel-Anmerkung korrigiert: `Gürin-Ere’üd` sind Kamelnamen, nicht
+  "Pferde oder Kleidung". Kolophon 014 auf "Ende des zwoelften Buches".
+- **Nicht** uebersetzt: die beiden langen Quellen-Exkurse in 014/2
+  (Westfeldzug/Rus, Zeilen 5-23; Jalairtai/Goryeo, Zeilen 25-31 der Quelle
+  `work/legacy/scenes-ja-sections-20261122/014/scene-02.md`). Die Leseausgabe
+  bleibt bewusst ohne diese Forschungsdiskurse; fuer Weg B nachziehen.
+- Offen ausserdem: Kapitel 013/014 tragen im TOC die Ordinaltitel
+  "Dreizehntes/Vierzehntes Kapitel", obwohl sie im Quellenschnitt 12-1 und
+  12-2 sind (Gruppe "Zwoelftes Buch"). Anzeige ggf. auf Teil 1/2 umstellen.
 
 Checkliste (nur falls Weg B spaeter kommt; `--style` immer explizit):
 

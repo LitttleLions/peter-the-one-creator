@@ -27,10 +27,12 @@ Stand (2026-11-22, Weg A umgesetzt): 15 Kapitel, structure.mode
 chapter_as_scene. Die 317 §-Abschnitte der japanischen Edition liegen
 archiviert unter work/legacy/scenes-ja-sections-20261122/, die Quell-Szenen
 wurden je Kapitel als scene-01.md neu gezogen. Gate buchweit
-ERROR=0/WARNING=3/INFO=7; EPUB ...-20261122-153720.epub und
-Paperback-Innenleben 230 Seiten (5,5x8,5, classic, full_page). Kein
-cover-print.* -> kein Wrap. stil-04-original-geheim: 006 (20/20 Dateien,
-Szene 09 ist eine Titelzeile) und 014 (12/13).
+ERROR=0/WARNING=3/INFO=7; EPUB ...-20261122-155635.epub und
+Paperback-Innenleben 229 Seiten (5,5x8,5, classic, full_page). Kein
+cover-print.* -> kein Wrap. Apparat bereinigt, 014-Haupttext ergaenzt;
+die zwei langen Quellen-Exkurse in 014/2 (Westfeldzug/Rus,
+Jalairtai/Goryeo) sind bewusst nicht uebersetzt. stil-04-original-geheim:
+006 (20/20 Dateien, Szene 09 ist eine Titelzeile) und 014 (12/13).
 
 Aufgabe heute: [hier eintragen]
 - Weg B (optional): abschnittsweise in stil-04-original-geheim, hoechstens

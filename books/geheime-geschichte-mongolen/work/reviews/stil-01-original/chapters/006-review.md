@@ -2,16 +2,170 @@
 
 - Buch: Die Geheime Geschichte der Mongolen (geheime-geschichte-mongolen)
 - Stil: stil-01-original
-- RU-Szenen: 1
-- DE-Szenen: 1
-- Fehler: 0
-- Warnungen: 1
+- RU-Szenen: 20
+- DE-Szenen: 0
+- Fehler: 20
+- Warnungen: 0
 - Hinweise: 0
 
 ## Befunde
 
-### WARNING: llm_review_failed (006, Szene 01)
+### ERROR: missing_de_scene (006, Szene 01)
 
-KI-Review fehlgeschlagen: OpenRouter-Antwort ohne Text-Content. finish_reason=length. Reasoning/Thinking (erste 300 Zeichen): Wir müssen die japanische Originalversion (JA) mit der deutschen Übersetzung (DE) vergleichen. Die Aufgabe ist, konkrete, belegbare Probleme zu melden, die eine klare Handlung erlauben. Wir sollen nur ERROR oder WARNING melden, wenn es sinnverändernde Fehler, fehlende Passagen, stehengebliebenes Ori
+DE-Szene 01 fehlt.
 
-Empfehlung: Antwort wurde abgeschnitten: max_tokens erhoehen (Review-Default jetzt 8000) oder kuerzeres Modell ohne langes Thinking waehlen.
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-01.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 02)
+
+DE-Szene 02 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-02.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 03)
+
+DE-Szene 03 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-03.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 04)
+
+DE-Szene 04 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-04.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 05)
+
+DE-Szene 05 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-05.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 06)
+
+DE-Szene 06 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-06.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 07)
+
+DE-Szene 07 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-07.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 08)
+
+DE-Szene 08 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-08.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 09)
+
+DE-Szene 09 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-09.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 10)
+
+DE-Szene 10 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-10.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 11)
+
+DE-Szene 11 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-11.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 12)
+
+DE-Szene 12 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-12.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 13)
+
+DE-Szene 13 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-13.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 14)
+
+DE-Szene 14 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-14.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 15)
+
+DE-Szene 15 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-15.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 16)
+
+DE-Szene 16 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-16.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 17)
+
+DE-Szene 17 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-17.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 18)
+
+DE-Szene 18 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-18.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 19)
+
+DE-Szene 19 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-19.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (006, Szene 20)
+
+DE-Szene 20 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\006\scene-20.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.

@@ -2,42 +2,202 @@
 
 - Buch: Die Geheime Geschichte der Mongolen (geheime-geschichte-mongolen)
 - Stil: stil-01-original
-- RU-Szenen: 1
+- RU-Szenen: 25
 - DE-Szenen: 1
-- Fehler: 3
-- Warnungen: 1
+- Fehler: 24
+- Warnungen: 0
 - Hinweise: 0
 
 ## Befunde
 
-### ERROR: length_ratio (003, Szene 01)
+### ERROR: missing_de_scene (003, Szene 02)
 
-DE/RU-Wortverhaeltnis ist stark auffaellig (6.37).
+DE-Szene 02 fehlt.
 
-> RU=402, DE=2562
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-02.md
 
-Empfehlung: Auf Auslassung, Doppelung oder Ausschweifung pruefen.
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
 
-### ERROR: names (003, Szene 01)
+### ERROR: missing_de_scene (003, Szene 03)
 
-Falsche Zuordnung von Namen und Personen in den Übersetzungszeilen.
+DE-Szene 03 fehlt.
 
-> Original: 'マキ卷のノ陳べて、カツサル合撒兒、ミタリ三人は...' (Maki, Qasar, drei Männer). DE-Übersetzung: 'Qasar, [Belgütei] und die drei [Brüder]...'. Belgütei ist hier noch nicht erwähnt; der Name Maki fehlt komplett.
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-03.md
 
-Empfehlung: Den Namen Maki wiederherstellen oder als Platzhalter belassen. Belgütei darf erst später eingeführt werden, wo er im Original erscheint (z.B. bei den Merkiten).
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
 
-### ERROR: meaning (003, Szene 01)
+### ERROR: missing_de_scene (003, Szene 04)
 
-Fehlende Passage / Sinnverlust durch falsche Interpretation von 'ミタリ三人' (drei Personen insgesamt).
+DE-Szene 04 fehlt.
 
-> Original: 'マキ卷のノ陳べて、カツサル合撒兒、ミタリ三人は...' bedeutet, dass Maki und Qasar zusammen mit einer dritten Person drei sind. Die DE übersetzt dies als 'Qasar, Belgütei UND die drei', was mathematisch unmöglich ist (1+1+3=5) und den Namen Maki ignoriert.
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-04.md
 
-Empfehlung: Die Passage muss so wiedergegeben werden, dass klar wird: Es waren insgesamt drei Personen (Maki, Qasar und einer weitere), nicht vier oder fünf. Belgütei darf hier nicht genannt werden.
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
 
-### WARNING: register (003, Szene 01)
+### ERROR: missing_de_scene (003, Szene 05)
 
-Unpassende Verwendung von Klammern für Erklärungen im Fließtext.
+DE-Szene 05 fehlt.
 
-> DE: 'Qasar, [Belgütei] und die drei [Brüder]' sowie '[Tougla]', '[Börte Üdschin]' etc. Das Original enthält keine solchen Interpunktionen oder Kommentare in dieser Form; es handelt sich um phonetische Transkriptionen mit Kommentaren im Textfluss.
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-05.md
 
-Empfehlung: Die Klammern sollten entfernt werden, wenn sie nicht Teil des originalen Kommentars sind (wie bei 'Tula' vs 'Tougla'). Stattdessen sollte der Name korrekt transkribiert oder als Anmerkung getrennt dargestellt werden, ohne den Lesefluss zu unterbrechen.
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 06)
+
+DE-Szene 06 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-06.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 07)
+
+DE-Szene 07 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-07.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 08)
+
+DE-Szene 08 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-08.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 09)
+
+DE-Szene 09 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-09.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 10)
+
+DE-Szene 10 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-10.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 11)
+
+DE-Szene 11 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-11.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 12)
+
+DE-Szene 12 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-12.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 13)
+
+DE-Szene 13 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-13.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 14)
+
+DE-Szene 14 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-14.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 15)
+
+DE-Szene 15 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-15.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 16)
+
+DE-Szene 16 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-16.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 17)
+
+DE-Szene 17 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-17.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 18)
+
+DE-Szene 18 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-18.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 19)
+
+DE-Szene 19 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-19.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 20)
+
+DE-Szene 20 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-20.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 21)
+
+DE-Szene 21 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-21.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 22)
+
+DE-Szene 22 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-22.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 23)
+
+DE-Szene 23 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-23.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 24)
+
+DE-Szene 24 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-24.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (003, Szene 25)
+
+DE-Szene 25 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\003\scene-25.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.

@@ -2,50 +2,202 @@
 
 - Buch: Die Geheime Geschichte der Mongolen (geheime-geschichte-mongolen)
 - Stil: stil-01-original
-- RU-Szenen: 1
+- RU-Szenen: 25
 - DE-Szenen: 1
-- Fehler: 3
-- Warnungen: 2
+- Fehler: 24
+- Warnungen: 0
 - Hinweise: 0
 
 ## Befunde
 
-### ERROR: length_ratio (004, Szene 01)
+### ERROR: missing_de_scene (004, Szene 02)
 
-DE/RU-Wortverhaeltnis ist stark auffaellig (8.29).
+DE-Szene 02 fehlt.
 
-> RU=469, DE=3888
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-02.md
 
-Empfehlung: Auf Auslassung, Doppelung oder Ausschweifung pruefen.
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
 
-### ERROR: names (004, Szene 01)
+### ERROR: missing_de_scene (004, Szene 03)
 
-Falsche Transkription und Übersetzung des Namens 'Temüdschin' (Tembürin/Temürjin). Der Name wird im Deutschen als 'Temüdschin' wiedergegeben, was eine falsche Lesung der mongolischen Schrift darstellt. Im Originaltext steht klar 'テムヂン', das korrekt mit Temürjin oder zumindest phonetisch annähernd an die russische Transkription (die hier fehlt) zu lesen ist. Die deutsche Übersetzung verwendet einen Namen ('Temüdschin'), der in der Fachliteratur nicht etabliert ist und den Originaltext verfälscht.
+DE-Szene 03 fehlt.
 
-> Original: テムヂン / DE-Uebersetzung: Temüdschin
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-03.md
 
-Empfehlung: Den korrekten mongolischen Transkriptionsstandard verwenden (z.B. Temürjin) oder die russische Lesung einfügen, falls dies der Kontext erfordert. 'Temüdschin' ist eine Erfindung.
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
 
-### ERROR: names (004, Szene 01)
+### ERROR: missing_de_scene (004, Szene 04)
 
-Falsche Transkription des Namens 'Qada'an'. Der Name wird als 'Qada'an' wiedergegeben, was phonetisch nicht korrekt ist und die Bedeutung verfälscht.
+DE-Szene 04 fehlt.
 
-> Original: カダアン / DE-Uebersetzung: Qada'an
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-04.md
 
-Empfehlung: Korrekte mongolische Transkription verwenden (z.B. Kadan oder Kadun).
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
 
-### WARNING: register (004, Szene 01)
+### ERROR: missing_de_scene (004, Szene 05)
 
-Der Stil der Fußnoten ist inkonsistent und teilweise zu akademisch für den Kontext einer literarischen Übersetzung des 'Secret History'. Die Anmerkungen enthalten oft direkte Zitate aus chinesischen Quellen ohne ausreichende Einbettung in die Erzählhaltung.
+DE-Szene 05 fehlt.
 
-> Original: 親征錄 / DE-Uebersetzung: (Im Heereszugbericht und in der Yuan-Geschichte: ...)
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-05.md
 
-Empfehlung: Die Fußnoten sollten konsistenter gestaltet sein, entweder als direkte Zitate oder mit einer stärker stilistischen Anpassung an den Textfluss.
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
 
-### WARNING: grammar (004, Szene 01)
+### ERROR: missing_de_scene (004, Szene 06)
 
-Der Satz 'Als er sich selbst zum Herrn erhob und erbeutete' ist grammatikalisch unklar und semantisch fragwürdig im Kontext der mongolischen Geschichte.
+DE-Szene 06 fehlt.
 
-> Original: オノレ己をイタヾ戴きたるトラ虜︀ふると / DE-Uebersetzung: Als er sich selbst zum Herrn erhob und erbeutete
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-06.md
 
-Empfehlung: Den Satz umformulieren, um die Bedeutung klarzustellen (z.B. 'Als er sich als Herrscher etabliert hatte...').
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 07)
+
+DE-Szene 07 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-07.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 08)
+
+DE-Szene 08 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-08.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 09)
+
+DE-Szene 09 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-09.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 10)
+
+DE-Szene 10 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-10.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 11)
+
+DE-Szene 11 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-11.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 12)
+
+DE-Szene 12 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-12.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 13)
+
+DE-Szene 13 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-13.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 14)
+
+DE-Szene 14 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-14.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 15)
+
+DE-Szene 15 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-15.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 16)
+
+DE-Szene 16 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-16.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 17)
+
+DE-Szene 17 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-17.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 18)
+
+DE-Szene 18 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-18.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 19)
+
+DE-Szene 19 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-19.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 20)
+
+DE-Szene 20 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-20.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 21)
+
+DE-Szene 21 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-21.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 22)
+
+DE-Szene 22 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-22.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 23)
+
+DE-Szene 23 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-23.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 24)
+
+DE-Szene 24 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-24.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.
+
+### ERROR: missing_de_scene (004, Szene 25)
+
+DE-Szene 25 fehlt.
+
+> C:\code\peter-the-one\books\geheime-geschichte-mongolen\work\scenes\ja\004\scene-25.md
+
+Empfehlung: Szene uebersetzen oder Zielstil pruefen.

@@ -3,17 +3,45 @@
   "title": "Die Geheime Geschichte der Mongolen",
   "style": "stil-01-original",
   "chapters": [
-    "006"
+    "000",
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009",
+    "010",
+    "011",
+    "012",
+    "013",
+    "014"
   ],
-  "created_at": "2026-07-22T19:53:55",
-  "llm": "openrouter",
+  "created_at": "2026-11-22T15:06:08",
+  "llm": "none",
   "counts": {
-    "ERROR": 0,
-    "WARNING": 1,
-    "INFO": 0
+    "ERROR": 303,
+    "WARNING": 3,
+    "INFO": 7
   },
   "chapter_reports": [
-    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\006-review.md"
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\000-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\001-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\002-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\003-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\004-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\005-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\006-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\007-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\008-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\009-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\010-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\011-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\012-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\013-review.md",
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\014-review.md"
   ],
   "summary_markdown": "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\review-summary.md",
   "summary_json": "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\review-summary.json"

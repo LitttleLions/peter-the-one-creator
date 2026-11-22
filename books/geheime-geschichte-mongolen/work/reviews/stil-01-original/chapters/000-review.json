@@ -1,0 +1,49 @@
+{
+  "chapter": "000",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "000",
+      "scene": 1,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\000\\scene-01.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-01-original\\000\\scene-01.md",
+      "ru_words": 1188,
+      "de_words": 8739,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (13x: als 6x, oder 5x, wie 2x) in 94 Woertern ohne Satzende.",
+          "chapter": "000",
+          "scene": 1,
+          "evidence": "Auch in der Lautübersetzung gibt es Fälle, wo zwei Personen als eine Person (Neudai) eines Stammes (Neudai) oder als Tatar (Alchi Tatar) und Jalinbukha (Tatar) des Tatar-Stammes, oder als Onghirat (Dergek-emel) und Dergek, oder als Naiman (Guchunt Naiman) und Buirukh Khan (Naiman) des Naiman-Stammes, oder als König Merik (Kaiser Merik) der Westlichen Regionen, der in der Lautübersetzung als Merik Khan bezeichnet wird, [10] wobei viele Fehler wie bei der Verwechslung von General Toshihito und Fuj",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Leitmotiv-Tripel 'beiden anderen büchern' 5x in einem Absatz.",
+          "chapter": "000",
+          "scene": 1,
+          "evidence": "'beiden anderen büchern' 5x",
+          "recommendation": "Formulierung streuen oder als Leitmotiv markieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

@@ -720,8 +720,9 @@ Bundsteg).
   Loader sucht `scene-*.md` und fand 006 vorher nicht). Gate buchweit
   **ERROR=0 / WARNING=3 / INFO=8** (Warnungen nur `repetition_style` in 000
   und 014). Exporte: EPUB `...-20261122-202012.epub` (7
-  Kapitelbilder, drei Anhang-Tafeln + Quellen-Exkurse) und Paperback-Innenleben **233 Seiten**
-  (5,5×8,5, classic, full_page, inkl. Anhänge, 10,8/13,6 pt). Am 2026-11-22 nachgezogen: Wikisource-Apparat (Inhalts-TOC,
+  Kapitelbilder, drei Anhang-Tafeln + Quellen-Exkurse), Paperback-Innenleben **233 Seiten**
+  (5,5×8,5, classic, full_page, inkl. Anhänge, 10,8/13,6 pt), Komplett-PDF
+  235 Seiten und A5-Lese-PDF 302 Seiten (10,5 pt). Am 2026-11-22 nachgezogen: Wikisource-Apparat (Inhalts-TOC,
   ↑-Zeilen, Lizenztext) aus 000/001/008/010/012/014 entfernt,
   Kolophone vereinheitlicht, die fehlenden Haupttextsätze in 014
   (Qachidut/Laosasut, Tammachin-Rückkehr, Dschürtschet/Jalairtai) ergänzt
@@ -733,7 +734,8 @@ Bundsteg).
   behoben: nicht die entfernten Gruppen/Marker, sondern die zu breiten
   Einleitungs-Grafiken ließen Chromium das ganze Buch auf 2/3 skalieren
   (Bilddeckel in `lib/print_css.py`, Seitenzahl-Plausibilitätswarnung in
-  `lib/print_pdf.py`); die doppelten Buchtitel sind aus den Szenen entfernt.
+  `lib/print_pdf.py`, derselbe Deckel im A5-Vorschau-CSS
+  `write_pdf_css`); die doppelten Buchtitel sind aus den Szenen entfernt.
   Weg B (Edition in `stil-04-original-geheim`) bleibt als späterer
   Qualitätslauf möglich: 284 Szenen offen; 006/09 ist eine reine Titelzeile
   und würde als `empty_or_short`/`degeneration` blockieren. Vor jedem B-Lauf

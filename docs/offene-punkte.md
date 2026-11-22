@@ -518,12 +518,22 @@ Behoben (2026-11-22, später Abend):
   die Kapitelüberschrift aus `display.chapters.titles`; Gate unverändert
   **ERROR=0 / WARNING=3 / INFO=8**.
 - Neu erzeugt: Paperback-Innenleben **233 Seiten** (5,5x8,5, classic,
-  full_page, 10,8/13,6 pt, `...-201844-...pdf`), EPUB
-  `...-20261122-202012.epub` (18,3 MB, 20 Bilder) und Wrap
-  `cover-wrap-20261122-202026-233.pdf` (300,5 x 222,2 mm, Rücken 14,8 mm;
-  Hinweis: Klappentext eine Stufe auf 9,4 pt, Bio 8,4 pt verkleinert).
-  Die Einleitungs-Grafiken stehen jetzt in Satzspiegelbreite (Stemma S. 19,
-  Lauttafeln S. 25/27).
+  full_page, 10,8/13,6 pt, `...-203539-paperback-interior.pdf`), EPUB
+  `...-20261122-202012.epub` (18,3 MB, 20 Bilder), Komplett-PDF
+  `...-203539-paperback-complete.pdf` (**235 Seiten** = Cover + 233 +
+  Rückseite) und Wrap `cover-wrap-20261122-202026-233.pdf`
+  (300,5 x 222,2 mm, Rücken 14,8 mm; Hinweis: Klappentext eine Stufe auf
+  9,4 pt, Bio 8,4 pt verkleinert). Die Einleitungs-Grafiken stehen jetzt in
+  Satzspiegelbreite (Stemma S. 19, Lauttafeln S. 25/27).
+- **A5-Lese-PDF** `...-20261122-203709.pdf`: **302 Seiten** bei 10,5 pt.
+  Dabei ein zweiter, bisher unbemerkter Fall derselben Ursache gefunden: im
+  A5-Vorschau-CSS (`write_pdf_css` in `tools/export_manuscript.py`) waren
+  Bilder im Kapitel- und Anhangtext nicht gedeckelt; die Stammtafeln liefen
+  in Originalgröße über viele Seiten (26 Bildseiten, zwei Leerseiten, das
+  Dokument zusätzlich global verkleinert: 168 statt 302 Seiten). Jetzt
+  greift dort dieselbe Begrenzung (`max-width: 100%`,
+  `max-height` = Satzspiegelhöhe); Bildseiten 14, keine Leerseiten.
+  Regressionstest in `tests/test_export_manuscript.py`.
 
 ### Genealogie und Grafik (2026-11-22)
 

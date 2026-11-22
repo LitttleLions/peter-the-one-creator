@@ -63,7 +63,8 @@ Gate buchweit **ERROR=0 / WARNING=3 / INFO=8** (Warnungen nur
 `book-die-geheime-geschichte-der-mongolen-stil-01-original-20261122-202012.epub`
 (18,3 MB, 20 Bilder, 7 Kapitelbilder, drei Anhang-Tafeln) und
 Paperback-Innenleben **233 Seiten** (5,5×8,5, classic, full_page,
-10,8/13,6 pt, inkl. Anhänge, Gate ohne Bypass). Nachgezogen: Wikisource-Apparat
+10,8/13,6 pt, inkl. Anhänge, Gate ohne Bypass), Komplett-PDF 235 Seiten
+(Cover + 233 + Rückseite), A5-Lese-PDF 302 Seiten (10,5 pt). Nachgezogen: Wikisource-Apparat
 (Inhalts-TOC, ↑-Zeilen, Lizenztext) aus 000/001/008/010/012/014 entfernt,
 Kolophone vereinheitlicht, fehlende Haupttextsätze in 014 ergänzt
 (Qachidut/Laosasut, Tammachin-Rückkehr, Dschürtschet/Jalairtai), Kamel-
@@ -81,7 +82,10 @@ Bereinigung 2026-11-22 abends: doppelte Buchtitel aus den Szenen entfernt
 Einleitungs-Grafiken ließen Chromium das ganze Buch auf 2/3 verkleinern
 (7,2 statt 10,8 pt). Behoben durch Bilddeckel in `lib/print_css.py` und eine
 Plausibilitätswarnung in `lib/print_pdf.py`; Details in
-`docs/offene-punkte.md` §5.
+`docs/offene-punkte.md` §5. Derselbe Fehler steckte im A5-Vorschau-CSS
+(`write_pdf_css`): dort fehlte der Deckel für Bilder im Kapitel-/Anhangtext,
+die Stammtafeln liefen über viele Seiten (168 Seiten, zwei Leerseiten);
+jetzt 302 Seiten, 14 Bildseiten, keine Leerseiten.
 Genealogie/Grafik (2026-11-22): Datenblätter unter `work/genealogie/`
 (`stammtafel-001.md`, `ordo-014.md`); Stammtafel deterministisch aus den Daten
 gerendert (`stammtafel-001.html` → `assets/genealogie/stammtafel-001.png`).

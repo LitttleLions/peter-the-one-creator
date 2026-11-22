@@ -112,7 +112,8 @@ japanischen Edition liegen archiviert unter
 `work/legacy/scenes-ja-sections-20261122/` (und in der Git-Historie). Gate
 **ERROR=0/WARNING=3/INFO=8**; EPUB `...-20261122-202012.epub` und
 Paperback-Innenleben **233 Seiten** (5,5×8,5, classic, full_page, 10,8 pt,
-inkl. Anhänge mit drei Stammtafeln und den zwei Quellen-Exkursen).
+inkl. Anhänge mit drei Stammtafeln und den zwei Quellen-Exkursen),
+Komplett-PDF 235 Seiten, A5-Lese-PDF 302 Seiten (10,5 pt).
 Bereinigt: Wikisource-Apparat entfernt, Kolophone vereinheitlicht,
 014-Lücken im Haupttext ergänzt, Kamel-Anmerkung korrigiert, doppelte
 Buchtitel aus den Szenen entfernt; Namensdurchgang gemacht

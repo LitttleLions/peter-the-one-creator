@@ -489,9 +489,20 @@ Nachtrag 2026-11-22 (Textbereinigung nach der Pruefung von 014):
   und in die zweite Tafel eingearbeitet: `assets/genealogie/nebenlinien-001.png`
   (Jadaran, Ba'arin, Qabul-Haus mit sieben Soehnen, Bartans vier Soehnen,
   Qutula; Ambaghai gestrichelt).
+- Dritte Tafel: `assets/genealogie/ordo-014.png` (vier Ordo und Nachfolge
+  1244, HTML-Quelle `work/genealogie/ordo-014.html`).
+- Higgsfield-Sunburst-Test (`gpt_image_2_5`, 1k/xhigh, 2 Credits):
+  `work/genealogie/higgsfield-sunburst-test.jpg` – optisch stark, Namen
+  lesbar, aber Topologie falsch (Alan Qo'a und die fuenf Staemme haengen unten
+  an Boerte Cino). Nur Stiltest, keine Faktentafel.
+- Einbindung getestet: als Szenenbilder (`assets/scene/001|014/scene-001.png`)
+  erscheinen die Tafeln im EPUB (ch003/ch014); im Paperback sind sie bei
+  5,5x8,5 aber nur ca. 4 pt gross und damit unleserlich. Szenenbilder wieder
+  aus; fuer den Druck braucht es druckgrosse Tafeln (Anhang, Stammtafel
+  zweigeteilt) und einen erneuten Test.
 - Offen: wortgetreue Pruefung gegen die gedruckte Ausgabe; Namenskanon (Text
-  "Jaesuegai" vs. names.yaml "Yesuegei"); Ordo-Tabelle als Grafik; Einbindung
-  beider Tafeln in EPUB/Print (noch nicht referenziert).
+  "Jaesuegai" vs. names.yaml "Yesuegei"); druckgrosse Tafeln + Anhang;
+  Einbindung in EPUB/Print (noch nicht referenziert).
 
 Checkliste (nur falls Weg B spaeter kommt; `--style` immer explizit):
 

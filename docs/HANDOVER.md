@@ -83,8 +83,15 @@ Abschnitte 40–52 liegen als Arbeitsübersetzung
 zweite Tafel `assets/genealogie/nebenlinien-001.png` vor (Jadaran, Ba'arin,
 Qabul-Haus mit sieben Söhnen, Bartans vier Söhnen, Qutula; Ambaghai
 gestrichelt = unsichere Relation). Offen: wortgetreue Prüfung gegen die
-Druckausgabe, Namenskanon, Ordo-Tabelle als Grafik, Einbindung beider Tafeln in
-EPUB/Print.
+Druckausgabe und Namenskanon.
+Dritte Tafel `assets/genealogie/ordo-014.png` (vier Ordo + Nachfolge 1244).
+Higgsfield-Sunburst-Test (`gpt_image_2_5`, 1k/xhigh, 2 Credits,
+`work/genealogie/higgsfield-sunburst-test.jpg`): optisch stark, Namen lesbar,
+aber Topologie falsch (Alan Qo'a und die fünf Stämme unten an Börte Čino) –
+nur Stiltest. Einbindung als Szenenbilder getestet: im EPUB sichtbar, im
+Paperback bei 5,5×8,5 nur ca. 4 pt groß und damit unleserlich; Szenenbilder
+wieder aus. Für den Druck braucht es druckgroße Tafeln (Anhang, Stammtafel
+zweigeteilt).
 Offen: Druckcover + Wrap; optional Weg B (Edition in `stil-04-original-geheim`,
 284 Szenen; 006/09 ist eine reine Titelzeile und wuerde dort als
 `empty_or_short`/`degeneration` blockieren).

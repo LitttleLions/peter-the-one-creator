@@ -733,11 +733,13 @@ Bundsteg).
   und würde als `empty_or_short`/`degeneration` blockieren. Vor jedem B-Lauf
   `--style stil-04-original-geheim` explizit mitgeben, sonst plant der Default
   `stil-01-original` Kapitel 006 mit. Genealogie: Datenblätter
-  `work/genealogie/`, zwei deterministische Tafeln
-  `assets/genealogie/stammtafel-001.png` (Hauptlinie) und
+  `work/genealogie/`, drei deterministische Tafeln
+  `assets/genealogie/stammtafel-001.png` (Hauptlinie),
   `nebenlinien-001.png` (Nebenlinien 40-52, Arbeitsübersetzung
-  `quelle-001-40-52-de.md`); das Higgsfield-Testbild ist nur Entwurf
-  (Logikfehler), 4k/max wären 12 Credits.
+  `quelle-001-40-52-de.md`) und `ordo-014.png` (Ordo + Nachfolge). Die
+  Higgsfield-Testbilder (4k/high und Sunburst 1k/xhigh) sind nur Stiltests
+  (Topologie-Fehler); die Einbindung als Szenenbilder ist im EPUB möglich, im
+  Paperback bei 5,5×8,5 aber zu klein – druckgroße Tafeln/Anhang stehen aus.
   Übergabeprompt:
   `docs/uebergabe-prompt.md` (Prompt E).
 - **Die dritte Chronik** (auf `main`): DE-Original, Timo Verita, Untertitel
